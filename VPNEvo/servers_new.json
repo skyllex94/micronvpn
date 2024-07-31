@@ -1,0 +1,116 @@
+{
+  "status": "1",
+  "message": "Server list",
+  "quick": [
+     {
+          "name": "Fast Server",
+          "flag": "usaflag.png",
+          "ip": "149.248.7.92",
+          "un": "!5AAe4jDt5tSu2G9",
+          "ps": "kN#qNcQL!ZR4RyVW",
+          "isConnected": "N",
+          "isFree": "Y"
+    },
+    {
+        "name": "Gaming",
+        "flag": "game.png",
+        "ip": "149.28.238.208",
+        "un": "!5AAe4jDt5tSu2G9",
+        "ps": "kN#qNcQL!ZR4RyVW",
+        "isConnected": "N",
+        "isFree": "N"
+    },{
+        "name": "Streaming",
+        "flag": "watch-movie.png",
+        "ip": "149.28.238.208",
+        "un": "!5AAe4jDt5tSu2G9",
+        "ps": "kN#qNcQL!ZR4RyVW",
+        "isConnected": "N",
+        "isFree": "N"
+    },{
+        "name": "United States",
+        "flag": "usaflag.png",
+        "ip": "149.248.7.92",
+        "un": "!5AAe4jDt5tSu2G9",
+        "ps": "kN#qNcQL!ZR4RyVW",
+        "isConnected": "N",
+        "isFree": "N"
+    },{
+        "name": "United Kingdom",
+        "flag": "londonflag.png",
+        "ip": "95.179.207.45",
+        "un": "!5AAe4jDt5tSu2G9",
+        "ps": "kN#qNcQL!ZR4RyVW",
+        "isConnected": "N",
+        "isFree": "N"
+    }],
+    
+    
+  "servers": [
+   {
+        "name": "Canada",
+        "flag": "canadaflag.png",
+        "ip": "216.128.183.4",
+        "un": "!5AAe4jDt5tSu2G9",
+        "ps": "kN#qNcQL!ZR4RyVW",
+        "isConnected": "N",
+        "isFree": "N"
+    },{
+        "name": "Singapore",
+        "flag": "singaporeflag.png",
+        "ip": "45.76.157.222",
+        "un": "!5AAe4jDt5tSu2G9",
+        "ps": "kN#qNcQL!ZR4RyVW",
+        "isConnected": "N",
+        "isFree": "N"
+    },{
+        "name": "France",
+        "flag": "parisFlag.png",
+        "ip": "136.244.114.91",
+        "un": "!5AAe4jDt5tSu2G9",
+        "ps": "kN#qNcQL!ZR4RyVW",
+        "isConnected": "N",
+        "isFree": "N"
+    },{
+        "name": "Germany",
+        "flag": "germanyflag.png",
+        "ip": "104.238.176.66",
+        "un": "!5AAe4jDt5tSu2G9",
+        "ps": "kN#qNcQL!ZR4RyVW",
+        "isConnected": "N",
+        "isFree": "N"
+    },{
+        "name": "Japan",
+        "flag": "japanflag.png",
+        "ip": "202.182.127.49",
+        "un": "!5AAe4jDt5tSu2G9",
+        "ps": "kN#qNcQL!ZR4RyVW",
+        "isConnected": "N",
+        "isFree": "N"
+    },{
+        "name": "Australia",
+        "flag": "australiaflag.png",
+        "ip": "149.28.172.236",
+        "un": "!5AAe4jDt5tSu2G9",
+        "ps": "kN#qNcQL!ZR4RyVW",
+        "isConnected": "N",
+        "isFree": "N"
+    },{
+        "name": "India",
+        "flag": "india.png",
+        "ip": "65.20.81.117",
+        "un": "!5AAe4jDt5tSu2G9",
+        "ps": "kN#qNcQL!ZR4RyVW",
+        "isConnected": "N",
+        "isFree": "N"
+    },{
+        "name": "Netherlands",
+        "flag": "netherlands.png",
+        "ip": "45.76.43.171",
+        "un": "!5AAe4jDt5tSu2G9",
+        "ps": "kN#qNcQL!ZR4RyVW",
+        "isConnected": "N",
+        "isFree": "N"
+    }
+  ]
+}

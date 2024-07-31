@@ -1,0 +1,6 @@
+framework module Pods_VPNEvoTests {
+  umbrella header "Pods-VPNEvoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

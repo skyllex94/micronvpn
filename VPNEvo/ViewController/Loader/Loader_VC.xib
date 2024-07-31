@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="20037" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="20020"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="Loader_VC" customModule="VPNEvo" customModuleProvider="target">
+            <connections>
+                <outlet property="NVBaseview" destination="Qey-Iv-1ZD" id="Bb6-VG-s53"/>
+                <outlet property="vw_loader" destination="iN0-l3-epB" id="1bp-eE-Dzd"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB">
+            <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view alpha="0.5" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="quE-Db-gac">
+                    <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                    <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                </view>
+                <activityIndicatorView hidden="YES" opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" animating="YES" style="large" translatesAutoresizingMaskIntoConstraints="NO" id="ex0-nl-vah">
+                    <rect key="frame" x="188.5" y="429.5" width="37" height="37"/>
+                    <color key="color" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                </activityIndicatorView>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Qey-Iv-1ZD" userLabel="NVBaseview">
+                    <rect key="frame" x="182" y="423" width="50" height="50"/>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="50" id="ZQC-mN-2e5"/>
+                        <constraint firstAttribute="width" constant="50" id="rII-DW-waf"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstItem="ex0-nl-vah" firstAttribute="centerX" secondItem="iN0-l3-epB" secondAttribute="centerX" id="883-oL-ZnB"/>
+                <constraint firstItem="quE-Db-gac" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="COb-Ti-Gty"/>
+                <constraint firstItem="quE-Db-gac" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="Lgo-8V-Wqk"/>
+                <constraint firstItem="Qey-Iv-1ZD" firstAttribute="centerY" secondItem="iN0-l3-epB" secondAttribute="centerY" id="cSl-bq-okN"/>
+                <constraint firstItem="ex0-nl-vah" firstAttribute="centerY" secondItem="iN0-l3-epB" secondAttribute="centerY" id="gHS-HD-IKk"/>
+                <constraint firstAttribute="bottom" secondItem="quE-Db-gac" secondAttribute="bottom" id="kad-pd-nG4"/>
+                <constraint firstAttribute="trailing" secondItem="quE-Db-gac" secondAttribute="trailing" id="nhG-mg-3bD"/>
+                <constraint firstItem="Qey-Iv-1ZD" firstAttribute="centerX" secondItem="iN0-l3-epB" secondAttribute="centerX" id="r2p-79-6Nr"/>
+            </constraints>
+            <point key="canvasLocation" x="131.8840579710145" y="85.714285714285708"/>
+        </view>
+    </objects>
+</document>

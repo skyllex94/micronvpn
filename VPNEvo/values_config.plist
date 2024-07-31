@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IAP1_button</key>
+	<string>Try For Free</string>
+	<key>IAP2_button</key>
+	<string>Continue</string>
+	<key>IAP_text</key>
+	<string>3 days free, then</string>
+	<key>IAP_text_size</key>
+	<string>14</string>
+	<key>show_weekly_price</key>
+	<string>N</string>
+	<key>show_iap_prices</key>
+	<string>N</string>
+	<key>dynamic_price</key>
+	<string>Y</string>
+	<key>iap2_middle_text</key>
+	<string>TRY FOR FREE</string>
+	<key>is_privacy</key>
+	<string>N</string>
+	<key>show_privacy_terms</key>
+	<string>N</string>
+	<key>currentPlan</key>
+	<string>com.titanvpn.weekly</string>
+	<key>doublePayment</key>
+	<string>Y</string>
+	<key>direct_purchase</key>
+	<string>N</string>
+	<key>currentPlan_connectButton</key>
+	<string>com.titanvpn.3month</string>
+	<key>skip_startup_iap</key>
+	<string>N</string>
+	<key>show_addconfig_popup</key>
+	<string>Y</string>
+	<key>sideMenu_singleIAP</key>
+	<string>N</string>
+	<key>show_virus</key>
+	<string>Y</string>
+	<key>is_app_free</key>
+	<string>N</string>
+	<key>sale_bottom_text</key>
+	<string></string>
+	<key>show_sale</key>
+	<string>Y</string>
+	<key>iap2_weekly_price_dynamic</key>
+	<string>N</string>
+</dict>
+</plist>

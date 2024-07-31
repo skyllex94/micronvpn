@@ -1,0 +1,211 @@
+/*
+  Localizable.strings
+  VPNEvo
+
+  Created by Devang on 14/03/22.
+  
+*/
+
+
+"Terms of Use" = "Gebruiksvoorwaarden";
+"Agree & Continue" = "Akkoord & doorgaan";
+
+"Continue" = "Doorgaan";
+
+"Connect" = "Aansluiten";
+"Disconnect" = "verbinding verbreken";
+
+"point1" = "Toegang tot wereldwijde inhoud";
+"point1desc" = "Krijg toegang tot alle sites en services over de hele wereld door uw virtuele locatie te wijzigen.";
+
+"point2" = "Privé surfen op het web";
+"point2desc" = "Verberg uw IP-adres en versleutel al uw webverkeer met versleuteling van militaire kwaliteit om uw online privacy te beschermen";
+
+"point3" = "Snelle en stabiele verbinding";
+"point3desc" = "Browse, game of stream van Netflix, Youtube, Hulu en meer, zonder vertraging";
+
+
+"Privacy Policy" = "Privacybeleid";
+"Restore" = "Herstellen";
+
+"Continue" = "Doorgaan";
+
+//SideMenu
+
+"HOME" = "HUIS";
+"SUBSCRIPTION" = "ABONNEMENT";
+"RESTORE" = "HERSTELLEN";
+"RATE APP" = "BEOORDEEL APP";
+"CONTACT US" = "NEEM CONTACT MET ONS OP";
+"SHARE APP" = "DEEL APP";
+"PRIVACY POLICY" = "PRIVACYBELEID";
+"TERMS & CONDITIONS" = "ALGEMENE VOORWAARDEN";
+"AD BLOCKER" = "ADVERTENTIE BLOKEERDER";
+"SIGN IN" = "LOG IN";
+
+//SideMenu Banner
+"VPN Premium" = "VPN Premium";
+"Start your free 3 day trial" = "Start uw gratis proefperiode van 3 dagen";
+"Go Pro to unlock all countries" = "Go Pro om alle landen te ontgrendelen";
+
+
+//Home Screen
+"Ok" = "OK";
+
+"Warning" = "Waarschuwing";
+"VPN Profile is necessary! Click Start and enter Touch/Face ID to start." = "VPN-profiel is noodzakelijk! Klik op Start en voer Touch/Face ID in om verbinding te maken.";
+"You have to add VPN Configuration to start." = "U moet VPN-configuratie toevoegen om te beginnen.";
+"Start" = "Begin";
+"Cancel" = "Annuleren";
+"Add" = "Toevoegen";
+
+"Connecting" = "Verbinden...";
+"Disconnected" = "Verbinding verbroken";
+"Connected" = "Verbonden";
+"Tap to Connect" = "Tik om verbinding te maken";
+"Tap to Disconnect" = "Tik om de verbinding te verbreken";
+
+"Quick Access" = "Snelle toegang";
+"All Servers" = "Alle servers";
+"Country List" = "Landenlijst";
+
+// rate us
+
+"We work 24/7 to give the best, most reliable VPN" = "We werken 24/7 om de beste, meest betrouwbare VPN te geven";
+"Please take a moment to rate our app and tell us how we’re doing" = "Neem even de tijd om onze app te beoordelen en ons te vertellen hoe het met ons gaat";
+
+"rate_the_app" = "Beoordeel de app";
+"maybelater" = "Misschien later";
+
+// scan
+
+"System Scanning" = "Systeemscannen";
+"Granted permissions" = "Toegekende rechten";
+"Applications folders" = "Applicatiemappen";
+"Junk" = "rommel";
+"Malware Check" = "Malwarecontrole";
+"Anonymous request" = "Anoniem verzoek";
+"Safari history" = "Safari-geschiedenis";
+"Personal info" = "Persoonlijke informatie";
+
+//Cleaning ProcessVC
+"Protecting iPhone" = "iPhone beschermen";
+"Don't remove the app" = "Verwijder de app niet";
+"The process will continue Automatically. You can close the app to proceed" = "Het proces gaat automatisch verder. U kunt de app sluiten om door te gaan";
+"Do not remove the app. Your iPhone is still unprotected" = "Verwijder de app niet. Je iPhone is nog steeds niet beschermd";
+
+//CleanSuccess VC
+"Success!" = "Optimalisatie voltooid";
+"YOUR PHONE IS PROTECTED" = "Uw apparaat is beschermd en is beschermd tegen online bedreigingen";
+"Do not remove the app. The next analysis will proceed automaticallv in" = "Verwijder de app niet";
+"Days" = "dagen";
+"Minutes" = "Minuten";
+"Seconds" = "seconden";
+
+//SaleScreen
+"You Have Unlocked Our Secret Offer!" = "Je hebt ons geheime aanbod ontgrendeld!";
+"Hurry! We can't hold this offer for too long:" = "Haast je! We kunnen deze aanbieding niet te lang vasthouden:";
+"Get This Secret Offer" = "Krijg deze geheime aanbieding";
+"Limited Offer" = "Beperkt aanbod";
+"Unlock all Features For Half Price" = "Ontgrendel alle functies voor de halve prijs";
+
+// detected
+
+"iPhone Security" = "iPhone-beveiliging";
+"Connection is not protected" = "Verbinding is niet beveiligd";
+"Please clean iPhone immediately" = "Maak de iPhone onmiddellijk schoon";
+
+"MESSAGE" = "BERICHT";
+"now" = "nu";
+"Protection required" = "Bescherming vereist";
+
+"Personal information, passwords, messages, bank details and photos are at risk." = "Persoonlijke informatie, wachtwoorden, berichten, bankgegevens en foto's lopen gevaar.";
+"Turn on VPN" = "VPN inschakelen";
+
+// subcribe
+
+"Get Full Access" = "Krijg volledige toegang";
+"Unlimited & fast servers" = "Onbeperkte en snelle servers";
+"Worldwide locations" = "Wereldwijde locaties";
+"Secure & private connection" = "Veilige & privé verbinding";
+"Anonymous surfing" = "Anoniem surfen";
+"Ad blocker" = "Advertentie blokeerder";
+"Multi device support" = "Ondersteuning voor meerdere apparaten";
+"Kill switch" = "Dodemansknop";
+"1 Week" = "1 week";
+"1 Year • SAVE 85%" = "1 jaar • BESPAAR 85%";
+"BEST DEAL" = "BESTE DEAL";
+"Try Risk Free" = "Probeer risicovrij";
+"Subcribe now" = "Abonneer nu";
+
+//Login registration
+"Login To Your Acccount" = "Log in op uw account";
+"Enter your email" = "Voer uw e-mailadres in";
+"Enter your password" = "Voer uw wachtwoord in";
+"Sign In" = "Log in";
+"Don't have an account? Sign Up" = "Heb je geen account? Inschrijven";
+"Create Your Account" = "Maak een account aan";
+"Sign Up" = "Inschrijven";
+"Already have an account? Sign In" = "Heb je al een account? Log in";
+
+//ADblocker
+"Disabled" = "Gehandicapt";
+"Enabled" = "Ingeschakeld";
+"Adblocker is disabled \n and ads are not blocked" = "Adblocker is uitgeschakeld \n en advertenties worden niet geblokkeerd";
+"Adblocker is enabled \n and ads are blocked" = "Adblocker is ingeschakeld \n en advertenties worden geblokkeerd";
+
+
+"p_policy" = "Privacybeleid
+MicronVPN doet er alles aan om uw privacy te beschermen. We willen dat u begrijpt welke informatie we verzamelen, wat we niet verzamelen en hoe we informatie verzamelen, gebruiken en opslaan.
+
+MicronVPN verzamelt uw naam, e-mailadres en persoonlijke informatie niet. We verzamelen geen logboeken van uw activiteit, inclusief geen logboekregistratie van browsegeschiedenis, verkeersbestemming, gegevensinhoud of DNS-query's. We slaan ook nooit logs op van uw IP-adres. Ons leidende principe bij het verzamelen van gegevens is om alleen de minimale gegevens te verzamelen die nodig zijn om een ​​VPN-service van wereldklasse op grote schaal uit te voeren. We hebben onze systemen zo ontworpen dat ze geen gevoelige gegevens over onze klanten bevatten; zelfs als we gedwongen worden, kunnen we geen gegevens verstrekken die we niet bezitten. Dit privacybeleid helpt u te begrijpen hoe MicronVPN informatie verzamelt, gebruikt en opslaat.
+
+Algemene informatie
+We verzamelen drie soorten informatie:
+
+Samenvattingsstatistieken VPN-verbinding MicronVPN verzamelt minimale informatie over het gebruik om een ​​uitstekende klantenondersteuning en servicekwaliteit te behouden. In het onderstaande gedeelte wordt in detail beschreven welke specifieke informatie we verzamelen. Deze statistieken bevatten nooit iets over wat de gebruiker met de VPN heeft gedaan: geen gegevens over de inhoud of bestemmingen van VPN-verkeer, geen DNS-query's en geen IP-adressen.
+Apple App Store-aankoopinformatie We bieden in-app-aankopen voor onze premium-service en we bewaren de aankoopinformatie die we van Apple hebben ontvangen om onze premium-service van wereldklasse te kunnen leveren.
+In-app Analytics-gegevens We verzamelen gegevens zoals op welke pagina's de gebruiker in de app klikt en het besturingssysteem van de gebruiker.
+Overig We verzamelen de unieke id van onze klant, de sessie-id, het gebruikerstype (premium of gratis), het IP-adres van de server waarmee de gebruiker verbinding maakt, het tellen van invoer- en uitvoergegevens (alleen tellen niet opnemen - met een interval van 5 minuten), tijdstempel van het tellen van gegevens, oorzaak van beëindiging van de verbinding, intern ip-adres van de server waarmee de gebruiker verbinding maakt, het interne ip-adres van de verbinding van de gebruiker dat automatisch door de server wordt toegewezen en de aankoopinformatie van de gebruiker verstrekt door Apple Inc.
+Persoonlijke informatie MicronVPN verzamelt uw naam, e-mailadres en persoonlijke informatie niet. Als u een e-mail of intercomchat wilt starten voor ondersteuningsdoeleinden of andere vragen, is het aan u om uw e-mailadres op te geven. Als u dit doet, zullen we deze niet in onze database bewaren of aan derden verkopen, maar alleen voor ondersteuningsdoeleinden. Samenvattingsstatistieken VPN-verbinding We zorgen ervoor dat we nooit browsegeschiedenis, verkeersbestemming, gegevensinhoud, IP-adressen of DNS-query's loggen. Daarom: We weten niet welke gebruiker ooit een bepaalde website of dienst heeft bezocht. We kennen de set originele IP-adressen van de computer van een gebruiker niet.
+
+Mocht iemand MicronVPN proberen te dwingen gebruikersinformatie vrij te geven op basis van een van de bovenstaande, dan kunnen we deze informatie niet verstrekken omdat de gegevens niet bestaan. Om een ​​uitstekende klantenondersteuning en servicekwaliteit te behouden, verzamelt MicronVPN de volgende informatie met betrekking tot uw VPN-gebruik: Gebruikersnaam en Sessie-ID We slaan een uniek computergegenereerd gebruikers-ID op en genereren sessie-ID's onder dit gebruikers-ID. Dit gebruikers-ID zorgt voor volledige anonimiteit en zorgt tegelijkertijd voor een succesvolle verbinding. Gebruikerstype & verbinding We slaan het gebruikerstype op om onze gebruikers een premium service te kunnen bieden. We verzamelen informatie over of u met succes een VPN tot stand hebt gebracht, naar welke VPN-locatie en server-IP (maar niet uw toegewezen uitgaande IP-adres). Deze minimale informatie helpt ons bij het bieden van technische ondersteuning, zoals het identificeren van verbindingsproblemen en om MicronVPN-technici in staat te stellen netwerkproblemen te identificeren en op te lossen.
+
+Invoer en uitvoer van overgedragen gegevens (in MB) wordt geregistreerd in intervallen van 5 minuten met tijdstempels. We verzamelen informatie over de totale som van gegevensoverdracht die u verbruikt. Hoewel we onbeperkte gegevensoverdracht bieden, kunnen we het lidmaatschap beëindigen als we merken dat een enkele gebruiker meer verkeer genereert dan duizenden gebruikers samen, waardoor de kwaliteit van de service voor andere MicronVPN-gebruikers wordt aangetast. Ook wordt het interne IP-adres van de VPN-server waarmee u verbinding maakt, vastgelegd voor technische ondersteuningsdoeleinden.
+
+Overzicht:
+
+We verzamelen minimale gebruiksstatistieken om onze servicekwaliteit te behouden. We kunnen bijvoorbeeld weten dat onze klant op dinsdag verbinding had gemaakt met onze VPN-locatie in Londen en in totaal 823 MB aan gegevens had overgedragen gedurende een periode van 24 uur. Onze klant kan niet uniek worden geïdentificeerd als verantwoordelijk voor enig specifiek gedrag, omdat zijn gebruikspatroon overlapt met duizenden andere MicronVPN-klanten die op dezelfde dag ook verbinding hebben gemaakt met dezelfde locatie. We hebben onze systemen ontwikkeld om de opslag van gevoelige gegevens categorisch te elimineren. We weten misschien DAT een klant MicronVPN heeft gebruikt, maar we weten nooit HOE ze onze service hebben gebruikt. We houden vast aan onze vaste toewijding aan de privacy van onze klanten door geen gegevens te bezitten die verband houden met de online activiteiten van een gebruiker. Anonieme VPN-verbindingsdiagnose en crashrapporten (kan tuitgeschakeld door de gebruiker) We verzamelen geanonimiseerde analysegegevens die worden gebruikt voor netwerkdiagnose bij installatie van de app. We gebruiken deze gegevens in onze hulpprogramma's voor netwerkbeheer om de netwerksnelheden te helpen optimaliseren en om ons in staat te stellen problemen met betrekking tot specifieke apps, VPN-servers of ISP's te identificeren.
+
+De informatie die we ontvangen is volledig geanonimiseerd en kan niet worden herleid tot individuele MicronVPN-gebruikers (d.w.z. we slaan niet op welke gebruiker welke gegevens heeft verzonden, en slaan geen IP-adressen op). Als u ervoor kiest om deze informatie met MicronVPN te delen, verzamelen we de volgende informatie: Diagnostische informatie over hoe een VPN-verbindingspoging is mislukt. Snelheidstestgegevens Crashrapporten, ook zonder persoonlijk identificeerbare informatie. Afhankelijk van je platform worden deze naar deze derde partijen gestuurd: iOS: Crashlytics (eigendom van Google). Zie het privacybeleid van Crashlytics. iOS: Appel. Zie het privacybeleid van Apple. iOS deelt deze gegevens standaard. Je kunt dat uitschakelen in iOS-instellingen zoals hier beschreven. iOS: Firebase. Zie de Servicevoorwaarden van Firebase. iOS: Amplitude. Zie de Servicevoorwaarden van Amplitude. Bij activering van een Titan VPN-app wordt u gevraagd of u deze gegevens wilt delen. Jurisdictie en toepasselijk recht De kernmissie van Titan VPN is om uw informatie privé te houden.
+
+In dienst van deze missie bevindt het hoofdkantoor en de geregistreerde vestigingsplaats van MicronVPN zich in de Republiek Estland (Estland), dat strengere wetten heeft met betrekking tot het vrijgeven van informatie dan de meeste landen. Als we een geldig gerechtelijk bevel krijgen van het Hooggerechtshof van Estland, is het belangrijk op te merken dat MicronVPN geen IP-adressen, browsegeschiedenis, verkeersgegevens of DNS-query's verzamelt die kunnen worden gebruikt om een ​​specifieke gebruiker te identificeren. Opslaan van informatie met betrekking tot e-mail, livechat en feedbackformulieren MicronVPN houdt gegevens bij van alle correspondentie, vragen, klachten of complimenten die u via onze site of diensten aan ons indient, samen met onze reactie.
+
+Afhankelijk van hoe u contact opneemt met MicronVPN, kunnen we uw e-mailadres en eventuele aanvullende informatie die u ons verstrekt, verzamelen. Met volledige correspondentiegegevens kunnen onze medewerkers de best mogelijke klantondersteuningservaring bieden. We gebruiken een platform van derden voor ondersteuningscorrespondentie: intercom voor e-mails, ondersteuningstickets en livechat. Wanneer u met ons correspondeert via deze platforms, worden uw correspondentiegegevens, inclusief uw naam en e-mailadres, opgeslagen in hun systemen. Beide platforms maken gebruik van moderne beveiligingspraktijken en HTTPS-codering. Beveiligingsmaatregelen om uw informatie te beschermen MicronVPN gebruikt de beste fysieke, procedurele en technische beveiliging in zijn klasse met betrekking tot onze kantoren en informatieopslagfaciliteiten om verlies, misbruik, ongeoorloofde toegang, openbaarmaking of wijziging van informatie te voorkomen. Toegang tot gebruikersinformatie is beperkt tot personeel dat dergelijke toegang nodig heeft om hun taken uit te voeren. Hoewel we geloven dat deze systemen robuust zijn, is het belangrijk om te begrijpen dat geen enkele gegevensbeveiligingsmaatregelen ter wereld 100% bescherming kunnen bieden. Servers zijn ondergebracht in datacenters met strenge beveiligingspraktijken. Geen van deze datacenters vereist dat we verkeersgegevens of persoonlijke informatie met betrekking tot uw gebruik van VPN-services verzamelen of opslaan. Als een datacenter ons zou vragen om dergelijke gegevens te loggen, zouden we de activiteiten met dat datacenter onmiddellijk stopzetten en alternatieve opties zoeken. Zelfs als een overheid een van onze VPN-servers fysiek in beslag zou nemen en erin zou slagen hun schijfversleuteling te breken, zouden er geen logboeken of informatie zijn die een individuele gebruiker zou binden aan een bepaalde gebeurtenis, website of gedrag.
+
+Koekjes
+
+MicronVPN verzamelt geen cookies. Toestemming en leeftijdsbeperkingen Door de site, inhoud, apps, software of services te gebruiken, stemt u ermee in dat uw informatie wordt behandeld zoals beschreven in onze servicevoorwaarden en ons privacybeleid. De Diensten zijn bedoeld voor volwassenen van 18 jaar en ouder. Als u denkt dat uw kind informatie aan ons heeft verstrekt, laat het ons dan onmiddellijk weten. Wijzigingen in het privacybeleid We kunnen ons privacybeleid van tijd tot tijd wijzigen, zonder voorafgaande kennisgeving aan u, in overeenstemming met de toepasselijke privacywetten en -principes. Als u de Site of Services blijft gebruiken, gaat u akkoord met ons Privacybeleid. Contact opnemen met MicronVPN Als u vragen heeft over ons privacybeleid en hoe wij omgaan met uw informatie, neem dan gerust contact met ons op via zionstudiosapps@gmail.com";
+
+"t_terms" = "Dit Servicevoorwaardendocument (de Voorwaarden) schetst de gebruiksvoorwaarden van de VPN-services (de Services of Service) geleverd door (MicronVPN). Deze voorwaarden zijn ook van toepassing op het gebruik van en de toegang tot de inhoud van MicronVPN (de inhoud), waaronder de MicronVPN-website (de site), applicaties (de apps) en alle software die door MicronVPN wordt geleverd (de software).
+
+Door akkoord te gaan met deze Voorwaarden, gaat u ook akkoord met het Privacybeleid (Privacybeleid), dat u hier kunt lezen.
+
+Aanvaarding Door toegang te krijgen tot de inhoud of diensten, stemt u ermee in namens uzelf of degenen die u vertegenwoordigt (u) om te voldoen aan en wettelijk gebonden te zijn aan deze voorwaarden in hun geheel. Deze Voorwaarden vormen een juridisch bindende overeenkomst (de Overeenkomst) tussen u en MicronVPN. Als u niet akkoord gaat met een deel van de Voorwaarden, mag u onze Diensten niet gebruiken. Door een account aan te maken voor het gebruik van onze Diensten, verklaart u dat u ten minste achttien (18) jaar oud bent of dat u een geldige rechtspersoon bent, en dat de door u verstrekte registratie-informatie juist en volledig is.
+Wijziging MicronVPN kan de Voorwaarden van tijd tot tijd zonder voorafgaande kennisgeving bijwerken. Als u MicronVPN-services, -inhoud, -site, -apps of -software blijft gebruiken nadat deze wijzigingen van kracht zijn geworden, gaat u akkoord met de herziene voorwaarden. De huidige versie van de Voorwaarden is beschikbaar op de Site. U begrijpt en stemt ermee in dat het uw plicht is om deze Voorwaarden van tijd tot tijd te herzien om op de hoogte te blijven van de huidige regels en verplichtingen. Kennisgeving over belangrijke wijzigingen in de Voorwaarden zal aan abonnees worden verstrekt via een e-mailbericht of update van de Site. Uw gebruik van de inhoud of services na de wijzigingen in deze voorwaarden houdt in dat u akkoord gaat met de gewijzigde voorwaarden.
+Privacybeleid MicronVPN zet zich in voor uw privacy en verzamelt of logt geen browsegeschiedenis, verkeersbestemming, gegevensinhoud of DNS-query's van abonnees die zijn verbonden met onze VPN. We verzamelen alleen informatie die nodig is voor de juiste levering van de Site en Services. Omwille van de duidelijkheid en transparantie hebben we alle informatie met betrekking tot gegevensverzameling in een apart document geplaatst dat bekend staat als het Privacybeleid, dat beschikbaar is op de Site. Lees het privacybeleid in zijn geheel door om een ​​duidelijk beeld te krijgen van hoe wij omgaan met uw gevoelige gegevens.
+Abonnementen MicronVPN Services zijn voor u beschikbaar na registratie op de Site. Door u te abonneren op de Services, stemt u ermee in abonnee (Abonnee) te worden voor de periode die u hebt gekozen. Een volledige lijst met abonnementen en prijzen is beschikbaar op de applicatie. MicronVPN behoudt zich het recht voor om abonnementskosten te wijzigen of nieuwe tarieven in te voeren op elk moment na een redelijke voorafgaande kennisgeving op de site of verzonden via e-mail. Eventuele prijswijzigingen hebben geen invloed op de huidige abonnementsperiode van de Abonnee en worden van kracht bij verlenging van het abonnement. Indien ondersteund door uw betalingsmethode, worden abonnementen standaard automatisch verlengd aan het einde van de factureringsperiode. De verlengingstermijn is standaard voor dezelfde duur als de factureringstermijn voor het oorspronkelijke abonnement. De abonnementskosten worden automatisch in rekening gebracht via de betaalmethode die je het laatst hebt gekozen. Als u de automatische verlenging wilt stopzetten, kunt u zich aanmelden bij de site en de automatische verlenging uitschakelen. Automatische verlenging is standaard ingeschakeld wanneer u een betaalmethode gebruikt die automatische verlenging ondersteunt (zoals een creditcard of Paypal), en uitgeschakeld wanneer u een betaalmethode gebruikt die automatische verlenging niet ondersteunt (zoals bitcoin ). Elk betaald abonnement geeft je er een
+licentie voor gebruik op drie (3) verschillende apparaten tegelijk. Als u de Services op meer dan drie apparaten tegelijk wilt gebruiken, kunt u ofwel (i) MicronVPN op uw router gebruiken
+extra abonnementen kopen, of
+extra licenties kopen via de optie 'volumelicenties'. Neem voor meer informatie over het 'volumelicentieprogramma' contact op met de ondersteuning.
+Restitutiebeleid Restituties worden afgehandeld door de Apple App Store.
+Beleid voor acceptabel gebruik MicronVPN-services zijn toegankelijk vanuit de hele wereld, dus het is uw verantwoordelijkheid om te beoordelen of het gebruik van de site, apps, software of services in overeenstemming is met lokale wet- en regelgeving. Telkens wanneer u de Site, Apps, Software of Services gebruikt, dient u zich te houden aan deze Voorwaarden en de toepasselijke wetten, voorschriften en beleidslijnen. U begrijpt dat het uw verantwoordelijkheid is om uw Titan VPN-accountgegevens vertrouwelijk te houden. U bent verantwoordelijk voor alle activiteiten onder uw account. Als u ooit ontdekt of vermoedt dat iemand zonder uw toestemming toegang tot uw account heeft gehad, wordt u geadviseerd ons hiervan onmiddellijk op de hoogte te stellen, zodat we uw accountgegevens kunnen intrekken en nieuwe kunnen uitgeven. MicronVPN streeft ernaar al onze abonnees de best mogelijke service te bieden. In die zin eisen we dat u onze Inhoud of Diensten niet misbruikt. Misbruik verwijst naar elk gebruik van, toegang tot of interferentie met de Inhoud of Diensten in strijd met de Voorwaarden of toepasselijke laws en regelgeving. Om te voorkomen dat de Services worden misbruikt of gebruikt om iemand schade toe te brengen, behoudt MicronVPN zich het recht voor om passende maatregelen te nemen wanneer onze Services in strijd met deze Voorwaarden en toepasselijke wetgeving worden gebruikt. U stemt ermee in dat MicronVPN uw account kan beëindigen, zonder restitutie te geven voor reeds betaalde Services, als u de Service misbruikt. Door onze Services te gebruiken, stemt u ermee in om niet: ongevraagde advertenties of inhoud (d.w.z. spam) via de Service te verzenden of te verzenden. Inhoud die illegaal, haatdragend, bedreigend, beledigend of lasterlijk is via de Service verzenden, plaatsen of verzenden; inbreuk maakt op intellectuele eigendomsrechten; schendt de privacy; of aanzet tot geweld. Upload, download, post, reproduceer of verspreid inhoud die is beschermd door auteursrecht of enig ander eigendomsrecht zonder eerst toestemming te hebben verkregen van de eigenaar van de eigendomsinhoud. Upload, download, post, reproduceer of verspreid inhoud die seksuele of expliciete afbeeldingen van minderjarigen bevat. Deelnemen aan enig gedrag dat een andere Abonnee beperkt of verhindert om de Service te gebruiken of ervan te genieten. Pogingen om toegang te krijgen tot, onderzoek te doen naar of verbinding te maken met computerapparatuur zonder de juiste autorisatie (d.w.z. enige vorm van hacken). Poging om een ​​lijst met IP-adressen die door MicronVPN in combinatie met de Service worden beheerd, samen te stellen, te gebruiken of te verspreiden. Gebruik de Service voor iets anders dan wettige doeleinden.
+Licentie Onder voorbehoud van uw naleving van deze Voorwaarden, verleent MicronVPN u een niet-exclusieve en beperkte licentie om de Software te downloaden en te gebruiken. Het is ten strengste verboden om de Software te wijzigen, te verspreiden onder onbevoegde partijen, reverse-engineering of anderszins te gebruiken op een manier die niet uitdrukkelijk is geautoriseerd door MicronVPN. Het gebruik van enig materiaal dat onderhevig is aan de intellectuele eigendomsrechten van MicronVPN is verboden, tenzij MicronVPN u uitdrukkelijke schriftelijke toestemming heeft gegeven.
+Taal en vertaling van inhoud Al onze inhoud is oorspronkelijk in het Engels geschreven. Elke vertaling van onze inhoud wordt naar best vermogen gedaan. We kunnen de nauwkeurigheid van vertaalde inhoud niet garanderen. In het geval van enige discrepantie tussen de vertaalde inhoud en de Engelse inhoud, prevaleert de Engelse inhoud.
+Websites van derden MicronVPN kan u voorzien van inhoud die toebehoort aan derden (derde partijen) of links die leiden naar websites van derden. MicronVPN is niet verantwoordelijk voor de beschikbaarheid van de inhoud die door derden wordt geleverd, aangezien deze niet onder de controle of supervisie van MicronVPN staan ​​en mogelijk andere gebruiksvoorwaarden en beleidsregels hebben. Uw toegang via onze Services tot een website, service of inhoud die door derden wordt aangeboden, duidt niet op enige relatie tussen MicronVPN en dergelijke derden.
+Disclaimers We zullen ernaar streven om onderbrekingen van de Site en Services te voorkomen. Deze worden echter geleverd zoals ze zijn en zoals ze beschikbaar zijn, en we garanderen niet, expliciet of impliciet, de juistheid van materialen of informatie die via de Site of Service worden verstrekt, of hun geschiktheid voor een bepaald doel. We wijzen uitdrukkelijk alle garanties van welke aard dan ook af, expliciet of impliciet, inclusief maar niet beperkt tot garanties van verkoopbaarheid of geschiktheid voor een bepaald doel, of niet-inbreuk. We geven geen enkele garantie dat de Services aan uw vereisten zullen voldoen, of dat deze ononderbroken, tijdig, veilig of vrij van fouten zullen zijn, of dat eventuele defecten zullen worden gecorrigeerd. U erkent dat u de Site en Services op eigen risico en discretie bezoekt. De dekking, snelheden, serverlocaties en kwaliteit van de VPN-service kunnen variëren. MicronVPN zal trachten de Dienst te allen tijde beschikbaar te stellen. De Service kan echter onderhevig zijn aan onbeschikbaarheid vanwege een aantal factoren buiten onze controle, inclusief maar niet beperkt tot noodgevallen; storingen door derden; of transmissie-, apparatuur- of netwerkproblemen of -beperkingen, interferentie of signaalsterkte; en kan worden onderbroken, geweigerd, beperkt of beperkt. Wij zijn niet verantwoordelijk voor verloren, niet afgeleverde, vertraagde of verkeerd geadresseerde gegevens, berichten of pagina's vanwege onderbrekingen of prestatieproblemen met de Dienst, communicatiediensten of netwerken. We kunnen naar eigen goeddunken gebruiks- of servicelimieten opleggen, de service opschorten, VPN-accounts beëindigen of bepaalde vormen van gebruik blokkeren om abonnees of de service te beschermen. De juistheid en tijdigheid van de ontvangen gegevens is niet gegarandeerd; vertragingen of weglatingen kunnen optreden. MicronVPN behoudt zich het recht voor om zaken te onderzoeken die wij beschouwen als schendingen van deze Voorwaarden. We kunnen, maar zijn niet verplicht, naar eigen goeddunken en zonder voorafgaande kennisgeving, op welke manier dan ook materiaal of informatie te verwijderen, blokkeren, filteren of beperken die we beschouwen als feitelijke of potentiële schendingen van de beperkingen uiteengezet in deze Voorwaarden, en alle andere activiteiten die MicronVPN of onze klanten kunnen onderwerpen aan aansprakelijkheid. MicronVPN wijst alle aansprakelijkheid af voor enig verzuim van onze kant om dergelijke materialen of informatie te voorkomeng verzonden via de Service en/of naar uw computerapparaat.
+Beperkingen van aansprakelijkheid MicronVPN is niet aansprakelijk en heeft geen enkele verantwoordelijkheid jegens een abonnee of andere persoon voor verlies of schade die u oploopt in het geval van: een storing of onderbreking van de site of dienst; elke handeling of nalatigheid van een derde partij die betrokken is bij het voor u beschikbaar stellen van de site of dienst of de daarin opgenomen gegevens; elke andere oorzaak die verband houdt met uw toegang tot of gebruik, of onvermogen tot toegang tot of gebruik van enig deel van de Site of de inhoud ervan; uw interacties op de Site of Dienst; uw niet-naleving van deze Overeenkomst; de aanschafkosten van vervangende goederen of diensten; of ongeoorloofde toegang tot of wijziging van uw transmissies of gegevens, ongeacht of de omstandigheden die tot een dergelijke oorzaak hebben geleid, binnen de controle van MicronVPN of van een leverancier die software, services of ondersteuning voor de site of service levert, kunnen zijn geweest. In geen geval zullen MicronVPN, haar partners, gelieerde ondernemingen, dochterondernemingen, leden, functionarissen of werknemers aansprakelijk zijn voor enige directe, speciale, indirecte, gevolg- of incidentele schade, of voor enig ander verlies of schade van welke aard dan ook, zelfs als ze geïnformeerd over de mogelijkheid daarvan. Het voorgaande is niet van toepassing voor zover verboden door de toepasselijke wetgeving.
+Vrijwaring U stemt ermee in om MicronVPN, zijn functionarissen, directeuren, werknemers, leden, partners, agenten en leveranciers, en hun respectieve gelieerde ondernemingen, functionarissen, directeuren, werknemers, leden, aandeelhouders, partners en agenten, te vrijwaren, te verdedigen en te vrijwaren van alle claims en uitgaven, inclusief advocaatkosten, die voortvloeien uit uw gebruik van de inhoud en service, inclusief maar niet beperkt tot uw schending van deze overeenkomst. We kunnen, naar eigen goeddunken, de exclusieve verdediging en controle op ons nemen van elke zaak die onderhevig is aan schadeloosstelling door u. Het aannemen van een dergelijke verdediging of controle door ons vormt echter geen excuus voor uw vrijwaringsverplichtingen.
+Rechtskeuze Deze overeenkomst wordt beheerst door en geïnterpreteerd in overeenstemming met de wetten van Estland, met uitzondering van de regels inzake wetsconflicten.
+Arbitrage Alle geschillen die voortvloeien uit of verband houden met deze Overeenkomst of het gebruik van de Site of Diensten zullen definitief worden beslecht volgens de Rules of Arbitration (Rules) van het International Centre for Dispute Resolution (ICDR) door één arbiter (Arbitrator) die is aangesteld in overeenstemming met met genoemde regels. De arbitrage vindt plaats in Tallinn, Estland, tenzij alle partijen anders overeenkomen door middel van een ondertekende schriftelijke overeenkomst. De arbiter moet gekwalificeerd zijn en een achtergrond hebben op het gebied van computernetwerken, inclusief maar niet beperkt tot internet. De arbiter heeft de bevoegdheid om een ​​versnelde uitwisseling van documenten toe te staan, maar elke ontdekking blijft beperkt tot documentverzoeken en ondervragingen. De arbiter heeft geen bevoegdheid of autoriteit om iets toe te voegen aan of af te doen aan deze overeenkomst, en de kosten van de arbitrage worden gelijkelijk gedragen, behalve zoals hieronder beschreven. De arbitrage zal worden uitgevoerd volgens een versneld schema. De arbitrage moet uiterlijk honderdtwintig (120) dagen na de indiening van de aanvraag tot arbitrage worden afgerond en er moet een uitspraak worden gedaan, tenzij alle partijen bij de arbitrageprocedure schriftelijk instemmen met een verlenging van de tijd of voortzetting. Behoudens andersluidende toepasselijke wetgeving, stemt u ermee in dat elke rechtsvordering die voortvloeit uit of verband houdt met het gebruik van onze Site of Diensten, binnen één (1) jaar nadat de oorzaak van de rechtsvordering is ontstaan, moet worden aangespannen, anders zal een dergelijke rechtsvordering worden permanent geblokkeerd. In het geval dat MicronVPN de verweerder is in een dergelijke arbitrage, mag de aan MicronVPN toegekende schadevergoeding niet hoger zijn dan het bedrag dat u aan MicronVPN hebt betaald voor het gebruik van de Dienst. De arbiter heeft de bevoegdheid om tijdelijke, voorlopige of gerechtelijke voorzieningen toe te kennen in een vorm die in wezen gelijk is aan die welke anders door een rechtbank zou worden verleend. De arbiter is niet bevoegd om een ​​punitieve schadevergoeding toe te kennen. De resulterende arbitrage-uitspraak kan worden afgedwongen, of er kan een voorlopige voorziening worden aangevraagd bij elke bevoegde rechtbank in Estland. Redelijke kosten (inclusief alle kosten van arbitrage) en advocaatkosten zullen worden toegekend aan de partij die de arbitrage is begonnen, in het geval die partij niet wint in de arbitrage. De partijen die onderworpen zijn aan deze arbitragebepaling zijn onder meer MicronVPN, haar functionarissen, directeuren en werknemers, en elk bedrijf of rechtspersoon die een moedermaatschappij, dochteronderneming of zusterbedrijf is van MicronVPN, of waarmee MicronVPN een contract heeft gesloten om diensten te verlenen aan abonnees via MicronVPN.
+Slotbepalingen Als enige bepaling in deze Overeenkomst ongeldig of niet-afdwingbaar wordt geacht, zal die bepaling worden geïnterpreteerd op een manier die in overeenstemming is met de toepasselijke wetgeving om de oorspronkelijke bedoeling van de bepaling weer te geven, en blijven de overige bepalingen van deze Overeenkomst volledig van kracht. Elk verzuim om te oefenen of af te dwingenElk recht of bepaling van deze overeenkomst vormt geen verklaring van afstand van een dergelijk recht of bepaling.";

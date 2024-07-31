@@ -1,0 +1,214 @@
+/*
+  Localizable.strings
+  VPNEvo
+
+  Created by Devang on 14/03/22.
+  
+*/
+
+
+"Terms of Use" = "Kullanım Şartları";
+"Agree & Continue" = "Kabul Et ve Devam Et";
+
+"Continue" = "Devam et";
+
+"Connect" = "Bağlamak";
+"Disconnect" = "bağlantıyı kes";
+
+"point1" = "Küresel İçeriğe Erişin";
+"point1desc" = "Sanal konumunuzu değiştirerek dünyanın her yerindeki tüm sitelere ve hizmetlere erişin.";
+
+"point2" = "Web'de Özel Olarak Gezin";
+"point2desc" = "Çevrimiçi gizliliğinizi korumak için IP adresinizi gizleyin ve tüm web trafiğinizi askeri düzeyde şifreleme ile şifreleyin";
+
+"point3" = "Hızlı ve Kararlı Bağlantı";
+"point3desc" = "Netflix, Youtube, Hulu ve daha fazlasında gecikme olmadan göz atın, oyun oynayın veya akış yapın";
+
+
+"Privacy Policy" = "Gizlilik Politikası";
+"Restore" = "Eski haline getirmek";
+
+"Continue" = "Eski haline getirmek";
+
+//SideMenu
+
+"HOME" = "EV";
+"SUBSCRIPTION" = "ABONELİK";
+"RESTORE" = "ESKİ HALİNE GETİRMEK";
+"RATE APP" = "UYGULAMAYI ORAN";
+"CONTACT US" = "BİZE ULAŞIN";
+"SHARE APP" = "UYGULAMAYI PAYLAŞ";
+"PRIVACY POLICY" = "GİZLİLİK POLİTİKASI";
+"TERMS & CONDITIONS" = "ŞARTLAR VE KOŞULLAR";
+"AD BLOCKER" = "REKLAM ENGELLEYİCİ";
+"SIGN IN" = "KAYIT OLMAK";
+
+//SideMenu Banner
+"VPN Premium" = "VPN Premium";
+"Start your free 3 day trial" = "3 günlük ücretsiz denemenizi başlatın";
+"Go Pro to unlock all countries" = "Tüm ülkelerin kilidini açmak için Pro'ya gidin";
+
+
+//Home Screen
+"Ok" = "Tamam";
+
+"Warning" = "Uyarı";
+"VPN Profile is necessary! Click Start and enter Touch/Face ID to start." = "VPN Profili gereklidir! Bağlanmak için Başlat'a tıklayın ve Dokunmatik/Yüz Kimliği'ni girin.";
+"You have to add VPN Configuration to start." = "Başlamak için VPN Yapılandırması eklemelisiniz.";
+"Start" = "Başlama";
+"Cancel" = "İptal";
+"Add" = "Ekle";
+
+"Connecting" = "Bağlanıyor...";
+"Disconnected" = "Bağlantı kesildi";
+"Connected" = "bağlı";
+"Tap to Connect" = "Bağlanmak için dokunun";
+"Tap to Disconnect" = "Bağlantıyı Kesmek için dokunun";
+
+"Quick Access" = "Hızlı erişim";
+"All Servers" = "Tüm Sunucular";
+"Country List" = "Ülke Listesi";
+
+// rate us
+
+"We work 24/7 to give the best, most reliable VPN" = "En iyi, en güvenilir VPN'i sunmak için 7/24 çalışıyoruz";
+"Please take a moment to rate our app and tell us how we’re doing" = "Lütfen uygulamamızı derecelendirmek için bir dakikanızı ayırın ve bize nasıl yaptığımızı söyleyin";
+
+"rate_the_app" = "Uygulamayı oyla";
+"maybelater" = "Belki sonra";
+
+// scan
+
+"System Scanning" = "Sistem Tarama";
+"Granted permissions" = "Verilen izinler";
+"Applications folders" = "Uygulamalar klasörleri";
+"Junk" = "Hurda";
+"Malware Check" = "Kötü Amaçlı Yazılım Kontrolü";
+"Anonymous request" = "anonim istek";
+"Safari history" = "Safari geçmişi";
+"Personal info" = "Kişisel bilgi";
+
+//Cleaning ProcessVC
+"Protecting iPhone" = "iPhone'u Korumak";
+"Don't remove the app" = "Uygulamayı kaldırmayın";
+"The process will continue Automatically. You can close the app to proceed" = "İşlem Otomatik Olarak Devam Edecektir. Devam etmek için uygulamayı kapatabilirsiniz";
+"Do not remove the app. Your iPhone is still unprotected" = "Uygulamayı kaldırmayın. iPhone'unuz hala korumasız";
+
+//CleanSuccess VC
+"Success!" = "Optimizasyon Tamamlandı";
+"YOUR PHONE IS PROTECTED" = "Cihazınız korunur ve çevrimiçi tehditlere karşı korunur";
+"Do not remove the app. The next analysis will proceed automaticallv in" = "Uygulamayı kaldırmayın";
+"Days" = "Günler";
+"Minutes" = "dakika";
+"Seconds" = "saniye";
+
+//SaleScreen
+"You Have Unlocked Our Secret Offer!" = "Gizli Teklifimizin Kilidini Açtınız!";
+"Hurry! We can't hold this offer for too long:" = "Acele etmek! Bu teklifi çok uzun süre tutamayız:";
+"Get This Secret Offer" = "Bu Gizli Teklifi Alın";
+"Limited Offer" = "Sınırlı teklif";
+"Unlock all Features For Half Price" = "Yarı Fiyata Tüm Özelliklerin Kilidini Açın";
+
+// detected
+
+"iPhone Security" = "iPhone Güvenliği";
+"Connection is not protected" = "Bağlantı korumalı değil";
+"Please clean iPhone immediately" = "Lütfen iPhone'u hemen temizleyin";
+
+"MESSAGE" = "İLETİ";
+"now" = "şimdi";
+"Protection required" = "Koruma gerekli";
+
+"Personal information, passwords, messages, bank details and photos are at risk." = "Kişisel bilgiler, şifreler, mesajlar, banka bilgileri ve fotoğraflar risk altındadır.";
+"Turn on VPN" = "VPN'i aç";
+
+// subcribe
+
+"Get Full Access" = "Tam Erişim Alın";
+"Unlimited & fast servers" = "Sınırsız ve hızlı sunucular";
+"Worldwide locations" = "Dünya çapında konumlar";
+"Secure & private connection" = "Güvenli ve özel bağlantı";
+"Anonymous surfing" = "anonim sörf";
+"Ad blocker" = "Reklam engelleyici";
+"Multi device support" = "Çoklu cihaz desteği";
+"Kill switch" = "Kapatma anahtarı";
+"1 Week" = "1 hafta";
+"1 Year • SAVE 85%" = "1 Yıl • %85 TASARRUF";
+"BEST DEAL" = "EN İYİ ANLAŞMA";
+"Try Risk Free" = "Risksiz Deneyin";
+"Subcribe now" = "Şimdi abone ol";
+
+//Login registration
+"Login To Your Acccount" = "Hesabınıza Giriş Yapın";
+"Enter your email" = "E-postanızı giriniz";
+"Enter your password" = "Şifrenizi girin";
+"Sign In" = "Kayıt olmak";
+"Don't have an account? Sign Up" = "Hesabınız yok mu? Üye olmak";
+"Create Your Account" = "Hesabını oluştur";
+"Sign Up" = "Üye olmak";
+"Already have an account? Sign In" = "Zaten hesabınız var mı? Kayıt olmak";
+
+
+//ADblocker
+"Disabled" = "Engelli";
+"Enabled" = "Etkinleştirilmiş";
+"Adblocker is disabled \n and ads are not blocked" = "Reklam engelleyici devre dışı \n ve reklamlar engellenmiyor";
+"Adblocker is enabled \n and ads are blocked" = "Reklam engelleyici etkin \n ve reklamlar engellendi";
+
+
+
+
+"p_policy" = "Gizlilik Politikası
+MicronVPN, gizliliğinizi korumaya kendini adamıştır. Hangi bilgileri topladığımızı, neleri toplamadığımızı ve bilgileri nasıl topladığımızı, kullandığımızı ve sakladığımızı anlamanızı istiyoruz.
+
+MicronVPN adınızı, e-posta adresinizi ve kişisel bilgilerinizi toplamaz. Gezinme geçmişi, trafik hedefi, veri içeriği veya DNS sorguları gibi etkinliklerinizin günlüklerini toplamıyoruz. Ayrıca IP adresinizin günlüklerini de asla saklamayız. Veri toplamaya yönelik yol gösterici ilkemiz, yalnızca birinci sınıf bir VPN hizmetini geniş ölçekte çalıştırmak için gereken minimum veriyi toplamaktır. Sistemlerimizi, müşterilerimiz hakkında hassas veriler barındırmayacak şekilde tasarladık; mecbur kalsak bile sahip olmadığımız verileri sağlayamayız. Bu gizlilik politikası, MicronVPN'nun bilgileri nasıl topladığını, kullandığını ve sakladığını anlamanıza yardımcı olacaktır.
+
+Genel bilgi
+Üç tür bilgi topluyoruz:
+
+VPN bağlantı özeti istatistikleri MicronVPN, mükemmel müşteri desteği ve hizmet kalitesini sürdürmek için kullanım hakkında minimum bilgi toplar. Aşağıdaki bölüm, hangi özel bilgileri topladığımızı ayrıntılı olarak açıklamaktadır. Bu istatistikler hiçbir zaman kullanıcının VPN ile ne yaptığı hakkında hiçbir şey içermez: VPN trafiğinin içeriği veya hedefleri hakkında hiçbir veri, DNS sorgusu ve IP adresi yoktur.
+Apple App Store Satın Alma Bilgileri Premium hizmetimiz için uygulama içi satın alımlar sunuyoruz ve birinci sınıf premium hizmetimizin sağlanması için Apple'dan alınan satın alma bilgilerini saklıyoruz.
+Uygulama İçi Analitik Verileri Kullanıcının uygulamada hangi sayfaları tıkladığı ve kullanıcının işletim sistemi gibi verileri topluyoruz.
+Diğer Müşterimizin benzersiz kimliğini, oturum kimliğini, kullanıcı türünü (premium veya ücretsiz), kullanıcının bağlandığı sunucu ipini, giriş ve çıkış veri sayımını (yalnızca kayıt değil – 5 dakikalık aralıklarla), veri sayımının zaman damgasını, bağlantı sonlandırma nedeni, kullanıcının bağlandığı sunucunun dahili ip adresi, sunucu tarafından otomatik olarak atanan kullanıcının bağlantısının dahili ip adresi ve kullanıcının Apple Inc. tarafından sağlanan satın alma bilgileri.
+Kişisel Bilgiler MicronVPN adınızı, e-posta adresinizi ve kişisel bilgilerinizi toplamaz. Destek amacıyla veya diğer sorgular için bir e-posta veya Intercom sohbeti başlatmak isterseniz, e-postanızı sağlamak size kalmıştır. Bunu yaparsanız, onu veri tabanımızda tutmayacağız veya üçüncü taraflara satmayacağız, yalnızca destek amacıyla kullanılacaktır. VPN Bağlantı Özeti İstatistikleri Göz atma geçmişini, trafik hedefini, veri içeriğini, IP adreslerini veya DNS sorgularını asla kaydetmememizi sağlıyoruz. Bu nedenle: Hangi kullanıcının belirli bir web sitesine veya hizmete eriştiğini bilmiyoruz. Bir kullanıcının bilgisayarının orijinal IP adresleri kümesini bilmiyoruz.
+
+Herhangi biri yukarıdakilerden herhangi birine dayanarak MicronVPN'yu kullanıcı bilgilerini yayınlamaya zorlamaya çalışırsa, veriler mevcut olmadığı için bu bilgileri sağlayamayız. Mükemmel müşteri desteğini ve hizmet kalitesini sürdürmek için MicronVPN, VPN kullanımınızla ilgili aşağıdaki bilgileri toplar: Kullanıcı Adı ve Oturum Kimliği Bilgisayar tarafından oluşturulan benzersiz bir kullanıcı kimliği saklarız ve bu kullanıcı kimliği altında oturum kimlikleri oluştururuz. Bu kullanıcı kimliği, başarılı bir bağlantı sağlarken tam bir anonimlik sağlar. Kullanıcı Tipi ve Bağlantı Kullanıcı tipini, kullanıcılarımıza birinci sınıf bir hizmet sağlamak için saklarız. Başarıyla bir VPN kurup kurmadığınız, hangi VPN konumuna ve sunucu IP'sine (ancak atanan giden IP adresiniz değil) ilişkin bilgileri topluyoruz. Bu minimum bilgi, bağlantı sorunlarını belirleme gibi teknik destek sağlamamıza ve MicronVPN mühendislerinin ağ sorunlarını belirleyip düzeltmesine olanak sağlamamıza yardımcı olur.
+
+Aktarılan verilerin (MB cinsinden) giriş ve çıkışları 5 dakikalık aralıklarla zaman damgaları ile kaydedilir. Kullandığınız veri aktarımının toplam tutarı hakkında bilgi topluyoruz. Sınırsız veri aktarımı sağlamamıza rağmen, tek bir kullanıcının binlerce kullanıcının toplamından daha fazla trafiği zorladığını ve dolayısıyla diğer MicronVPN kullanıcılarının hizmet kalitesini etkilediğini fark edersek üyeliği sonlandırabiliriz. Ayrıca teknik destek amacıyla bağlandığınız VPN sunucusunun dahili IP adresi de günlüğe kaydedilir.
+
+Özet:
+
+Hizmet kalitemizi korumak için minimum kullanım istatistikleri topluyoruz. Örneğin, müşterimizin Salı günü Londra VPN konumumuza bağlandığını ve 24 saatlik bir süre içinde toplam 823 MB veri aktardığını biliyor olabiliriz. Müşterimiz, herhangi bir belirli davranıştan benzersiz bir şekilde sorumlu olarak tanımlanamaz çünkü onun kullanım modeli, aynı gün aynı konuma bağlanan diğer binlerce MicronVPN müşterisiyle örtüşüyor. Sistemlerimizi, hassas verilerin depolanmasını kategorik olarak ortadan kaldıracak şekilde tasarladık. Bir müşterinin MicronVPN kullandığını biliyor olabiliriz, ancak hizmetimizi NASIL kullandıklarını asla bilemeyiz. Bir kullanıcının çevrimiçi faaliyetleriyle ilgili herhangi bir veriye sahip olmayarak müşterilerimizin gizliliğine olan kesin taahhüdümüzün arkasındayız. Anonim VPN Bağlantı Teşhisleri ve Kilitlenme Raporlarıkullanıcı tarafından iptal edildi) Uygulamanın yüklenmesinin ardından ağ teşhisi için kullanılan anonimleştirilmiş analiz verilerini topluyoruz. Bu verileri, ağ hızlarını optimize etmeye yardımcı olması ve belirli uygulamalar, VPN sunucuları veya ISP'lerle ilgili sorunları tanımlamamıza izin vermesi için ağ operasyon araçlarımızda kullanırız.
+
+Aldığımız bilgiler tamamen anonimleştirilir ve bireysel MicronVPN kullanıcılarına bağlanamaz (yani, hangi kullanıcının hangi verileri gönderdiğini saklamıyoruz ve IP adreslerini saklamıyoruz). Bu bilgileri MicronVPN ile paylaşmayı seçerseniz, aşağıdaki bilgileri toplarız: Bir VPN bağlantı girişiminin nasıl başarısız olduğuna ilişkin teşhis bilgileri. Hız testi verileri Çarpışma raporları, kişisel olarak tanımlanabilir herhangi bir bilgi olmadan da. Platformunuza bağlı olarak bunlar şu üçüncü taraflara gönderilir: iOS: Crashlytics (Google'a aittir). Crashlytics'in Gizlilik Politikasına bakın. iOS: Elma. Apple'ın Gizlilik Politikasına bakın. iOS bu verileri varsayılan olarak paylaşır. Bunu, burada açıklandığı gibi iOS ayarlarında devre dışı bırakabilirsiniz. iOS: Firebase. Firebase'in Hizmet Şartları'na bakın. iOS: Genişlik. Amplitude'un Hizmet Şartlarına bakın. Herhangi bir Titan VPN uygulamasının etkinleştirilmesi üzerine, bu verileri paylaşmak isteyip istemediğiniz sorulacaktır. Yargı Yetkisi ve Geçerli Yasa Titan VPN'in temel görevi, bilgilerinizi gizli tutmaktır.
+
+Bu misyonun hizmetinde, MicronVPN'nun genel merkezi ve kayıtlı iş yeri, bilgi ifşasıyla ilgili çoğu ülkeden daha katı yasalara sahip olan Estonya Cumhuriyeti'ndedir (Estonya). Estonya Yüksek Mahkemesinden geçerli bir yasal emir alırsak, MicronVPN'nun herhangi bir belirli kullanıcıyı tanımlamak için kullanılabilecek herhangi bir IP adresi, tarama geçmişi, trafik verileri veya DNS sorgusu toplamadığına dikkat etmek önemlidir. E-posta, Canlı Sohbet ve Geri Bildirim Formlarıyla İlgili Bilgilerin Saklanması MicronVPN, Sitemiz veya Hizmetlerimiz aracılığıyla bize gönderdiğiniz tüm yazışmaların, soruların, şikayetlerin veya iltifatların yanı sıra yanıtımızın kaydını tutar.
+
+MicronVPN ile nasıl iletişime geçtiğinize bağlı olarak, e-posta adresinizi ve bize sağladığınız ek bilgileri toplayabiliriz. Tam yazışma kayıtlarına sahip olmak, personelimizin mümkün olan en iyi müşteri desteği deneyimini sağlamasını sağlar. Destek yazışmaları için üçüncü taraf bir platform kullanıyoruz: E-postalar, destek biletleri ve canlı sohbet için dahili iletişim. Bu platformları kullanarak bizimle yazışma yaptığınızda, adınız ve e-posta adresiniz de dahil olmak üzere yazışma kayıtlarınız bu platformların sistemlerinde saklanmaktadır. Her iki platform da modern güvenlik uygulamalarını ve HTTPS şifrelemesini kullanır. Bilgilerinizi Korumaya Yönelik Güvenlik Önlemleri MicronVPN, bilgilerin herhangi bir şekilde kaybolmasını, kötüye kullanılmasını, yetkisiz erişimini, ifşasını veya değiştirilmesini önlemek için ofislerimiz ve bilgi depolama tesislerimizde sınıfının en iyisi fiziksel, prosedürel ve teknik güvenlik kullanır. Kullanıcı bilgilerine erişim, iş işlevlerini yerine getirmek için bu tür erişime ihtiyaç duyan personelle sınırlıdır. Bu sistemlerin sağlam olduğuna inansak da, dünyadaki hiçbir veri güvenliği önleminin %100 koruma sağlayamayacağını anlamak önemlidir. Sunucular, güçlü güvenlik uygulamalarına sahip veri merkezlerinde barındırılır. Bu veri merkezlerinin hiçbiri, VPN Hizmetlerini kullanımınızla ilgili herhangi bir trafik verisi veya kişisel bilgi toplamamızı veya saklamamızı gerektirmez. Herhangi bir veri merkezi bizden bu tür verileri kaydetmemizi isterse, söz konusu veri merkeziyle olan operasyonları derhal durdurur ve alternatif seçenekler buluruz. Bir hükümet, VPN sunucularımızdan birini fiziksel olarak ele geçirip disk şifrelemesini kırmayı başarsa bile, herhangi bir bireysel kullanıcıyı belirli bir olaya, web sitesine veya davranışa bağlayacak hiçbir günlük veya bilgi olmayacaktır.
+
+Kurabiye
+
+MicronVPN çerez toplamaz. İzin ve Yaş Kısıtlamaları Siteyi, İçeriği, Uygulamaları, Yazılımı veya Hizmetleri kullanarak, bilgilerinizin Hizmet Şartlarımızda ve Gizlilik Politikamızda açıklandığı şekilde işlenmesini kabul etmiş olursunuz. Hizmetler, 18 yaş ve üzerindeki yetişkinlere yöneliktir. Çocuğunuzun bize bilgi verdiğini düşünüyorsanız, lütfen hemen bize bildirin. Gizlilik Politikasındaki Değişiklikler Gizlilik Politikamızı, geçerli gizlilik yasaları ve ilkelerine uygun olarak, size önceden bildirimde bulunmadan zaman zaman değiştirebiliriz. Siteyi veya Hizmetleri kullanmaya devam etmeniz, Gizlilik Politikamızı kabul ettiğiniz anlamına gelir. MicronVPN ile Nasıl İletişime Geçilir Gizlilik Politikamız ve bilgilerinizi nasıl kullandığımızla ilgili herhangi bir sorunuz varsa, lütfen zionstudiosapps@gmail.com adresinden bizimle iletişime geçmekten çekinmeyin.";
+
+"t_terms" = "Bu Hizmet Şartları belgesi (Şartlar), (MicronVPN) tarafından sağlanan VPN hizmetlerinin (Hizmetler veya Hizmet) kullanım şartlarını ve koşullarını ana hatlarıyla belirtir. Bu Koşullar ayrıca MicronVPN web sitesi (Site), uygulamalar (Uygulamalar) ve MicronVPN tarafından sağlanan herhangi bir yazılım (Yazılım) dahil olmak üzere MicronVPN içeriğinin (İçerik) kullanımını ve bunlara erişimi yönetir.
+
+Bu Koşulları kabul ederek, burada okuyabileceğiniz Gizlilik Politikasını (Gizlilik Politikası) da kabul etmiş olursunuz.
+
+Kabul İçeriğe veya Hizmetlere erişerek, kendiniz veya temsil ettiğiniz kişiler (siz) adına bu Koşullara bütünüyle uymayı ve yasal olarak bağlı olmayı kabul etmiş olursunuz. Bu Koşullar, siz ve MicronVPN arasında yasal olarak bağlayıcı bir sözleşme (Sözleşme) oluşturur. Şartların herhangi bir bölümünü kabul etmiyorsanız, Hizmetlerimizi kullanamazsınız. Hizmetlerimizi kullanmak için bir hesap oluşturarak, en az on sekiz (18) yaşında olduğunuzu veya geçerli bir tüzel kişilik olduğunuzu ve sağladığınız kayıt bilgilerinin doğru ve eksiksiz olduğunu beyan edersiniz.
+Değişiklik MicronVPN, Şartları zaman zaman bildirimde bulunmaksızın güncelleyebilir. Bu değişiklikler yürürlüğe girdikten sonra MicronVPN Hizmetlerini, İçeriğini, Sitesini, Uygulamalarını veya Yazılımını kullanmaya devam ederseniz, revize edilmiş Koşulları kabul etmiş olursunuz. Şartların güncel versiyonu Sitede mevcuttur. Mevcut kurallar ve yükümlülükler hakkında bilgi sahibi olmak için bu Koşulları zaman zaman gözden geçirmenin sizin yükümlülüğünüz olduğunu anlıyor ve kabul ediyorsunuz. Şartlardaki herhangi bir temel değişiklikle ilgili bildirim, abonelere bir e-posta mesajı veya Site güncellemesi yoluyla sağlanacaktır. Bu Koşullarda yapılan değişiklikleri takiben İçeriği veya Hizmetleri kullanımınız, değişen Koşulları kabul ettiğiniz anlamına gelir.
+Gizlilik Politikası MicronVPN, gizliliğinize bağlıdır ve VPN'imize bağlı Abonelerden göz atma geçmişi, trafik hedefi, veri içeriği veya DNS sorguları toplamaz veya günlüğe kaydetmez. Yalnızca Site ve Hizmetlerin uygun şekilde sunulması için gerekli olan bilgileri topluyoruz. Netlik ve şeffaflık adına, veri toplama ile ilgili tüm bilgileri Sitede bulunan ve Gizlilik Politikası olarak bilinen ayrı bir belgeye yerleştirdik. Hassas verilerinizi nasıl işlediğimizi net bir şekilde anlamak için lütfen Gizlilik Politikasının tamamını gözden geçirin.
+Abonelikler MicronVPN Hizmetleri, Siteye kaydolduğunuzda kullanımınıza sunulur. Hizmetler'e üye olarak, seçmiş olduğunuz süre boyunca abone (Abone) olmayı kabul etmektesiniz. Abonelik planlarının ve fiyatlandırmanın tam listesi uygulamada mevcuttur. MicronVPN, Sitede yayınlanan veya e-posta yoluyla gönderilen makul bir ön bildirim üzerine herhangi bir zamanda abonelik ücretlerini değiştirme veya yeni ücretler belirleme hakkını saklı tutar. Fiyatlandırmada yapılacak herhangi bir değişiklik, Abonenin mevcut abonelik süresini etkilemeyecek ve abonelik yenileme tarihinden itibaren geçerli olacaktır. Ödeme yönteminiz tarafından desteklendiğinde planlar, fatura döneminin sonunda varsayılan olarak otomatik olarak yenilenir. Varsayılan olarak yenileme süresi, orijinal abonelik için faturalandırma dönemi ile aynı süre içindir. Abonelik ücreti, en son seçtiğiniz ödeme yönteminden otomatik olarak tahsil edilecektir. Otomatik yenilemeyi durdurmak isterseniz, Siteye giriş yapabilir ve otomatik yenilemeyi kapatabilirsiniz. Varsayılan olarak, otomatik yenilemeyi destekleyen bir ödeme yöntemi (kredi kartı veya Paypal gibi) kullandığınızda otomatik yenileme açılır ve otomatik yenilemeyi desteklemeyen bir ödeme yöntemi (bitcoin gibi) kullandığınızda kapatılır. ). Her ücretli abonelik size bir tane verir
+herhangi bir zamanda üç (3) farklı cihazda kullanım lisansı. Hizmetleri aynı anda üçten fazla cihazda kullanmak istiyorsanız, (i) yönlendiricinizde MicronVPN kullanabilirsiniz.
+ek abonelik planları satın alın veya
+toplu lisanslama seçeneği aracılığıyla ek lisanslar satın alın. Toplu lisanslama programı hakkında daha fazla bilgi için lütfen destek ile iletişime geçin.
+Geri Ödeme Politikası Geri ödemeler, Apple App Store tarafından gerçekleştirilir.
+Kabul Edilebilir Kullanım Politikası MicronVPN Hizmetlerine dünyanın her yerinden erişilebilir, bu nedenle Siteyi, Uygulamaları, Yazılımı veya Hizmetleri kullanmanın yerel yasa ve düzenlemelere uygun olup olmadığını değerlendirmek sizin sorumluluğunuzdadır. Siteyi, Uygulamaları, Yazılımı veya Hizmetleri her kullandığınızda, bu Koşullara ve yürürlükteki yasalara, düzenlemelere ve politikalara uymalısınız. Titan VPN hesap bilgilerinizi gizli tutmanın sizin sorumluluğunuzda olduğunu anlıyorsunuz. Hesabınız altındaki tüm faaliyetlerden siz sorumlusunuz. Birinin hesabınıza sizin izniniz olmadan eriştiğini keşfeder veya bundan şüphelenirseniz, hesap kimlik bilgilerinizi iptal edebilmemiz ve yenilerini verebilmemiz için bizi hemen bilgilendirmeniz önerilir. MicronVPN, tüm Abonelerimize mümkün olan en iyi hizmeti sunmayı amaçlamaktadır. Bu anlamda, İçeriğimizi veya Hizmetlerimizi kötüye kullanmamanızı şart koşuyoruz. Kötüye kullanım, Şartlara veya yürürlükteki yasaya aykırı olarak İçerik veya Hizmetlere herhangi bir kullanım, erişim veya müdahale anlamına gelir.ws ve düzenlemeler. Hizmetlerin kötüye kullanılmasını veya birine zarar vermek için kullanılmasını önlemek amacıyla, Hizmetlerimiz bu Koşullara ve yürürlükteki yasalara aykırı olarak kullanıldığında MicronVPN uygun önlemleri alma hakkını saklı tutar. Hizmeti kötüye kullanırsanız, MicronVPN'nun halihazırda ödenmiş Hizmetler için geri ödeme yapmadan hesabınızı sonlandırabileceğini kabul edersiniz. Hizmetlerimizi kullanırken, şunları yapmayacağınızı kabul edersiniz: Hizmet üzerinden istenmeyen reklamlar veya içerik (yani istenmeyen posta) göndermemeyi veya iletmemeyi. Hizmet üzerinden yasa dışı, nefret dolu, tehdit edici, aşağılayıcı veya küçük düşürücü herhangi bir içerik göndermek, yayınlamak veya iletmek; fikri mülkiyet haklarını ihlal eden; mahremiyeti istila eder; veya şiddeti teşvik ediyor. Telif hakkı veya başka bir mülkiyet hakkı ile korunan herhangi bir içeriği, önce özel içeriğin sahibinden izin almadan karşıya yüklemek, indirmek, yayınlamak, çoğaltmak veya dağıtmak. Reşit olmayanların cinsel veya müstehcen tasvirlerini içeren herhangi bir içeriği yükleyin, indirin, yayınlayın, çoğaltın veya dağıtın. Başka bir Abonenin Hizmeti kullanmasını veya Hizmetten yararlanmasını kısıtlayan veya engelleyen herhangi bir davranışta bulunmayın. Uygun yetkilendirme olmadan bilgi işlem cihazlarına erişmeye, bunları incelemeye veya bağlanmaya çalışmak (yani, herhangi bir bilgisayar korsanlığı biçimi). Hizmetle bağlantılı olarak MicronVPN tarafından işletilen bir IP adresleri listesi derlemeye, kullanmaya veya dağıtmaya çalışmak. Hizmeti yasal amaçlar dışında herhangi bir amaç için kullanma.
+Lisans Bu Koşullara uymanıza bağlı olarak, MicronVPN size Yazılımı indirmeniz ve kullanmanız için münhasır olmayan ve sınırlı bir lisans verir. Yazılımın MicronVPN tarafından açıkça izin verilmeyen herhangi bir şekilde değiştirilmesi, yetkisiz taraflara dağıtılması, tersine mühendislik yapılması veya başka bir şekilde kullanılması kesinlikle yasaktır. MicronVPN tarafından açık yazılı izin verilmedikçe, MicronVPN'nun fikri mülkiyet haklarına tabi olan herhangi bir materyalin kullanımı yasaktır.
+İçeriğin Dili ve Çevirisi İçeriğimizin tamamı orijinal olarak İngilizce olarak yazılmıştır. İçeriğimizin herhangi bir çevirisi en iyi çaba esasına göre yapılır. Çevrilmiş İçeriğin doğruluğunu garanti edemeyiz. Çevrilen İçerik ile İngilizce İçerik arasında herhangi bir tutarsızlık olması durumunda, İngilizce İçerik geçerli olacaktır.
+Üçüncü Şahıs Web Siteleri MicronVPN size Üçüncü Şahıslara (Üçüncü Şahıslar) ait içerik veya üçüncü şahıs web sitelerine yönlendiren bağlantılar sağlayabilir. MicronVPN, MicronVPN'nun kontrolü veya denetimi altında olmadıkları ve farklı kullanım koşulları ve politikaları olabileceği için Üçüncü Kişiler tarafından sağlanan içeriklerin kullanılabilirliğinden sorumlu değildir. Hizmetlerimiz aracılığıyla Üçüncü Taraflar tarafından sağlanan herhangi bir web sitesine, hizmete veya içeriğe erişiminiz, MicronVPN ile söz konusu Üçüncü Taraflar arasında herhangi bir ilişki olduğu anlamına gelmez.
+Sorumluluk Reddi Site ve Hizmetlerdeki kesintileri önlemek için çaba göstereceğiz. Bununla birlikte, bunlar olduğu gibi ve mevcut olduğu gibi sağlanır ve Site veya Hizmet aracılığıyla sağlanan herhangi bir materyalin veya bilginin doğruluğunu veya herhangi bir özel amaca uygunluğunu, açık veya zımni olarak garanti etmiyoruz. Ticarete elverişlilik veya belirli bir amaca uygunluk veya ihlal etmeme garantileri dahil ancak bunlarla sınırlı olmamak üzere, açık veya zımni her türlü garantiyi açıkça reddediyoruz. Hizmetlerin ihtiyaçlarınızı karşılayacağına veya kesintisiz, zamanında, güvenli veya hatasız olacağına veya varsa kusurların düzeltileceğine dair herhangi bir garanti vermiyoruz. Siteye ve Hizmetlere, riski ve takdiri tamamen size ait olmak üzere eriştiğinizi kabul etmektesiniz. VPN hizmet kapsamı, hızları, sunucu konumları ve kalitesi değişiklik gösterebilir. MicronVPN, Hizmeti her zaman kullanılabilir hale getirmeye çalışacaktır. Bununla birlikte, Hizmet, acil durumlar dahil ancak bunlarla sınırlı olmamak üzere, kontrolümüz dışındaki çeşitli faktörler nedeniyle kullanılamayabilir; üçüncü taraf hizmet hataları; veya iletim, ekipman veya ağ sorunları veya sınırlamaları, parazit veya sinyal gücü; kesintiye uğratılabilir, reddedilebilir, sınırlandırılabilir veya kısıtlanabilir. Hizmet, iletişim hizmetleri veya ağlarla ilgili kesintiler veya performans sorunları nedeniyle kaybolan, teslim edilemeyen, geciken veya yanlış yönlendirilen verilerden, mesajlardan veya sayfalardan sorumlu değiliz. Aboneleri veya Hizmeti korumak için tamamen kendi takdirimize bağlı olarak kullanım veya Hizmet sınırları uygulayabilir, Hizmeti askıya alabilir, VPN hesaplarını feshedebilir veya belirli kullanım türlerini engelleyebiliriz. Alınan verilerin doğruluğu ve güncelliği garanti edilmez; gecikmeler veya eksiklikler olabilir. MicronVPN, bu Koşulların ihlali olduğunu düşündüğümüz konuları araştırma hakkını saklı tutar. Bu Koşullarda belirtilen kısıtlamaların gerçek veya potansiyel ihlali olduğunu düşündüğümüz herhangi bir materyali veya bilgiyi, tamamen kendi takdirimize bağlı olarak ve bildirimde bulunmaksızın herhangi bir şekilde kaldırabilir, engelleyebilir, filtreleyebilir veya kısıtlayabiliriz, ancak buna zorunlu değiliz. ve MicronVPN'yu veya müşterilerimizi sorumluluğa tabi tutabilecek diğer faaliyetler. MicronVPN, bu tür materyallerin veya bilgilerin çalınmasını önlemek için tarafımızdan yapılacak herhangi bir hataya ilişkin her türlü sorumluluğu reddeder.Hizmet üzerinden ve/veya bilgi işlem cihazınıza iletilir.
+Sorumluluğun Sınırlandırılması MicronVPN, aşağıdaki durumlarda maruz kaldığınız herhangi bir kayıp veya hasardan herhangi bir Aboneye veya başka bir bireye karşı yükümlü olmayacaktır ve hiçbir şekilde sorumlu olmayacaktır: Site veya Hizmetin herhangi bir arızası veya kesintisi; Siteyi veya Hizmeti veya burada yer alan verileri kullanımınıza sunarken yer alan herhangi bir Üçüncü Tarafın herhangi bir eylemi veya ihmali; Sitenin veya İçeriğinin herhangi bir bölümüne erişiminiz veya kullanımınızla veya erişememeniz veya bunları kullanamamanızla ilgili diğer herhangi bir neden; Site veya Hizmet üzerindeki etkileşimleriniz; bu Sözleşmeye uymamanız; ikame mal veya hizmetlerin tedarik maliyeti; veya iletimlerinize veya verilerinize yetkisiz erişim veya bunların değiştirilmesi, bu tür bir nedene yol açan koşullar MicronVPN'nun veya Site veya Hizmet için yazılım, hizmet veya destek sağlayan herhangi bir satıcının kontrolünde olup olmadığına bakılmaksızın. MicronVPN, ortakları, bağlı kuruluşları, yan kuruluşları, üyeleri, görevlileri veya çalışanları hiçbir durumda doğrudan, özel, dolaylı, sonuç olarak ortaya çıkan veya arızi zararlardan veya herhangi bir türdeki diğer kayıp veya zararlardan sorumlu tutulamaz. olabileceği konusunda bilgilendirildi. Yukarıda belirtilenler, yürürlükteki yasalar tarafından yasaklandığı ölçüde geçerli olmayacaktır.
+Tazminat MicronVPN'yu, memurlarını, müdürlerini, çalışanlarını, üyelerini, ortaklarını, acentelerini ve tedarikçilerini ve bunların ilgili bağlı kuruluşlarını, memurlarını, müdürlerini, çalışanlarını, üyelerini, hissedarlarını, ortaklarını ve acentelerini tazmin etmeyi, savunmayı ve zarar görmesini engellemeyi kabul edersiniz. bu Sözleşmeyi ihlal etmeniz dahil ancak bunlarla sınırlı olmamak üzere, İçeriği ve Hizmeti kullanımınızdan kaynaklanan avukatlık ücretleri de dahil olmak üzere her türlü iddia ve masraf. Tamamen kendi takdirimize bağlı olarak, sizin tarafınızdan tazmin edilmeye tabi herhangi bir konunun münhasır savunmasını ve kontrolünü üstlenebiliriz. Bununla birlikte, tarafımızca bu tür bir savunma veya kontrolün üstlenilmesi, tazminat yükümlülüklerinizin hiçbirini mazeret oluşturmaz.
+Hukuk Seçimi Bu Sözleşme, kanun ihtilaflarını düzenleyen kuralları hariç olmak üzere, Estonya kanunlarına tabi olacak ve bu kanunlara göre yorumlanacaktır.
+Tahkim Bu Sözleşmeden veya Sitenin veya Hizmetlerin kullanımından kaynaklanan veya bunlarla ilgili tüm ihtilaflar, Uluslararası Uyuşmazlık Çözüm Merkezi'nin (ICDR) Tahkim Kuralları (Kuralları) uyarınca, uygun şekilde atanan bir hakem (Hakem) tarafından nihai olarak çözülecektir. söz konusu Kurallar ile. Tahkim, tüm taraflar imzalı bir yazılı anlaşma ile aksini kabul etmedikçe, Estonya'nın Tallinn kentinde yürütülecektir. Hakem nitelikli olmalı ve internet dahil ancak bununla sınırlı olmamak üzere bilgisayar ağları alanında bir geçmişe sahip olmalıdır. Hakem, belgelerin hızlı bir şekilde değiş tokuşuna izin verme yetkisine sahip olacaktır, ancak herhangi bir keşif, belge talepleri ve sorgulamalarla sınırlı olacaktır. Hakemin bu Sözleşmeye ekleme yapma veya Sözleşmeden çıkarma yapma yetkisi veya yetkisi olmayacaktır ve tahkim masrafları, aşağıda açıklananlar dışında eşit olarak karşılanacaktır. Tahkim, hızlandırılmış bir programa göre yürütülecektir. Tahkim davasının tüm tarafları yazılı olarak bir süre uzatma veya devam ettirme konusunda anlaşmazlarsa, tahkim tahkim talebinin sunulmasından en geç yüz yirmi (120) gün sonra sonuçlanmalı ve bir karar verilmelidir. Yürürlükteki aksi yöndeki herhangi bir yasaya tabi olarak, Sitemizin veya Hizmetlerimizin kullanımından kaynaklanan veya bunlarla ilgili herhangi bir dava nedeninin, dava sebebinin tahakkuk etmesinden sonraki bir (1) yıl içinde başlatılması gerektiğini, aksi takdirde bu tür bir davanın kalıcı olarak yasaklandı. Bu tür bir tahkimde MicronVPN'nun davalı olması durumunda, MicronVPN aleyhine hükmedilen zararlar, Hizmetin kullanımı için MicronVPN'ya ödediğiniz tutarı aşamaz. Hakem, aksi takdirde bir mahkeme tarafından verilecek olana önemli ölçüde benzer bir biçimde herhangi bir geçici, ön veya ihtiyati tedbir kararı verme yetkisine sahip olacaktır. Hakemin cezai tazminata hükmetme yetkisi yoktur. Ortaya çıkan tahkim kararı, Estonya'daki yetkili herhangi bir mahkemede tenfiz edilebilir veya ihtiyati tedbir talebinde bulunulabilir. Makul masraflar (tüm tahkim masrafları dahil) ve avukatlık ücretleri, tahkimde galip gelmemesi halinde tahkimi başlatan taraf aleyhine hükmedilecektir. Bu tahkim hükmüne tabi taraflar arasında MicronVPN, memurları, yöneticileri ve çalışanları ve MicronVPN'nun ana şirketi, yan kuruluşu veya kardeş şirketi olan veya MicronVPN'nun Abonelere hizmet sağlamak için sözleşme yaptığı herhangi bir şirket veya tüzel kişi yer alır. MicronVPN'su.
+Nihai Hükümler Bu Sözleşmedeki herhangi bir hüküm geçersiz veya uygulanamaz sayılırsa, söz konusu hüküm, hükmün asıl amacını yansıtacak şekilde yürürlükteki yasa ile tutarlı bir şekilde yorumlanacak ve bu Sözleşmenin geri kalan hükümleri tam olarak yürürlükte ve yürürlükte kalacaktır. Egzersiz veya uygulamadaki herhangi bir başarısızlıkBu sözleşmenin herhangi bir hakkı veya hükmü, söz konusu hak veya hükümden feragat edildiği anlamına gelmez.";

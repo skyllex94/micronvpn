@@ -1,0 +1,211 @@
+/*
+  Localizable.strings
+  VPNEvo
+
+  Created by Devang on 14/03/22.
+  
+*/
+
+
+"Terms of Use" = "Điều khoản sử dụng";
+"Agree & Continue" = "Đồng ý & Tiếp tục";
+
+"Continue" = "Tiếp tục";
+
+"Connect" = "Liên kết";
+"Disconnect" = "Ngắt kết nối";
+
+"point1" = "Truy cập Nội dung Toàn cầu";
+"point1desc" = "Nhận quyền truy cập vào tất cả các trang web và dịch vụ trên khắp thế giới bằng cách thay đổi vị trí ảo của bạn.";
+
+"point2" = "Lướt web một cách riêng tư";
+"point2desc" = "Ẩn địa chỉ IP của bạn và mã hóa tất cả lưu lượng truy cập web của bạn bằng mã hóa cấp quân sự để bảo vệ quyền riêng tư trực tuyến của bạn";
+
+"point3" = "Kết nối nhanh và ổn định";
+"point3desc" = "Duyệt, chơi trò chơi hoặc phát trực tuyến từ Netflix, Youtube, Hulu và hơn thế nữa, không có độ trễ";
+
+
+"Privacy Policy" = "Chính sách bảo mật";
+"Restore" = "Khôi phục";
+
+"Continue" = "Tiếp tục";
+
+//SideMenu
+
+"HOME" = "TRANG CHỦ";
+"SUBSCRIPTION" = "ĐĂNG KÝ";
+"RESTORE" = "KHÔI PHỤC";
+"RATE APP" = "ĐÁNH GIÁ ỨNG DỤNG";
+"CONTACT US" = "LIÊN HỆ CHÚNG TÔI";
+"SHARE APP" = "CHIA SẺ ỨNG DỤNG";
+"PRIVACY POLICY" = "CHÍNH SÁCH BẢO MẬT";
+"TERMS & CONDITIONS" = "ĐIỀU KHOẢN VÀ ĐIỀU KIỆN";
+"AD BLOCKER" = "CHẶN QUẢNG CÁO";
+"SIGN IN" = "ĐĂNG NHẬP";
+
+//SideMenu Banner
+"VPN Premium" = "VPN cao cấp";
+"Start your free 3 day trial" = "Bắt đầu dùng thử 3 ngày miễn phí của bạn";
+"Go Pro to unlock all countries" = "Go Pro để mở khóa tất cả các quốc gia";
+
+
+//Home Screen
+"Ok" = "Được";
+
+"Warning" = "Cảnh báo";
+"VPN Profile is necessary! Click Start and enter Touch/Face ID to start." = "Cấu hình VPN là cần thiết! Nhấp vào Bắt đầu và nhập Touch / Face ID để kết nối.";
+"You have to add VPN Configuration to start." = "Bạn phải thêm Cấu hình VPN để bắt đầu.";
+"Start" = "Bắt đầu";
+"Cancel" = "Hủy bỏ";
+"Add" = "cộng";
+
+"Connecting" = "Đang kết nối...";
+"Disconnected" = "Đã ngắt kết nối";
+"Connected" = "Đã kết nối";
+"Tap to Connect" = "Nhấn để kết nối";
+"Tap to Disconnect" = "Nhấn để ngắt kết nối";
+
+"Quick Access" = "Truy cập nhanh";
+"All Servers" = "Tất cả máy chủ";
+"Country List" = "Danh sách quốc gia";
+
+// rate us
+
+"We work 24/7 to give the best, most reliable VPN" = "Chúng tôi làm việc 24/7 để cung cấp VPN tốt nhất, đáng tin cậy nhất";
+"Please take a moment to rate our app and tell us how we’re doing" = "Vui lòng dành một chút thời gian để xếp hạng ứng dụng của chúng tôi và cho chúng tôi biết chúng tôi đang hoạt động như thế nào";
+
+"rate_the_app" = "Đánh giá ứng dụng";
+"maybelater" = "Có lẽ sau";
+
+// scan
+
+"System Scanning" = "Quét hệ thống";
+"Granted permissions" = "Quyền được cấp";
+"Applications folders" = "Thư mục ứng dụng";
+"Junk" = "Rác";
+"Malware Check" = "Kiểm tra phần mềm độc hại";
+"Anonymous request" = "Yêu cầu ẩn danh";
+"Safari history" = "Lịch sử Safari";
+"Personal info" = "Thông tin cá nhân";
+
+//Cleaning ProcessVC
+"Protecting iPhone" = "Bảo vệ iPhone";
+"Don't remove the app" = "Đừng xóa ứng dụng";
+"The process will continue Automatically. You can close the app to proceed" = "Quá trình sẽ tiếp tục tự động. Bạn có thể đóng ứng dụng để tiếp tục";
+"Do not remove the app. Your iPhone is still unprotected" = "Không xóa ứng dụng. IPhone của bạn vẫn chưa được bảo vệ";
+
+//CleanSuccess VC
+"Success!" = "Hoàn thành tối ưu hóa";
+"YOUR PHONE IS PROTECTED" = "Thiết bị của bạn được bảo vệ và an toàn trước các mối đe dọa trực tuyến";
+"Do not remove the app. The next analysis will proceed automaticallv in" = "Không xóa ứng dụng";
+"Days" = "Ngày";
+"Minutes" = "Phút";
+"Seconds" = "Giây";
+
+//SaleScreen
+"You Have Unlocked Our Secret Offer!" = "Bạn đã mở khóa ưu đãi bí mật của chúng tôi!";
+"Hurry! We can't hold this offer for too long:" = "Vội vàng! Chúng tôi không thể giữ phiếu mua hàng này quá lâu:";
+"Get This Secret Offer" = "Nhận ưu đãi bí mật này";
+"Limited Offer" = "Ưu đãi có hạn";
+"Unlock all Features For Half Price" = "Mở khóa tất cả các tính năng với một nửa giá";
+
+// detected
+
+"iPhone Security" = "Bảo mật iPhone";
+"Connection is not protected" = "Kết nối không được bảo vệ";
+"Please clean iPhone immediately" = "Hãy làm sạch iPhone ngay lập tức";
+
+"MESSAGE" = "THÔNG ĐIỆP";
+"now" = "bây giờ";
+"Protection required" = "Bảo vệ cần thiết";
+
+"Personal information, passwords, messages, bank details and photos are at risk." = "Thông tin cá nhân, mật khẩu, tin nhắn, chi tiết ngân hàng và hình ảnh có thể bị rủi ro.";
+"Turn on VPN" = "Bật VPN";
+
+// subcribe
+
+"Get Full Access" = "Nhận toàn quyền truy cập";
+"Unlimited & fast servers" = "Máy chủ nhanh và không giới hạn";
+"Worldwide locations" = "Các địa điểm trên toàn thế giới";
+"Secure & private connection" = "Kết nối an toàn và riêng tư";
+"Anonymous surfing" = "Lướt sóng ẩn danh";
+"Ad blocker" = "Chặn quảng cáo";
+"Multi device support" = "Hỗ trợ nhiều thiết bị";
+"Kill switch" = "công tắc tắt";
+"1 Week" = "1 tuần";
+"1 Year • SAVE 85%" = "1 năm • TIẾT KIỆM 85%";
+"BEST DEAL" = "DEAL TỐT NHẤT";
+"Try Risk Free" = "Dùng thử không có rủi ro";
+"Subcribe now" = "Theo dõi ngay";
+
+//Login registration
+"Login To Your Acccount" = "Đăng nhập vào tài khoản của bạn";
+"Enter your email" = "Nhập email của bạn";
+"Enter your password" = "Nhập mật khẩu của bạn";
+"Sign In" = "Đăng nhập";
+"Don't have an account? Sign Up" = "Không có một tài khoản? Đăng ký";
+"Create Your Account" = "Tạo tài khoản của bạn";
+"Sign Up" = "Đăng ký";
+"Already have an account? Sign In" = "Bạn co săn san để tạo một tai khoản? Đăng nhập";
+
+//ADblocker
+"Disabled" = "Tàn tật";
+"Enabled" = "Đã bật";
+"Adblocker is disabled \n and ads are not blocked" = "Trình chặn quảng cáo bị tắt \n và quảng cáo không bị chặn";
+"Adblocker is enabled \n and ads are blocked" = "Trình chặn quảng cáo được bật \n và quảng cáo bị chặn";
+
+
+"p_policy" = "Chính sách bảo mật
+MicronVPN cam kết bảo vệ quyền riêng tư của bạn. Chúng tôi muốn bạn hiểu những thông tin nào chúng tôi thu thập, những thông tin nào chúng tôi không thu thập và cách chúng tôi thu thập, sử dụng và lưu trữ thông tin.
+
+MicronVPN không thu thập tên, địa chỉ email và thông tin cá nhân của bạn. Chúng tôi không thu thập nhật ký hoạt động của bạn, bao gồm không ghi nhật ký lịch sử duyệt web, đích lưu lượng truy cập, nội dung dữ liệu hoặc truy vấn DNS. Chúng tôi cũng không bao giờ lưu trữ nhật ký địa chỉ IP của bạn. Nguyên tắc hướng dẫn của chúng tôi đối với việc thu thập dữ liệu là chỉ thu thập dữ liệu tối thiểu cần thiết để vận hành dịch vụ VPN đẳng cấp thế giới trên quy mô lớn. Chúng tôi đã thiết kế hệ thống của mình để không có dữ liệu nhạy cảm về khách hàng của mình; ngay cả khi bị ép buộc, chúng tôi không thể cung cấp dữ liệu mà chúng tôi không sở hữu. Chính sách bảo mật này sẽ giúp bạn hiểu cách MicronVPN thu thập, sử dụng và lưu trữ thông tin.
+
+Thông tin chung
+Chúng tôi thu thập ba loại thông tin:
+
+Thống kê tóm tắt kết nối VPN MicronVPN thu thập thông tin tối thiểu về việc sử dụng Để duy trì hỗ trợ khách hàng tuyệt vời và chất lượng dịch vụ. Phần bên dưới mô tả chi tiết những thông tin cụ thể mà chúng tôi thu thập. Những thống kê này không bao giờ bao gồm bất kỳ điều gì về những gì người dùng đã làm với VPN: không có dữ liệu về nội dung hoặc đích đến của lưu lượng truy cập VPN, không có truy vấn DNS và không có địa chỉ IP.
+Thông tin mua hàng trên Apple App Store Chúng tôi cung cấp dịch vụ mua hàng trong ứng dụng cho dịch vụ cao cấp của mình và chúng tôi giữ thông tin mua hàng nhận được từ Apple để cung cấp dịch vụ cao cấp đẳng cấp thế giới của chúng tôi.
+Dữ liệu phân tích trong ứng dụng Chúng tôi thu thập dữ liệu như những trang nào người dùng nhấp vào ứng dụng và hệ điều hành của người dùng.
+Khác Chúng tôi thu thập id duy nhất của khách hàng, id phiên, loại người dùng (cao cấp hoặc miễn phí), ip máy chủ mà người dùng kết nối, đếm dữ liệu đầu vào và đầu ra (chỉ đếm không ghi – theo khoảng thời gian 5 phút), dấu thời gian đếm dữ liệu, nguyên nhân chấm dứt kết nối, địa chỉ IP nội bộ của máy chủ mà người dùng kết nối, địa chỉ IP nội bộ kết nối của người dùng được máy chủ tự động chỉ định và thông tin mua hàng của người dùng do Apple Inc cung cấp.
+Thông tin cá nhân MicronVPN không thu thập tên, địa chỉ email và thông tin cá nhân của bạn. Nếu bạn muốn bắt đầu một email hoặc Trò chuyện liên lạc nội bộ cho các mục đích hỗ trợ hoặc các truy vấn khác, thì bạn phải cung cấp email của mình. Nếu bạn làm như vậy, chúng tôi sẽ không giữ cơ sở dữ liệu của chúng tôi hoặc bán nó cho bên thứ ba, nó sẽ chỉ được sử dụng cho mục đích hỗ trợ. Thống kê tóm tắt kết nối VPN Chúng tôi đảm bảo rằng chúng tôi không bao giờ ghi nhật ký lịch sử duyệt web, đích lưu lượng truy cập, nội dung dữ liệu, địa chỉ IP hoặc truy vấn DNS. Do đó: Chúng tôi không biết người dùng nào đã từng truy cập một trang web hoặc dịch vụ cụ thể. Chúng tôi không biết bộ địa chỉ IP ban đầu của máy tính người dùng.
+
+Nếu bất kỳ ai cố gắng buộc MicronVPN tiết lộ thông tin người dùng dựa trên bất kỳ điều nào ở trên, thì chúng tôi không thể cung cấp thông tin này vì dữ liệu không tồn tại. Để duy trì hỗ trợ khách hàng và chất lượng dịch vụ tuyệt vời, MicronVPN thu thập các thông tin sau liên quan đến việc sử dụng VPN của bạn: Tên người dùng và ID phiên Chúng tôi lưu trữ id người dùng do máy tính tạo duy nhất và tạo id phiên theo id người dùng này. Id người dùng này cho phép ẩn danh hoàn toàn trong khi vẫn đảm bảo kết nối thành công. Loại người dùng & Kết nối Chúng tôi lưu trữ loại người dùng để cung cấp dịch vụ cao cấp cho người dùng của chúng tôi. Chúng tôi thu thập thông tin về việc bạn đã thiết lập thành công VPN hay chưa, vị trí VPN và IP máy chủ (chứ không phải địa chỉ IP gửi đi được chỉ định của bạn). Thông tin tối thiểu này hỗ trợ chúng tôi trong việc cung cấp hỗ trợ kỹ thuật, chẳng hạn như xác định các sự cố kết nối và cho phép các kỹ sư MicronVPN xác định và khắc phục các sự cố mạng.
+
+Đầu vào và đầu ra của dữ liệu được truyền (tính bằng MB) được ghi lại trong khoảng thời gian 5 phút với dấu thời gian. Chúng tôi thu thập thông tin liên quan đến tổng lượng truyền dữ liệu mà bạn sử dụng. Mặc dù chúng tôi cung cấp khả năng truyền dữ liệu không giới hạn, nhưng nếu chúng tôi nhận thấy rằng một người dùng đẩy nhiều lưu lượng truy cập hơn hàng nghìn người dùng cộng lại, do đó ảnh hưởng đến chất lượng dịch vụ của những người dùng MicronVPN khác, thì chúng tôi có thể chấm dứt tư cách thành viên. Ngoài ra, địa chỉ IP nội bộ của máy chủ VPN mà bạn kết nối được ghi lại cho mục đích hỗ trợ kỹ thuật.
+
+Bản tóm tắt:
+
+Chúng tôi thu thập số liệu thống kê sử dụng tối thiểu để duy trì chất lượng dịch vụ của chúng tôi. Ví dụ: chúng tôi có thể biết rằng khách hàng của chúng tôi đã kết nối với vị trí VPN ở Luân Đôn của chúng tôi vào thứ Ba và đã chuyển tổng cộng 823 MB dữ liệu trong khoảng thời gian 24 giờ. Không thể xác định duy nhất khách hàng của chúng tôi là người chịu trách nhiệm cho bất kỳ hành vi cụ thể nào vì mô hình sử dụng của anh ấy trùng lặp với hàng nghìn khách hàng MicronVPN khác cũng kết nối với cùng một địa điểm trong cùng một ngày. Chúng tôi đã thiết kế các hệ thống của mình để loại bỏ hoàn toàn việc lưu trữ dữ liệu nhạy cảm. Chúng tôi có thể biết RẰNG một khách hàng đã sử dụng MicronVPN, nhưng chúng tôi không bao giờ biết họ đã sử dụng dịch vụ của chúng tôi NHƯ THẾ NÀO. Chúng tôi giữ cam kết chắc chắn về quyền riêng tư của khách hàng bằng cách không sở hữu bất kỳ dữ liệu nào liên quan đến hoạt động trực tuyến của người dùng. Báo cáo sự cố và chẩn đoán kết nối VPN ẩn danh (Có thể tbị người dùng tắt) Chúng tôi thu thập dữ liệu phân tích ẩn danh được sử dụng để chẩn đoán mạng khi cài đặt ứng dụng. Chúng tôi sử dụng những dữ liệu này trong các công cụ vận hành mạng của mình để giúp tối ưu hóa tốc độ mạng và cho phép chúng tôi xác định các sự cố liên quan đến các ứng dụng, máy chủ VPN hoặc ISP cụ thể.
+
+Thông tin chúng tôi nhận được hoàn toàn ẩn danh và không thể liên kết lại với từng người dùng MicronVPN (tức là chúng tôi không lưu trữ người dùng nào đã gửi dữ liệu nào và không lưu trữ địa chỉ IP). Nếu bạn chọn chia sẻ thông tin này với MicronVPN, thì chúng tôi sẽ thu thập thông tin sau: Thông tin chẩn đoán về cách kết nối VPN không thành công. Dữ liệu kiểm tra tốc độ Báo cáo sự cố, cũng như không có bất kỳ thông tin nhận dạng cá nhân nào. Tùy thuộc vào nền tảng của bạn, chúng được gửi đến các bên thứ ba sau: iOS: Crashlytics (thuộc sở hữu của Google). Xem Chính sách quyền riêng tư của Crashlytics. Hệ điều hành iOS: Apple. Xem Chính sách quyền riêng tư của Apple. iOS chia sẻ những dữ liệu này theo mặc định. Bạn có thể tắt tính năng đó trong cài đặt iOS như được mô tả tại đây. iOS: Căn cứ hỏa lực. Xem Điều khoản dịch vụ của Firebase. iOS: Biên độ. Xem Điều khoản dịch vụ của Biên độ. Khi kích hoạt bất kỳ ứng dụng Titan VPN nào, bạn sẽ được hỏi có muốn chia sẻ những dữ liệu này không. Quyền tài phán và Luật áp dụng Nhiệm vụ cốt lõi của Titan VPN là giữ thông tin của bạn ở chế độ riêng tư.
+
+Để phục vụ cho nhiệm vụ này, trụ sở chính và địa điểm kinh doanh đã đăng ký của MicronVPN là ở Cộng hòa Estonia (Estonia), nơi có luật nghiêm ngặt hơn về tiết lộ thông tin so với hầu hết các quốc gia. Nếu chúng tôi nhận được lệnh pháp lý hợp lệ từ Tòa án tối cao Estonia, điều quan trọng cần lưu ý là MicronVPN không thu thập bất kỳ địa chỉ IP, lịch sử duyệt web, dữ liệu lưu lượng truy cập hoặc truy vấn DNS nào có thể được sử dụng để xác định bất kỳ người dùng cụ thể nào. Lưu trữ thông tin liên quan đến email, trò chuyện trực tiếp và biểu mẫu phản hồi MicronVPN lưu giữ hồ sơ về mọi thư từ, câu hỏi, khiếu nại hoặc lời khen mà bạn gửi cho chúng tôi thông qua Trang web hoặc Dịch vụ của chúng tôi, cùng với phản hồi của chúng tôi.
+
+Tùy thuộc vào cách bạn liên hệ với MicronVPN, chúng tôi có thể thu thập địa chỉ email của bạn và mọi thông tin bổ sung mà bạn cung cấp cho chúng tôi. Có hồ sơ thư từ đầy đủ cho phép nhân viên của chúng tôi cung cấp trải nghiệm hỗ trợ khách hàng tốt nhất có thể. Chúng tôi sử dụng nền tảng của bên thứ ba để trao đổi thư từ hỗ trợ: Hệ thống liên lạc nội bộ dành cho email, vé hỗ trợ và trò chuyện trực tiếp. Khi bạn trao đổi thư từ với chúng tôi bằng các nền tảng này, hồ sơ thư từ của bạn, bao gồm tên và địa chỉ email của bạn, được lưu trữ trong hệ thống của họ. Cả hai nền tảng đều sử dụng các biện pháp bảo mật hiện đại và mã hóa HTTPS. Các biện pháp bảo mật để bảo vệ thông tin của bạn MicronVPN sử dụng biện pháp bảo mật vật lý, thủ tục và kỹ thuật tốt nhất trong lớp đối với các văn phòng và cơ sở lưu trữ thông tin của chúng tôi để ngăn chặn mọi mất mát, lạm dụng, truy cập trái phép, tiết lộ hoặc sửa đổi thông tin. Quyền truy cập thông tin người dùng bị hạn chế đối với nhân viên yêu cầu quyền truy cập đó để thực hiện các chức năng công việc của họ. Mặc dù chúng tôi tin rằng các hệ thống này rất mạnh, nhưng điều quan trọng là phải hiểu rằng không có biện pháp bảo mật dữ liệu nào trên thế giới có thể bảo vệ 100%. Máy chủ được đặt trong các trung tâm dữ liệu với các biện pháp bảo mật mạnh mẽ. Không có trung tâm dữ liệu nào trong số này yêu cầu chúng tôi thu thập hoặc lưu trữ bất kỳ dữ liệu lưu lượng truy cập hoặc thông tin cá nhân nào liên quan đến việc bạn sử dụng Dịch vụ VPN. Nếu bất kỳ trung tâm dữ liệu nào yêu cầu chúng tôi ghi lại dữ liệu đó, chúng tôi sẽ ngay lập tức ngừng hoạt động với trung tâm dữ liệu đó và tìm các phương án thay thế. Ngay cả khi chính phủ chiếm giữ một trong các máy chủ VPN của chúng tôi và quản lý để phá mã hóa ổ đĩa của họ, sẽ không có nhật ký hoặc thông tin nào có thể ràng buộc bất kỳ người dùng cá nhân nào với một sự kiện, trang web hoặc hành vi cụ thể.
+
+Bánh quy
+
+MicronVPN không thu thập cookie. Sự đồng ý và giới hạn độ tuổi Bằng cách sử dụng Trang web, Nội dung, Ứng dụng, Phần mềm hoặc Dịch vụ, bạn đồng ý xử lý thông tin của mình như được mô tả trong Điều khoản dịch vụ và Chính sách quyền riêng tư của chúng tôi. Dịch vụ dành cho người lớn từ 18 tuổi trở lên. Nếu bạn tin rằng con bạn đã cung cấp thông tin cho chúng tôi, vui lòng cho chúng tôi biết ngay lập tức. Các thay đổi đối với Chính sách quyền riêng tư Chúng tôi có thể thay đổi Chính sách quyền riêng tư của mình theo thời gian mà không cần thông báo trước cho bạn, phù hợp với các nguyên tắc và luật hiện hành về quyền riêng tư. Việc bạn tiếp tục sử dụng Trang web hoặc Dịch vụ đồng nghĩa với việc bạn chấp nhận Chính sách quyền riêng tư của chúng tôi. Cách liên hệ với MicronVPN Nếu bạn có bất kỳ câu hỏi nào liên quan đến Chính sách quyền riêng tư của chúng tôi và cách chúng tôi xử lý thông tin của bạn, vui lòng liên hệ với chúng tôi tại zionstudiosapps@gmail.com";
+
+"t_terms" = "Tài liệu Điều khoản dịch vụ này (Điều khoản) phác thảo các điều khoản và điều kiện sử dụng dịch vụ VPN (Dịch vụ hoặc Dịch vụ) do (MicronVPN) cung cấp. Các Điều khoản này cũng chi phối việc sử dụng và truy cập vào nội dung của MicronVPN (Nội dung), bao gồm trang web MicronVPN (Trang web), các ứng dụng (Ứng dụng) và bất kỳ phần mềm nào do MicronVPN (Phần mềm) cung cấp.
+
+Khi đồng ý với các Điều khoản này, bạn cũng đồng ý với Chính sách quyền riêng tư (Chính sách quyền riêng tư) mà bạn có thể đọc tại đây.
+
+Chấp nhận Bằng cách truy cập Nội dung hoặc Dịch vụ, bạn thay mặt cho chính mình hoặc những người mà bạn đại diện (bạn) đồng ý tuân thủ và bị ràng buộc về mặt pháp lý toàn bộ bởi các Điều khoản này. Các Điều khoản này cấu thành một thỏa thuận ràng buộc về mặt pháp lý (Thỏa thuận) giữa bạn và MicronVPN. Nếu bạn không đồng ý với bất kỳ phần nào của Điều khoản, bạn không được sử dụng Dịch vụ của chúng tôi. Bằng cách tạo tài khoản để sử dụng Dịch vụ của chúng tôi, bạn tuyên bố rằng bạn từ mười tám (18) tuổi trở lên hoặc bạn là một pháp nhân hợp lệ và thông tin đăng ký bạn đã cung cấp là chính xác và đầy đủ.
+Sửa đổi MicronVPN có thể cập nhật Điều khoản theo thời gian mà không cần thông báo trước. Nếu bạn tiếp tục sử dụng Dịch vụ, Nội dung, Trang web, Ứng dụng hoặc Phần mềm của MicronVPN sau khi những thay đổi này có hiệu lực, thì bạn đồng ý với Điều khoản sửa đổi. Phiên bản hiện tại của Điều khoản có sẵn trên Trang web. Bạn hiểu và đồng ý rằng bạn có nghĩa vụ thỉnh thoảng xem lại các Điều khoản này để được thông báo về các quy tắc và nghĩa vụ hiện hành. Thông báo về bất kỳ thay đổi cốt lõi nào đối với Điều khoản sẽ được cung cấp cho người đăng ký thông qua email hoặc cập nhật cho Trang web. Việc bạn sử dụng Nội dung hoặc Dịch vụ sau những thay đổi đối với các Điều khoản này cấu thành việc bạn chấp nhận các Điều khoản đã thay đổi.
+Chính sách quyền riêng tư MicronVPN cam kết bảo vệ quyền riêng tư của bạn và không thu thập hoặc ghi nhật ký lịch sử duyệt web, đích lưu lượng truy cập, nội dung dữ liệu hoặc truy vấn DNS từ Người đăng ký được kết nối với VPN của chúng tôi. Chúng tôi chỉ thu thập thông tin cần thiết để cung cấp đúng Trang web và Dịch vụ. Vì mục đích rõ ràng và minh bạch, chúng tôi đã đặt tất cả thông tin liên quan đến việc thu thập dữ liệu trong một tài liệu riêng được gọi là Chính sách quyền riêng tư, có sẵn trên Trang web. Vui lòng xem lại toàn bộ Chính sách quyền riêng tư để hiểu rõ về cách chúng tôi xử lý dữ liệu nhạy cảm của bạn.
+Đăng ký Dịch vụ MicronVPN có sẵn cho bạn khi đăng ký trên Trang web. Bằng cách đăng ký Dịch vụ, bạn đồng ý trở thành người đăng ký (Subscriber) trong khoảng thời gian bạn đã chọn. Một danh sách đầy đủ các gói đăng ký và giá cả có sẵn trên ứng dụng. MicronVPN bảo lưu quyền sửa đổi phí đăng ký hoặc đưa ra các khoản phí mới bất cứ lúc nào khi có thông báo trước hợp lý được đăng trên Trang web hoặc gửi qua email. Mọi thay đổi về giá sẽ không ảnh hưởng đến thời hạn đăng ký hiện tại của Người đăng ký và sẽ có hiệu lực khi gia hạn đăng ký. Khi được phương thức thanh toán của bạn hỗ trợ, các gói sẽ tự động gia hạn theo mặc định khi hoàn thành thời hạn thanh toán. Theo mặc định, thời hạn gia hạn có cùng thời hạn với thời hạn thanh toán cho đăng ký ban đầu. Phí đăng ký sẽ được tự động tính vào phương thức thanh toán bạn đã chọn lần cuối. Nếu bạn muốn ngừng gia hạn tự động, bạn có thể đăng nhập vào Trang web và tắt tự động gia hạn. Theo mặc định, tự động gia hạn được bật khi bạn sử dụng phương thức thanh toán hỗ trợ tự động gia hạn (chẳng hạn như thẻ tín dụng hoặc Paypal) và bị tắt khi bạn sử dụng phương thức thanh toán không hỗ trợ tự động gia hạn (chẳng hạn như bitcoin ). Mỗi đăng ký trả phí cấp cho bạn một
+phép sử dụng trên ba (3) thiết bị khác nhau tại bất kỳ thời điểm nào. Nếu bạn muốn sử dụng Dịch vụ trên nhiều hơn ba thiết bị cùng một lúc thì bạn có thể (i) sử dụng MicronVPN trên bộ định tuyến của mình
+mua gói thuê bao bổ sung, hoặc
+mua giấy phép bổ sung thông qua tùy chọn 'cấp phép số lượng lớn'. Để biết thêm thông tin về chương trình 'cấp phép số lượng lớn', vui lòng liên hệ với bộ phận hỗ trợ.
+Chính sách hoàn tiền Việc hoàn tiền được xử lý bởi Apple App Store.
+Chính sách sử dụng được chấp nhận Dịch vụ MicronVPN có thể được truy cập từ khắp nơi trên thế giới, vì vậy bạn có trách nhiệm đánh giá xem việc sử dụng Trang web, Ứng dụng, Phần mềm hoặc Dịch vụ có tuân thủ luật pháp và quy định của địa phương hay không. Bất cứ khi nào bạn sử dụng Trang web, Ứng dụng, Phần mềm hoặc Dịch vụ, bạn phải tuân thủ các Điều khoản này cũng như các luật, quy định và chính sách hiện hành. Bạn hiểu rằng bạn có trách nhiệm bảo mật thông tin tài khoản Titan VPN của mình. Bạn chịu trách nhiệm cho tất cả các hoạt động trong tài khoản của mình. Nếu bạn từng phát hiện hoặc nghi ngờ rằng ai đó đã truy cập vào tài khoản của bạn mà không có sự cho phép của bạn, bạn nên thông báo cho chúng tôi ngay lập tức để chúng tôi có thể thu hồi thông tin đăng nhập tài khoản của bạn và cấp thông tin đăng nhập mới. MicronVPN nhằm mục đích cung cấp dịch vụ tốt nhất có thể cho tất cả Người đăng ký của chúng tôi. Theo nghĩa đó, chúng tôi yêu cầu bạn không lạm dụng Nội dung hoặc Dịch vụ của chúng tôi. Lạm dụng đề cập đến bất kỳ việc sử dụng, truy cập hoặc can thiệp nào vào Nội dung hoặc Dịch vụ trái với Điều khoản hoặc quy định hiện hành.ws và các quy định. Để bảo vệ Dịch vụ không bị lạm dụng hoặc sử dụng để làm hại ai đó, MicronVPN bảo lưu quyền thực hiện các biện pháp thích hợp khi Dịch vụ của chúng tôi đang được sử dụng trái với các Điều khoản này và luật hiện hành. Bạn đồng ý rằng MicronVPN có thể chấm dứt tài khoản của bạn mà không hoàn lại tiền cho các Dịch vụ đã thanh toán, nếu bạn sử dụng sai Dịch vụ. Khi sử dụng Dịch vụ của chúng tôi, bạn đồng ý không: Gửi hoặc truyền quảng cáo hoặc nội dung không mong muốn (tức là thư rác) qua Dịch vụ. Gửi, đăng hoặc truyền qua Dịch vụ bất kỳ nội dung nào bất hợp pháp, thù hận, đe dọa, xúc phạm hoặc phỉ báng; xâm phạm quyền sở hữu trí tuệ; xâm phạm quyền riêng tư; hoặc kích động bạo lực. Tải lên, tải xuống, đăng, sao chép hoặc phân phối bất kỳ nội dung nào được bảo vệ bởi bản quyền hoặc bất kỳ quyền sở hữu nào khác mà không có sự cho phép trước của chủ sở hữu nội dung độc quyền đó. Tải lên, tải xuống, đăng, sao chép hoặc phân phối bất kỳ nội dung nào bao gồm các mô tả khiêu dâm hoặc khiêu dâm về trẻ vị thành niên. Tham gia vào bất kỳ hành vi nào hạn chế hoặc ngăn cản bất kỳ Người đăng ký nào khác sử dụng hoặc tận hưởng Dịch vụ. Cố gắng truy cập, thăm dò hoặc kết nối với các thiết bị máy tính mà không được phép thích hợp (nghĩa là bất kỳ hình thức hack nào). Cố gắng biên dịch, sử dụng hoặc phân phối danh sách các địa chỉ IP do MicronVPN vận hành cùng với Dịch vụ. Sử dụng Dịch vụ cho bất kỳ mục đích nào khác ngoài mục đích hợp pháp.
+Giấy phép Tùy thuộc vào việc bạn tuân thủ các Điều khoản này, MicronVPN cấp cho bạn giấy phép không độc quyền và có giới hạn để tải xuống và sử dụng Phần mềm. Việc sửa đổi, phân phối cho các bên trái phép, kỹ thuật đảo ngược hoặc sử dụng Phần mềm theo bất kỳ cách nào không được MicronVPN cho phép rõ ràng đều bị nghiêm cấm. Việc sử dụng bất kỳ tài liệu nào thuộc quyền sở hữu trí tuệ của MicronVPN đều bị cấm trừ khi bạn đã được MicronVPN cung cấp sự đồng ý rõ ràng bằng văn bản.
+Ngôn ngữ và bản dịch nội dung Tất cả nội dung của chúng tôi ban đầu được viết bằng tiếng Anh. Mọi bản dịch Nội dung của chúng tôi đều được thực hiện trên cơ sở nỗ lực cao nhất. Chúng tôi không thể đảm bảo tính chính xác của Nội dung đã dịch. Trong trường hợp có bất kỳ sự khác biệt nào giữa Nội dung được dịch và Nội dung tiếng Anh, Nội dung tiếng Anh sẽ được ưu tiên áp dụng.
+Các trang web của bên thứ ba MicronVPN có thể cung cấp cho bạn nội dung thuộc về các bên thứ ba (Third Party) hoặc các liên kết dẫn đến các trang web của bên thứ ba. MicronVPN không chịu trách nhiệm về tính khả dụng của nội dung do Bên thứ ba cung cấp vì họ không chịu sự kiểm soát hoặc giám sát của MicronVPN và họ có thể có các điều khoản và chính sách sử dụng khác nhau. Quyền truy cập của bạn thông qua Dịch vụ của chúng tôi tới bất kỳ trang web, dịch vụ hoặc nội dung nào do Bên thứ ba cung cấp không chỉ ra bất kỳ mối quan hệ nào giữa MicronVPN và các Bên thứ ba đó.
+Tuyên bố miễn trừ trách nhiệm Chúng tôi sẽ cố gắng ngăn chặn sự gián đoạn đối với Trang web và Dịch vụ. Tuy nhiên, chúng được cung cấp trên cơ sở nguyên trạng và sẵn có, và chúng tôi không đảm bảo, dù rõ ràng hay ngụ ý, tính chính xác của bất kỳ tài liệu hoặc thông tin nào được cung cấp qua Trang web hoặc Dịch vụ, hoặc tính phù hợp của chúng cho bất kỳ mục đích cụ thể nào. Chúng tôi từ chối rõ ràng tất cả các bảo đảm dưới bất kỳ hình thức nào, dù rõ ràng hay ngụ ý, bao gồm nhưng không giới hạn ở các bảo đảm về khả năng bán được hoặc tính phù hợp cho một mục đích cụ thể hoặc không vi phạm. Chúng tôi không đưa ra bất kỳ bảo đảm nào rằng Dịch vụ sẽ đáp ứng các yêu cầu của bạn hoặc Dịch vụ sẽ không bị gián đoạn, kịp thời, an toàn hoặc không có lỗi hoặc các khiếm khuyết, nếu có, sẽ được sửa chữa. Bạn thừa nhận rằng bạn tự chịu rủi ro và quyết định khi truy cập Trang web và Dịch vụ. Phạm vi phủ sóng, tốc độ, vị trí máy chủ và chất lượng của dịch vụ VPN có thể khác nhau. MicronVPN sẽ cố gắng cung cấp Dịch vụ mọi lúc. Tuy nhiên, Dịch vụ có thể không khả dụng do nhiều yếu tố nằm ngoài tầm kiểm soát của chúng tôi, bao gồm nhưng không giới hạn ở các trường hợp khẩn cấp; lỗi dịch vụ của bên thứ ba; hoặc các sự cố hoặc hạn chế về đường truyền, thiết bị hoặc mạng, nhiễu hoặc cường độ tín hiệu; và có thể bị gián đoạn, từ chối, hạn chế hoặc cắt giảm. Chúng tôi không chịu trách nhiệm về dữ liệu, tin nhắn hoặc trang bị mất, không được gửi, bị trì hoãn hoặc chuyển hướng sai do gián đoạn hoặc các vấn đề về hiệu suất với Dịch vụ, dịch vụ liên lạc hoặc mạng. Chúng tôi có thể áp đặt giới hạn sử dụng hoặc Dịch vụ, tạm dừng Dịch vụ, chấm dứt tài khoản VPN hoặc chặn một số loại sử dụng nhất định theo quyết định riêng của chúng tôi để bảo vệ Người đăng ký hoặc Dịch vụ. Tính chính xác và kịp thời của dữ liệu nhận được không được đảm bảo; sự chậm trễ hoặc thiếu sót có thể xảy ra. MicronVPN bảo lưu quyền điều tra các vấn đề mà chúng tôi cho là vi phạm các Điều khoản này. Chúng tôi có thể, nhưng không bắt buộc, theo quyết định riêng của mình và không cần thông báo, xóa, chặn, lọc hoặc hạn chế bằng bất kỳ phương tiện nào đối với bất kỳ tài liệu hoặc thông tin nào mà chúng tôi cho là vi phạm thực tế hoặc có khả năng vi phạm các hạn chế được nêu trong các Điều khoản này, và bất kỳ hoạt động nào khác có thể khiến MicronVPN hoặc khách hàng của chúng tôi phải chịu trách nhiệm pháp lý. MicronVPN từ chối bất kỳ và tất cả trách nhiệm pháp lý đối với bất kỳ thất bại nào từ phía chúng tôi trong việc ngăn chặn các tài liệu hoặc thông tin đóg được truyền qua Dịch vụ và/hoặc vào thiết bị máy tính của bạn.
+Giới hạn trách nhiệm pháp lý MicronVPN sẽ không chịu trách nhiệm pháp lý và sẽ không chịu trách nhiệm dưới bất kỳ hình thức nào đối với bất kỳ Người đăng ký hoặc cá nhân nào khác về bất kỳ tổn thất hoặc thiệt hại nào mà bạn phải gánh chịu trong trường hợp: bất kỳ lỗi hoặc gián đoạn nào của Trang web hoặc Dịch vụ; bất kỳ hành động hoặc thiếu sót nào của bất kỳ Bên thứ ba nào liên quan đến việc cung cấp Trang web hoặc Dịch vụ hoặc dữ liệu có trong đó cho bạn; bất kỳ nguyên nhân nào khác liên quan đến việc bạn truy cập hoặc sử dụng, hoặc không có khả năng truy cập hoặc sử dụng, bất kỳ phần nào của Trang web hoặc Nội dung của Trang web; tương tác của bạn trên Trang web hoặc Dịch vụ; việc bạn không tuân thủ Thỏa thuận này; chi phí mua sắm hàng hóa hoặc dịch vụ thay thế; hoặc truy cập trái phép hoặc thay đổi đường truyền hoặc dữ liệu của bạn, cho dù các trường hợp dẫn đến nguyên nhân đó có nằm trong tầm kiểm soát của MicronVPN hoặc của bất kỳ nhà cung cấp nào cung cấp phần mềm, dịch vụ hoặc hỗ trợ cho Trang web hoặc Dịch vụ hay không. Trong mọi trường hợp, MicronVPN, các đối tác, chi nhánh, công ty con, thành viên, cán bộ hoặc nhân viên của mình sẽ không chịu trách nhiệm pháp lý cho bất kỳ thiệt hại trực tiếp, đặc biệt, gián tiếp, do hậu quả hoặc ngẫu nhiên nào, hoặc đối với bất kỳ tổn thất hoặc thiệt hại nào khác dưới bất kỳ hình thức nào, ngay cả khi họ có đã được thông báo về khả năng đó. Những điều đã nói ở trên sẽ không áp dụng trong phạm vi bị cấm theo luật hiện hành.
+Bồi thường Bạn đồng ý bồi thường, bảo vệ và giữ vô hại cho MicronVPN, cán bộ, giám đốc, nhân viên, thành viên, đối tác, đại lý và nhà cung cấp cũng như các chi nhánh, cán bộ, giám đốc, nhân viên, thành viên, cổ đông, đối tác và đại lý của họ, khỏi bất kỳ và tất cả các khiếu nại và chi phí, kể cả phí luật sư, phát sinh từ việc bạn sử dụng Nội dung và Dịch vụ, bao gồm nhưng không giới hạn ở việc bạn vi phạm Thỏa thuận này. Chúng tôi có thể, theo quyết định riêng của mình, đảm nhận việc bảo vệ và kiểm soát độc quyền đối với bất kỳ vấn đề nào mà bạn phải bồi thường. Tuy nhiên, giả định về việc bảo vệ hoặc kiểm soát như vậy của chúng tôi sẽ không miễn trừ bất kỳ nghĩa vụ bồi thường nào của bạn.
+Lựa chọn luật Thỏa thuận này sẽ được điều chỉnh và hiểu theo luật pháp của Estonia, ngoại trừ các quy tắc điều chỉnh xung đột pháp luật.
+Trọng tài Tất cả các tranh chấp phát sinh từ hoặc liên quan đến Thỏa thuận này hoặc việc sử dụng Trang web hoặc Dịch vụ sẽ được giải quyết cuối cùng theo Quy tắc Trọng tài (Quy tắc) của Trung tâm Giải quyết Tranh chấp Quốc tế (ICDR) bởi một trọng tài viên (Trọng tài viên) được chỉ định theo với Nội quy đã nói. Trọng tài sẽ được tiến hành tại Tallinn, Estonia, trừ khi tất cả các bên có thỏa thuận khác bằng văn bản đã ký. Trọng tài viên phải đủ tiêu chuẩn và có kiến ​​thức cơ bản về lĩnh vực mạng máy tính, bao gồm nhưng không giới hạn ở internet. Trọng tài viên sẽ có quyền cho phép trao đổi tài liệu nhanh chóng, nhưng bất kỳ phát hiện nào sẽ chỉ giới hạn ở các yêu cầu tài liệu và thẩm vấn. Trọng tài viên sẽ không có quyền hạn hoặc thẩm quyền để bổ sung hoặc loại bỏ khỏi Thỏa thuận này và các chi phí của trọng tài sẽ được chịu như nhau, ngoại trừ như được mô tả dưới đây. Việc phân xử trọng tài sẽ được tiến hành theo một lịch trình nhanh chóng. Việc phân xử trọng tài phải được kết thúc và phán quyết được ban hành không muộn hơn một trăm hai mươi (120) ngày sau khi nộp đơn yêu cầu phân xử trọng tài, trừ khi tất cả các bên tham gia tố tụng trọng tài đồng ý bằng văn bản về việc gia hạn thời gian hoặc tiếp tục. Theo bất kỳ luật hiện hành nào ngược lại, bạn đồng ý rằng bất kỳ nguyên nhân tố tụng nào phát sinh từ hoặc liên quan đến việc sử dụng Trang web hoặc Dịch vụ của chúng tôi phải được bắt đầu trong vòng một (1) năm sau khi nguyên nhân tố tụng tích lũy, nếu không hành động đó sẽ bị hủy bỏ. cấm vĩnh viễn. Trong trường hợp MicronVPN là bị đơn trong bất kỳ trọng tài nào như vậy, thiệt hại được trao cho MicronVPN không được vượt quá số tiền bạn đã trả cho MicronVPN để sử dụng Dịch vụ. Trọng tài sẽ có thẩm quyền đưa ra bất kỳ biện pháp cứu trợ tạm thời, sơ bộ hoặc theo lệnh nào dưới hình thức về cơ bản tương tự như hình thức mà tòa án pháp luật sẽ cấp. Trọng tài viên sẽ không có thẩm quyền phán quyết các thiệt hại trừng phạt. Phán quyết trọng tài kết quả có thể được thi hành, hoặc có thể tìm kiếm biện pháp cứu trợ tạm thời, tại bất kỳ tòa án có thẩm quyền nào ở Estonia. Chi phí hợp lý (bao gồm tất cả các chi phí trọng tài) và phí luật sư sẽ được trao cho bên bắt đầu phân xử trọng tài, trong trường hợp bên đó không thắng kiện trong phân xử trọng tài. Các bên tuân theo điều khoản trọng tài này bao gồm MicronVPN, cán bộ, giám đốc và nhân viên của MicronVPN cũng như bất kỳ công ty hoặc pháp nhân nào là công ty mẹ, công ty con hoặc công ty chị em của MicronVPN hoặc MicronVPN đã ký hợp đồng cung cấp dịch vụ cho Người đăng ký thông qua MicronVPN.
+Các điều khoản cuối cùng Nếu bất kỳ điều khoản nào trong Thỏa thuận này bị coi là không hợp lệ hoặc không thể thi hành, thì điều khoản đó sẽ được hiểu theo cách phù hợp với luật hiện hành để phản ánh mục đích ban đầu của điều khoản và các điều khoản còn lại của Thỏa thuận này sẽ vẫn có đầy đủ hiệu lực. Bất kỳ sự thất bại nào trong việc thực hiện hoặc thực thice bất kỳ quyền hoặc điều khoản của thỏa thuận này sẽ không cấu thành từ bỏ quyền hoặc điều khoản đó.";

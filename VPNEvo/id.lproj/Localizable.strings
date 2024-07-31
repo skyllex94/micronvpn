@@ -1,0 +1,211 @@
+/*
+  Localizable.strings
+  VPNEvo
+
+  Created by Devang on 14/03/22.
+  
+*/
+
+
+"Terms of Use" = "Syarat Penggunaan";
+"Agree & Continue" = "Setuju & Lanjutkan";
+
+"Continue" = "Melanjutkan";
+
+"Connect" = "Menghubung";
+"Disconnect" = "Memutuskan";
+
+"point1" = "Akses Konten Global";
+"point1desc" = "Dapatkan akses ke semua situs dan layanan, di seluruh dunia dengan mengubah lokasi virtual Anda.";
+
+"point2" = "Jelajahi Web Secara Pribadi";
+"point2desc" = "Sembunyikan alamat IP Anda dan enkripsi semua lalu lintas web Anda dengan enkripsi tingkat militer untuk melindungi privasi online Anda";
+
+"point3" = "Koneksi Cepat & Stabil";
+"point3desc" = "Jelajahi, mainkan, atau streaming dari Netflix, Youtube, Hulu, dan lainnya, tanpa jeda";
+
+
+"Privacy Policy" = "Kebijakan pribadi";
+"Restore" = "Memulihkan";
+
+"Continue" = "Melanjutkan";
+
+//SideMenu
+
+"HOME" = "RUMAH";
+"SUBSCRIPTION" = "BERLANGGANAN";
+"RESTORE" = "MEMULIHKAN";
+"RATE APP" = "TINGKATKAN APLIKASI";
+"CONTACT US" = "HUBUNGI KAMI";
+"SHARE APP" = "BAGIKAN APLIKASI";
+"PRIVACY POLICY" = "KEBIJAKAN PRIBADI";
+"TERMS & CONDITIONS" = "SYARAT & KETENTUAN";
+"AD BLOCKER" = "PEMBLOKIR IKLAN";
+"SIGN IN" = "MASUK";
+
+//SideMenu Banner
+"VPN Premium" = "VPN Premium";
+"Start your free 3 day trial" = "Mulai uji coba gratis 3 hari Anda";
+"Go Pro to unlock all countries" = "Go Pro untuk membuka kunci semua negara";
+
+
+//Home Screen
+"Ok" = "Oke";
+
+"Warning" = "Peringatan";
+"VPN Profile is necessary! Click Start and enter Touch/Face ID to start." = "Profil VPN diperlukan! Klik Mulai dan masukkan Touch/Face ID untuk menghubungkan.";
+"You have to add VPN Configuration to start." = "Anda harus menambahkan Konfigurasi VPN untuk memulai.";
+"Start" = "Awal";
+"Cancel" = "Membatalkan";
+"Add" = "Menambahkan";
+
+"Connecting" = "Menghubungkan...";
+"Disconnected" = "Terputus";
+"Connected" = "Terhubung";
+"Tap to Connect" = "Ketuk untuk Menghubungkan";
+"Tap to Disconnect" = "Ketuk untuk Memutuskan";
+
+"Quick Access" = "Akses Cepat";
+"All Servers" = "Semua Server";
+"Country List" = "Daftar Negara";
+
+// rate us
+
+"We work 24/7 to give the best, most reliable VPN" = "Kami bekerja 24/7 untuk memberikan VPN terbaik dan paling andal";
+"Please take a moment to rate our app and tell us how we’re doing" = "Harap luangkan waktu untuk menilai aplikasi kami dan beri tahu kami kabarnya";
+
+"rate_the_app" = "Nilai aplikasinya";
+"maybelater" = "Mungkin nanti";
+
+// scan
+
+"System Scanning" = "Pemindaian Sistem";
+"Granted permissions" = "Izin yang diberikan";
+"Applications folders" = "folder aplikasi";
+"Junk" = "sampah";
+"Malware Check" = "Pemeriksaan Malware";
+"Anonymous request" = "Permintaan anonim";
+"Safari history" = "Sejarah Safari";
+"Personal info" = "Informasi pribadi";
+
+//Cleaning ProcessVC
+"Protecting iPhone" = "Melindungi iPhone";
+"Don't remove the app" = "Jangan hapus aplikasi";
+"The process will continue Automatically. You can close the app to proceed" = "Proses akan berlanjut secara otomatis. Anda dapat menutup aplikasi untuk melanjutkan";
+"Do not remove the app. Your iPhone is still unprotected" = "Jangan hapus aplikasi. iPhone Anda masih tidak terlindungi";
+
+//CleanSuccess VC
+"Success!" = "Pengoptimalan Selesai";
+"YOUR PHONE IS PROTECTED" = "Perangkat Anda terlindungi dan aman dari ancaman online";
+"Do not remove the app. The next analysis will proceed automaticallv in" = "Jangan hapus aplikasi";
+"Days" = "hari";
+"Minutes" = "Menit";
+"Seconds" = "Detik";
+
+//SaleScreen
+"You Have Unlocked Our Secret Offer!" = "Anda Telah Membuka Kunci Penawaran Rahasia Kami!";
+"Hurry! We can't hold this offer for too long:" = "Buru-buru! Kami tidak dapat menahan penawaran ini terlalu lama:";
+"Get This Secret Offer" = "Dapatkan Penawaran Rahasia Ini";
+"Limited Offer" = "Offre limitée";
+"Unlock all Features For Half Price" = "Débloquez toutes les fonctionnalités à moitié prix";
+
+// detected
+
+"iPhone Security" = "Keamanan iPhone";
+"Connection is not protected" = "Koneksi tidak terlindungi";
+"Please clean iPhone immediately" = "Tolong bersihkan iPhone segera";
+
+"MESSAGE" = "PESAN";
+"now" = "sekarang";
+"Protection required" = "Diperlukan perlindungan";
+
+"Personal information, passwords, messages, bank details and photos are at risk." = "Informasi pribadi, kata sandi, pesan, detail bank, dan foto berisiko.";
+"Turn on VPN" = "Aktifkan VPN";
+
+// subcribe
+
+"Get Full Access" = "Dapatkan Akses Penuh";
+"Unlimited & fast servers" = "Server tidak terbatas & cepat";
+"Worldwide locations" = "Lokasi di seluruh dunia";
+"Secure & private connection" = "Koneksi aman & pribadi";
+"Anonymous surfing" = "Berselancar anonim";
+"Ad blocker" = "Pemblokir iklan";
+"Multi device support" = "Dukungan multi perangkat";
+"Kill switch" = "Membunuh beralih";
+"1 Week" = "1 minggu";
+"1 Year • SAVE 85%" = "1 Tahun • HEMAT 85%";
+"BEST DEAL" = "PENAWARAN TERBAIK";
+"Try Risk Free" = "Coba Bebas Risiko";
+"Subcribe now" = "Berlangganan sekarang";
+
+//Login registration
+"Login To Your Acccount" = "Masuk ke Akun Anda";
+"Enter your email" = "Masukkan email Anda";
+"Enter your password" = "Masukkan kata sandi Anda";
+"Sign In" = "Masuk";
+"Don't have an account? Sign Up" = "Belum punya akun? Daftar";
+"Create Your Account" = "Buat akunmu";
+"Sign Up" = "Daftar";
+"Already have an account? Sign In" = "Sudah memiliki akun? Masuk";
+
+//ADblocker
+"Disabled" = "Dengan disabilitas";
+"Enabled" = "Diaktifkan";
+"Adblocker is disabled \n and ads are not blocked" = "Adblocker dinonaktifkan \n dan iklan tidak diblokir";
+"Adblocker is enabled \n and ads are blocked" = "Adblocker diaktifkan \n dan iklan diblokir";
+
+
+"p_policy" = "Kebijakan pribadi
+MicronVPN berkomitmen untuk melindungi privasi Anda. Kami ingin Anda memahami informasi apa yang kami kumpulkan, apa yang tidak kami kumpulkan, dan bagaimana kami mengumpulkan, menggunakan, dan menyimpan informasi.
+
+MicronVPN tidak mengumpulkan nama, alamat email, dan informasi pribadi Anda. Kami tidak mengumpulkan log aktivitas Anda, termasuk tidak mencatat riwayat penelusuran, tujuan lalu lintas, konten data, atau kueri DNS. Kami juga tidak pernah menyimpan log alamat IP Anda. Prinsip panduan kami terhadap pengumpulan data adalah hanya mengumpulkan data minimal yang diperlukan untuk mengoperasikan layanan VPN kelas dunia dalam skala besar. Kami merancang sistem kami agar tidak memiliki data sensitif tentang pelanggan kami; bahkan ketika terpaksa kami tidak dapat memberikan data yang tidak kami miliki. Kebijakan privasi ini akan membantu Anda memahami cara MicronVPN mengumpulkan, menggunakan, dan menyimpan informasi.
+
+Informasi Umum
+Kami mengumpulkan tiga jenis informasi:
+
+Statistik ringkasan koneksi VPN MicronVPN mengumpulkan informasi minimal tentang penggunaan Untuk mempertahankan dukungan pelanggan yang sangat baik dan kualitas layanan. Bagian di bawah menjelaskan secara rinci informasi spesifik apa yang kami kumpulkan. Statistik ini tidak pernah menyertakan apa pun tentang apa yang dilakukan pengguna dengan VPN: tidak ada data tentang konten atau tujuan lalu lintas VPN, tidak ada kueri DNS, dan tidak ada alamat IP.
+Informasi Pembelian Apple App Store Kami menawarkan pembelian dalam aplikasi untuk layanan premium kami dan kami menyimpan informasi pembelian yang diterima dari Apple untuk penyediaan layanan premium kelas dunia kami.
+Data Analitik Dalam Aplikasi Kami mengumpulkan data seperti halaman mana yang diklik pengguna pada aplikasi dan sistem operasi pengguna.
+Lainnya Kami mengumpulkan id unik pelanggan kami, id sesi, jenis pengguna (premium atau gratis), ip server yang terhubung dengan pengguna, penghitungan data input & output (hanya menghitung tidak merekam – dengan interval 5 menit), stempel waktu penghitungan data, penyebab penghentian koneksi, alamat ip internal server yang disambungkan pengguna, alamat ip internal koneksi pengguna yang diberikan oleh server secara otomatis dan informasi pembelian pengguna disediakan oleh Apple Inc.
+Informasi Pribadi MicronVPN tidak mengumpulkan nama, alamat email, dan informasi pribadi Anda. Jika Anda ingin memulai email atau obrolan Intercom untuk tujuan dukungan atau pertanyaan lain, terserah Anda untuk memberikan email Anda. Jika Anda melakukannya, kami tidak akan menyimpannya di basis data kami, atau menjualnya ke pihak ketiga, karena hanya akan digunakan untuk tujuan dukungan. Statistik Ringkasan Koneksi VPN Kami memastikan bahwa kami tidak pernah mencatat riwayat penelusuran, tujuan lalu lintas, konten data, alamat IP, atau kueri DNS. Oleh karena itu: Kami tidak mengetahui pengguna mana yang pernah mengakses situs web atau layanan tertentu. Kami tidak mengetahui kumpulan alamat IP asli dari komputer pengguna.
+
+Jika ada yang mencoba memaksa MicronVPN untuk merilis informasi pengguna berdasarkan hal-hal di atas, kami tidak dapat memberikan informasi ini karena datanya tidak ada. Untuk mempertahankan dukungan pelanggan yang sangat baik dan kualitas layanan, MicronVPN mengumpulkan informasi berikut terkait dengan penggunaan VPN Anda: Nama Pengguna dan ID Sesi Kami menyimpan id pengguna yang dihasilkan komputer unik dan menghasilkan id sesi di bawah id pengguna ini. Id pengguna ini memungkinkan anonimitas lengkap sambil memastikan koneksi berhasil. Jenis Pengguna & Koneksi Kami menyimpan jenis pengguna untuk penyediaan layanan premium bagi pengguna kami. Kami mengumpulkan informasi tentang apakah Anda telah berhasil membuat VPN, ke lokasi VPN dan IP server mana (tetapi bukan alamat IP keluar yang Anda tetapkan). Informasi minimal ini membantu kami dalam memberikan dukungan teknis, seperti mengidentifikasi masalah koneksi dan memungkinkan teknisi MicronVPN untuk mengidentifikasi dan memperbaiki masalah jaringan.
+
+Input dan output data yang ditransfer (dalam MB) direkam dalam interval 5 menit dengan cap waktu. Kami mengumpulkan informasi mengenai jumlah total transfer data yang Anda gunakan. Meskipun kami menyediakan transfer data tanpa batas, jika kami melihat bahwa satu pengguna mendorong lebih banyak lalu lintas daripada gabungan ribuan pengguna, sehingga memengaruhi kualitas layanan untuk pengguna MicronVPN lainnya, kami dapat menghentikan keanggotaan. Selain itu, alamat IP internal server VPN yang Anda sambungkan dicatat untuk tujuan dukungan teknis.
+
+Ringkasan:
+
+Kami mengumpulkan statistik penggunaan minimal untuk mempertahankan kualitas layanan kami. Kami mungkin tahu, misalnya, bahwa pelanggan kami telah terhubung ke lokasi VPN London kami pada hari Selasa dan telah mentransfer agregat data sebesar 823 MB selama periode 24 jam. Pelanggan kami tidak dapat diidentifikasi secara unik sebagai bertanggung jawab atas perilaku tertentu apa pun karena pola penggunaannya tumpang tindih dengan ribuan pelanggan MicronVPN lainnya yang juga terhubung ke lokasi yang sama pada hari yang sama. Kami telah merekayasa sistem kami untuk mengeliminasi penyimpanan data sensitif secara kategoris. Kami mungkin tahu BAHWA seorang pelanggan telah menggunakan MicronVPN , tetapi kami tidak pernah tahu BAGAIMANA mereka menggunakan layanan kami. Kami mendukung komitmen kuat kami terhadap privasi pelanggan kami dengan tidak memiliki data apa pun yang terkait dengan aktivitas online pengguna. Diagnostik Koneksi VPN Anonim dan Laporan Kerusakan (Dapat tdimatikan oleh pengguna) Kami mengumpulkan data analitik anonim yang digunakan untuk diagnostik jaringan setelah pemasangan aplikasi. Kami menggunakan data ini di alat operasi jaringan kami untuk membantu mengoptimalkan kecepatan jaringan dan memungkinkan kami mengidentifikasi masalah yang terkait dengan aplikasi tertentu, server VPN, atau ISP.
+
+Informasi yang kami terima sepenuhnya dianonimkan dan tidak dapat dikaitkan kembali ke masing-masing pengguna MicronVPN (yaitu kami tidak menyimpan pengguna mana yang mengirim data mana, dan tidak menyimpan alamat IP). Jika Anda memilih untuk membagikan informasi ini dengan MicronVPN, kami akan mengumpulkan informasi berikut: Informasi diagnostik tentang bagaimana upaya koneksi VPN gagal. Data uji kecepatan Laporan kerusakan, juga tanpa informasi pengenal pribadi apa pun. Bergantung pada platform Anda, ini dikirim ke pihak ketiga berikut: iOS: Crashlytics (dimiliki oleh Google). Lihat Kebijakan Privasi Crashlytics. iOS: Apple. Lihat Kebijakan Privasi Apple. iOS membagikan data ini secara default. Anda dapat menonaktifkannya di pengaturan iOS seperti yang dijelaskan di sini. iOS: Firebase. Lihat Ketentuan Layanan Firebase. iOS: Amplitudo. Lihat Ketentuan Layanan Amplitudo. Setelah aktivasi aplikasi Titan VPN apa pun, Anda akan ditanya apakah Anda ingin membagikan data ini. Yurisdiksi dan Hukum yang Berlaku Misi inti Titan VPN adalah menjaga kerahasiaan informasi Anda.
+
+Untuk melayani misi ini, kantor pusat dan tempat bisnis terdaftar MicronVPN berada di Republik Estonia (Estonia), yang memiliki undang-undang yang lebih ketat terkait pengungkapan informasi daripada kebanyakan negara. Jika kami menerima perintah hukum yang sah dari Pengadilan Tinggi Estonia, penting untuk diperhatikan bahwa MicronVPN tidak mengumpulkan alamat IP, riwayat penelusuran, data lalu lintas, atau kueri DNS apa pun yang dapat digunakan untuk mengidentifikasi pengguna tertentu. Menyimpan Informasi Terkait Email, Obrolan Langsung, dan Formulir Umpan Balik MicronVPN menyimpan catatan korespondensi, pertanyaan, keluhan, atau pujian apa pun yang Anda kirimkan kepada kami melalui Situs atau Layanan kami, bersama dengan tanggapan kami.
+
+Bergantung pada cara Anda menghubungi MicronVPN, kami dapat mengumpulkan alamat email Anda dan informasi tambahan apa pun yang Anda berikan kepada kami. Memiliki catatan korespondensi lengkap memungkinkan staf kami memberikan pengalaman dukungan pelanggan sebaik mungkin. Kami menggunakan platform pihak ketiga untuk korespondensi dukungan: Interkom untuk email, tiket dukungan, dan obrolan langsung. Saat Anda berkorespondensi dengan kami menggunakan platform ini, catatan korespondensi Anda, termasuk nama dan alamat email Anda, disimpan di sistem mereka. Kedua platform menggunakan praktik keamanan modern dan enkripsi HTTPS. Tindakan Keamanan untuk Melindungi Informasi Anda MicronVPN menggunakan keamanan fisik, prosedural, dan teknis terbaik di kelasnya sehubungan dengan kantor kami dan fasilitas penyimpanan informasi untuk mencegah kehilangan, penyalahgunaan, akses tidak sah, pengungkapan, atau modifikasi informasi. Akses ke informasi pengguna dibatasi untuk staf yang membutuhkan akses tersebut untuk melakukan fungsi pekerjaan mereka. Meskipun kami yakin sistem ini kuat, penting untuk dipahami bahwa tidak ada tindakan keamanan data di dunia yang dapat menawarkan perlindungan 100%. Server ditempatkan di pusat data dengan praktik keamanan yang kuat. Tak satu pun dari pusat data ini yang mengharuskan kami untuk mengumpulkan atau menyimpan data lalu lintas atau informasi pribadi apa pun yang terkait dengan penggunaan Anda atas Layanan VPN. Jika ada pusat data yang meminta kami untuk mencatat data tersebut, kami akan segera menghentikan operasi dengan pusat data tersebut dan mencari opsi alternatif. Bahkan jika pemerintah secara fisik merebut salah satu server VPN kami dan berhasil memecahkan enkripsi disk mereka, tidak akan ada log atau informasi yang akan mengikat setiap pengguna ke acara, situs web, atau perilaku tertentu.
+
+Kue
+
+MicronVPN tidak mengumpulkan cookie. Persetujuan dan Pembatasan Usia Dengan menggunakan Situs, Konten, Aplikasi, Perangkat Lunak, atau Layanan, Anda setuju agar informasi Anda ditangani sebagaimana dijelaskan dalam Ketentuan Layanan dan Kebijakan Privasi kami. Layanan ditujukan untuk orang dewasa berusia 18 tahun ke atas. Jika Anda yakin anak Anda telah memberikan informasi kepada kami, harap segera beri tahu kami. Perubahan pada Kebijakan Privasi Kami dapat mengubah Kebijakan Privasi kami dari waktu ke waktu, tanpa pemberitahuan sebelumnya kepada Anda, sesuai dengan undang-undang dan prinsip privasi yang berlaku. Anda terus menggunakan Situs atau Layanan merupakan penerimaan Anda terhadap Kebijakan Privasi kami. Cara Menghubungi MicronVPN Jika Anda memiliki pertanyaan tentang Kebijakan Privasi kami dan bagaimana kami menangani informasi Anda, jangan ragu untuk menghubungi kami di zionstudiosapps@gmail.com";
+
+"t_terms" = "Dokumen Ketentuan Layanan ini (Ketentuan) menguraikan syarat dan ketentuan penggunaan layanan VPN (Layanan atau Layanan) yang disediakan oleh (MicronVPN). Ketentuan ini juga mengatur penggunaan dan akses ke konten MicronVPN (Konten), yang mencakup situs web MicronVPN (Situs), aplikasi (Aplikasi), dan perangkat lunak apa pun yang disediakan oleh MicronVPN (Perangkat Lunak).
+
+Dengan menyetujui Ketentuan ini, Anda juga menyetujui Kebijakan Privasi (Privacy Policy), yang dapat Anda baca di sini.
+
+Penerimaan Dengan mengakses Konten atau Layanan, Anda menyetujui atas nama Anda sendiri atau orang yang Anda wakili (Anda) untuk mematuhi dan terikat secara hukum oleh Ketentuan ini secara keseluruhan. Ketentuan ini merupakan perjanjian yang mengikat secara hukum (Perjanjian) antara Anda dan MicronVPN. Jika Anda tidak setuju dengan bagian mana pun dari Ketentuan ini, Anda tidak boleh menggunakan Layanan kami. Dengan membuat akun untuk menggunakan Layanan kami, Anda menyatakan bahwa Anda setidaknya berusia delapan belas (18) tahun atau bahwa Anda adalah badan hukum yang sah, dan bahwa informasi pendaftaran yang Anda berikan akurat dan lengkap.
+Modifikasi MicronVPN dapat memperbarui Ketentuan dari waktu ke waktu tanpa pemberitahuan. Jika Anda terus menggunakan Layanan, Konten, Situs, Aplikasi, atau Perangkat Lunak MicronVPN setelah perubahan ini berlaku, maka Anda menyetujui Ketentuan yang direvisi. Versi Ketentuan saat ini tersedia di Situs. Anda memahami dan setuju bahwa adalah kewajiban Anda untuk meninjau Ketentuan ini dari waktu ke waktu agar tetap mengetahui peraturan dan kewajiban saat ini. Pemberitahuan tentang setiap perubahan inti pada Ketentuan akan diberikan kepada pelanggan melalui pesan email atau pembaruan ke Situs. Penggunaan Anda atas Konten atau Layanan setelah perubahan Ketentuan ini merupakan penerimaan Anda terhadap Ketentuan yang diubah.
+Kebijakan Privasi MicronVPN berkomitmen untuk privasi Anda dan tidak mengumpulkan atau mencatat riwayat penelusuran, tujuan lalu lintas, konten data, atau kueri DNS dari Pelanggan yang terhubung ke VPN kami. Kami hanya mengumpulkan informasi yang diperlukan untuk pengiriman yang tepat dari Situs dan Layanan. Demi kejelasan dan transparansi, kami telah menempatkan semua informasi terkait pengumpulan data dalam dokumen terpisah yang dikenal sebagai Kebijakan Privasi, yang tersedia di Situs. Harap tinjau Kebijakan Privasi secara keseluruhan untuk mendapatkan pemahaman yang jelas tentang cara kami menangani data sensitif Anda.
+Langganan Layanan MicronVPN tersedia untuk Anda setelah pendaftaran di Situs. Dengan berlangganan Layanan, Anda setuju untuk menjadi pelanggan (Pelanggan) untuk periode yang telah Anda pilih. Daftar lengkap paket berlangganan dan harga tersedia di aplikasi. MicronVPN berhak untuk mengubah biaya berlangganan atau melembagakan biaya baru kapan saja setelah pemberitahuan sebelumnya yang wajar diposting di Situs atau dikirim melalui email. Setiap perubahan pada harga tidak akan memengaruhi periode langganan Pelanggan saat ini dan akan berlaku setelah perpanjangan langganan. Bila didukung oleh metode pembayaran Anda, paket diperbarui secara otomatis secara default pada akhir periode penagihan. Secara default, jangka waktu perpanjangan memiliki durasi yang sama dengan jangka waktu penagihan untuk langganan asli. Biaya berlangganan akan dibebankan secara otomatis ke metode pembayaran yang terakhir Anda pilih. Jika Anda ingin menghentikan perpanjangan otomatis, Anda dapat masuk ke Situs dan mematikan perpanjangan otomatis. Secara default, perpanjangan otomatis diaktifkan saat Anda menggunakan metode pembayaran yang mendukung perpanjangan otomatis (seperti kartu kredit atau Paypal), dan dinonaktifkan saat Anda menggunakan metode pembayaran yang tidak mendukung perpanjangan otomatis (seperti bitcoin ). Setiap langganan berbayar memberi Anda satu
+lisensi untuk digunakan pada tiga (3) perangkat berbeda pada waktu tertentu. Jika Anda ingin menggunakan Layanan di lebih dari tiga perangkat sekaligus, Anda dapat (i) menggunakan MicronVPN di router Anda
+membeli paket berlangganan tambahan, atau
+membeli lisensi tambahan melalui opsi 'lisensi volume'. Untuk informasi lebih lanjut tentang program 'lisensi volume', silakan hubungi dukungan.
+Kebijakan Pengembalian Dana Pengembalian dana ditangani oleh Apple App Store.
+Kebijakan Penggunaan yang Dapat Diterima Layanan MicronVPN dapat diakses dari seluruh dunia, jadi Anda bertanggung jawab untuk menilai apakah menggunakan Situs, Aplikasi, Perangkat Lunak, atau Layanan sesuai dengan undang-undang dan peraturan setempat. Setiap kali Anda menggunakan Situs, Aplikasi, Perangkat Lunak, atau Layanan, Anda harus mematuhi Ketentuan ini dan undang-undang, peraturan, dan kebijakan yang berlaku. Anda memahami bahwa Anda bertanggung jawab untuk merahasiakan informasi akun Titan VPN Anda. Anda bertanggung jawab atas semua aktivitas di bawah akun Anda. Jika Anda pernah menemukan atau menduga bahwa seseorang telah mengakses akun Anda tanpa izin Anda, Anda disarankan untuk segera memberi tahu kami agar kami dapat mencabut kredensial akun Anda dan menerbitkan yang baru. MicronVPN bertujuan untuk memberikan layanan terbaik untuk semua Pelanggan kami. Dalam hal itu, kami meminta Anda untuk tidak menyalahgunakan Konten atau Layanan kami. Penyalahgunaan mengacu pada setiap penggunaan, akses, atau gangguan terhadap Konten atau Layanan yang bertentangan dengan Ketentuan atau laWS dan peraturan. Untuk melindungi Layanan agar tidak disalahgunakan atau digunakan untuk menyakiti seseorang, MicronVPN berhak mengambil tindakan yang tepat ketika Layanan kami digunakan bertentangan dengan Ketentuan ini dan undang-undang yang berlaku. Anda setuju bahwa MicronVPN dapat mengakhiri akun Anda, tanpa memberikan pengembalian uang untuk Layanan yang telah dibayarkan, jika Anda menyalahgunakan Layanan. Dalam menggunakan Layanan kami, Anda setuju untuk tidak: Mengirim atau mentransmisikan iklan atau konten yang tidak diminta (yaitu, spam) melalui Layanan. Mengirim, memposting, atau mentransmisikan melalui Layanan konten apa pun yang ilegal, penuh kebencian, mengancam, menghina, atau memfitnah; melanggar hak kekayaan intelektual; menyerang privasi; atau memicu kekerasan. Mengunggah, mengunduh, memposting, mereproduksi, atau mendistribusikan konten apa pun yang dilindungi oleh hak cipta atau hak kepemilikan lainnya tanpa terlebih dahulu memperoleh izin dari pemilik konten kepemilikan. Mengunggah, mengunduh, memposting, mereproduksi, atau mendistribusikan konten apa pun yang mencakup penggambaran anak di bawah umur secara seksual atau eksplisit. Terlibat dalam tindakan apa pun yang membatasi atau menghalangi Pelanggan lain mana pun untuk menggunakan atau menikmati Layanan. Mencoba mengakses, menyelidiki, atau menghubungkan ke perangkat komputasi tanpa otorisasi yang tepat (yaitu, segala bentuk peretasan). Mencoba menyusun, memanfaatkan, atau mendistribusikan daftar alamat IP yang dioperasikan oleh MicronVPN sehubungan dengan Layanan. Menggunakan Layanan untuk apa pun selain tujuan yang sah.
+Lisensi Tunduk pada kepatuhan Anda terhadap Ketentuan ini, MicronVPN memberi Anda lisensi non-eksklusif dan terbatas untuk mengunduh dan menggunakan Perangkat Lunak. Memodifikasi, mendistribusikan ke pihak yang tidak berwenang, merekayasa balik, atau menggunakan Perangkat Lunak dengan cara apa pun yang tidak secara tegas diizinkan oleh MicronVPN dilarang keras. Penggunaan materi apa pun yang tunduk pada hak kekayaan intelektual MicronVPN dilarang kecuali Anda telah diberikan persetujuan tertulis secara eksplisit oleh MicronVPN.
+Bahasa dan Terjemahan Konten Semua Konten kami awalnya ditulis dalam bahasa Inggris. Setiap terjemahan Konten kami dilakukan berdasarkan upaya terbaik. Kami tidak dapat menjamin keakuratan Konten yang diterjemahkan. Dalam hal terjadi ketidaksesuaian antara Konten yang diterjemahkan dan Konten Bahasa Inggris, Konten Bahasa Inggris yang akan berlaku.
+Situs Web pihak ketiga MicronVPN dapat memberi Anda konten milik Pihak Ketiga (Pihak Ketiga) atau tautan yang mengarah ke situs web pihak ketiga. MicronVPN tidak bertanggung jawab atas ketersediaan konten yang disediakan oleh Pihak Ketiga karena mereka tidak berada di bawah kendali atau pengawasan MicronVPN, dan mereka mungkin memiliki ketentuan penggunaan dan kebijakan yang berbeda. Akses Anda melalui Layanan kami ke situs web, layanan, atau konten apa pun yang disediakan oleh Pihak Ketiga tidak menunjukkan hubungan apa pun antara MicronVPN dan Pihak Ketiga tersebut.
+Penafian Kami akan berusaha untuk mencegah gangguan pada Situs dan Layanan. Namun, ini disediakan berdasarkan apa adanya dan tersedia, dan kami tidak menjamin, baik secara tersurat maupun tersirat, keakuratan materi atau informasi apa pun yang disediakan melalui Situs atau Layanan, atau kesesuaiannya untuk tujuan tertentu apa pun. Kami secara tegas menafikan semua jaminan dalam bentuk apa pun, baik tersurat maupun tersirat, termasuk namun tidak terbatas pada jaminan dapat diperjualbelikan atau kesesuaian untuk tujuan tertentu, atau non-pelanggaran. Kami tidak menjamin bahwa Layanan akan memenuhi persyaratan Anda, atau bahwa Layanan tidak akan terganggu, tepat waktu, aman, atau bebas dari kesalahan, atau bahwa kerusakan, jika ada, akan diperbaiki. Anda mengakui bahwa Anda mengakses Situs dan Layanan atas risiko dan kebijaksanaan Anda sendiri. Cakupan layanan VPN, kecepatan, lokasi server, dan kualitas dapat bervariasi. MicronVPN akan berusaha menyediakan Layanan setiap saat. Namun, Layanan mungkin tidak tersedia karena berbagai faktor di luar kendali kami, termasuk namun tidak terbatas pada keadaan darurat; kegagalan layanan pihak ketiga; atau transmisi, peralatan, atau masalah atau keterbatasan jaringan, interferensi, atau kekuatan sinyal; dan dapat diinterupsi, ditolak, dibatasi, atau dikurangi. Kami tidak bertanggung jawab atas data, pesan, atau halaman yang hilang, tidak terkirim, tertunda, atau salah arah karena gangguan atau masalah kinerja dengan Layanan, layanan komunikasi, atau jaringan. Kami dapat mengenakan batasan penggunaan atau Layanan, menangguhkan Layanan, mengakhiri akun VPN, atau memblokir jenis penggunaan tertentu atas kebijakan kami sendiri untuk melindungi Pelanggan atau Layanan. Keakuratan dan ketepatan waktu data yang diterima tidak dijamin; penundaan atau kelalaian dapat terjadi. MicronVPN berhak menyelidiki hal-hal yang kami anggap sebagai pelanggaran Ketentuan ini. Kami dapat, tetapi tidak berkewajiban untuk, atas kebijakan kami sendiri dan tanpa pemberitahuan, menghapus, memblokir, memfilter, atau membatasi dengan cara apa pun materi atau informasi apa pun yang kami anggap sebagai pelanggaran aktual atau potensial terhadap pembatasan yang ditetapkan dalam Ketentuan ini, dan aktivitas lain apa pun yang dapat membuat MicronVPN atau pelanggan kami bertanggung jawab. MicronVPN menafikan setiap dan semua tanggung jawab atas kegagalan apa pun di pihak kami untuk mencegah materi atau informasi tersebut dari being dikirimkan melalui Layanan dan/atau ke perangkat komputasi Anda.
+Batasan Tanggung Jawab MicronVPN tidak akan bertanggung jawab dan tidak akan memiliki tanggung jawab apa pun kepada Pelanggan atau individu lain mana pun atas kehilangan atau kerusakan yang Anda alami jika terjadi: kegagalan atau gangguan apa pun pada Situs atau Layanan; setiap tindakan atau kelalaian Pihak Ketiga mana pun yang terlibat dalam membuat Situs atau Layanan atau data yang terkandung di dalamnya tersedia untuk Anda; penyebab lain apa pun yang berkaitan dengan akses atau penggunaan Anda, atau ketidakmampuan untuk mengakses atau menggunakan, bagian mana pun dari Situs atau Kontennya; interaksi Anda di Situs atau Layanan; kegagalan Anda untuk mematuhi Perjanjian ini; biaya pengadaan barang atau jasa pengganti; atau akses tidak sah ke atau pengubahan transmisi atau data Anda, baik keadaan yang menimbulkan penyebab tersebut berada dalam kendali MicronVPN atau vendor mana pun yang menyediakan perangkat lunak, layanan, atau dukungan untuk Situs atau Layanan. Dalam keadaan apa pun MicronVPN, mitra, afiliasi, anak perusahaan, anggota, pejabat, atau karyawannya tidak akan bertanggung jawab atas kerusakan langsung, khusus, tidak langsung, konsekuensial, atau insidental apa pun, atau atas kerugian atau kerusakan lain dalam bentuk apa pun, bahkan jika mereka telah diberitahu tentang kemungkinannya. Hal tersebut di atas tidak berlaku sejauh dilarang oleh hukum yang berlaku.
+Ganti Rugi Anda setuju untuk mengganti rugi, membela, dan membebaskan MicronVPN, pejabat, direktur, karyawan, anggota, mitra, agen, dan pemasoknya, serta afiliasi, pejabat, direktur, karyawan, anggota, pemegang saham, mitra, dan agen mereka masing-masing, dari setiap dan semua klaim dan pengeluaran, termasuk biaya pengacara, yang timbul dari penggunaan Anda atas Konten dan Layanan, termasuk namun tidak terbatas pada pelanggaran Anda terhadap Perjanjian ini. Kami dapat, atas kebijakan kami sendiri, menerima pembelaan dan kendali eksklusif atas masalah apa pun yang tunduk pada ganti rugi oleh Anda. Asumsi pertahanan atau kontrol tersebut oleh kami, bagaimanapun, tidak akan memaafkan kewajiban ganti rugi Anda.
+Pilihan Hukum Perjanjian ini diatur oleh dan ditafsirkan sesuai dengan hukum Estonia, tidak termasuk aturannya yang mengatur konflik hukum.
+Arbitrase Semua perselisihan yang timbul dari atau terkait dengan Perjanjian ini atau penggunaan Situs atau Layanan akhirnya akan diselesaikan berdasarkan Aturan Arbitrase (Aturan) Pusat Internasional untuk Penyelesaian Sengketa (ICDR) oleh seorang arbiter (Arbiter) yang ditunjuk sesuai dengan Aturan tersebut. Arbitrase akan dilakukan di Tallinn, Estonia, kecuali semua pihak menyetujui sebaliknya dengan perjanjian tertulis yang ditandatangani. Arbiter harus memenuhi syarat dan memiliki latar belakang di bidang jaringan komputer, termasuk namun tidak terbatas pada internet. Arbiter memiliki wewenang untuk mengizinkan pertukaran dokumen yang dipercepat, tetapi setiap penemuan akan dibatasi pada permintaan dokumen dan interogasi. Arbiter tidak akan memiliki kuasa atau wewenang untuk menambah atau mengurangi Perjanjian ini, dan biaya arbitrase akan ditanggung secara setara, kecuali seperti yang dijelaskan di bawah ini. Arbitrase akan dilakukan dengan jadwal yang dipercepat. Arbitrase harus diakhiri, dan keputusan dikeluarkan, selambat-lambatnya seratus dua puluh (120) hari setelah pengajuan permintaan arbitrase, kecuali semua pihak dalam proses arbitrase setuju secara tertulis untuk perpanjangan waktu atau kelanjutan. Tunduk pada hukum yang berlaku sebaliknya, Anda setuju bahwa penyebab tindakan apa pun yang timbul dari atau terkait dengan penggunaan Situs atau Layanan kami harus dimulai dalam satu (1) tahun setelah penyebab tindakan bertambah, atau tindakan tersebut akan dilarang secara permanen. Jika MicronVPN adalah responden dalam arbitrase tersebut, ganti rugi yang diberikan terhadap MicronVPN tidak boleh melebihi jumlah yang telah Anda bayarkan kepada MicronVPN untuk penggunaan Layanan. Arbiter memiliki kewenangan untuk memberikan pemulihan sementara, pendahuluan, atau ganti rugi dalam bentuk yang secara substansial serupa dengan yang akan diberikan oleh pengadilan hukum. Arbiter tidak memiliki wewenang untuk memutuskan ganti rugi. Putusan arbitrase yang dihasilkan dapat ditegakkan, atau ganti rugi dapat diminta, di pengadilan mana pun dengan yurisdiksi yang kompeten di Estonia. Biaya yang wajar (termasuk semua biaya arbitrase) dan biaya pengacara akan diberikan kepada pihak yang memulai arbitrase, jika pihak tersebut tidak menang dalam arbitrase. Para pihak yang tunduk pada ketentuan arbitrase ini termasuk MicronVPN, pejabat, direktur, dan karyawannya, dan setiap perusahaan atau badan hukum yang merupakan induk, anak perusahaan, atau perusahaan saudara dari MicronVPN, atau yang telah dikontrak oleh MicronVPN untuk menyediakan layanan kepada Pelanggan melalui MicronVPN.
+Ketentuan Akhir Jika ada ketentuan dalam Perjanjian ini yang dianggap tidak sah atau tidak dapat dilaksanakan, ketentuan tersebut harus ditafsirkan dengan cara yang konsisten dengan undang-undang yang berlaku untuk mencerminkan maksud asli dari ketentuan tersebut, dan ketentuan lainnya dari Perjanjian ini akan tetap berlaku sepenuhnya. Setiap kegagalan untuk berolahraga atau menegakkane setiap hak atau ketetapan dalam perjanjian ini bukan merupakan pengesampingan atas hak atau ketetapan tersebut.";

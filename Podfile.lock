@@ -1,0 +1,45 @@
+PODS:
+  - AppsFlyerFramework (6.14.6):
+    - AppsFlyerFramework/Main (= 6.14.6)
+  - AppsFlyerFramework/Main (6.14.6)
+  - CircleProgressBar (0.32)
+  - KAProgressLabel (3.3.3)
+  - MZTimerLabel (0.5.4)
+  - Pastel (0.6.0)
+  - YandexMobileMetrica (4.5.2):
+    - YandexMobileMetrica/Static (= 4.5.2)
+  - YandexMobileMetrica/Static (4.5.2):
+    - YandexMobileMetrica/Static/Core (= 4.5.2)
+    - YandexMobileMetrica/Static/Crashes (= 4.5.2)
+  - YandexMobileMetrica/Static/Core (4.5.2)
+  - YandexMobileMetrica/Static/Crashes (4.5.2):
+    - YandexMobileMetrica/Static/Core
+
+DEPENDENCIES:
+  - AppsFlyerFramework
+  - CircleProgressBar
+  - KAProgressLabel
+  - MZTimerLabel
+  - Pastel
+  - YandexMobileMetrica
+
+SPEC REPOS:
+  trunk:
+    - AppsFlyerFramework
+    - CircleProgressBar
+    - KAProgressLabel
+    - MZTimerLabel
+    - Pastel
+    - YandexMobileMetrica
+
+SPEC CHECKSUMS:
+  AppsFlyerFramework: bef4087719ce689835bbf408c61e2bcc5d4b8bd8
+  CircleProgressBar: 3920079be5224b62b3d9ed6eeb23ac01c835b681
+  KAProgressLabel: e487587ef405451677dcf660c946edc58bc4b41e
+  MZTimerLabel: cd9bfb9304540ef2a9e163384fca9c978f0dbf83
+  Pastel: 814f081efbe2859c37e65ee44f396e6e5be88619
+  YandexMobileMetrica: f5368ee93f286c793d73b58da00929babfc897c1
+
+PODFILE CHECKSUM: 8d5a07c161e91bc2a975bb03849c242ff44d3ad2
+
+COCOAPODS: 1.15.2

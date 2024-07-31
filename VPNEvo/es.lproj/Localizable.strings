@@ -1,0 +1,211 @@
+/*
+  Localizable.strings
+  VPNEvo
+
+  Created by Devang on 14/03/22.
+  
+*/
+
+
+"Terms of Use" = "Términos de Uso";
+"Agree & Continue" = "Aceptar y continuar";
+
+"Continue" = "Continuar";
+
+"Connect" = "Conectar";
+"Disconnect" = "Desconectar";
+
+"point1" = "Acceda al contenido global";
+"point1desc" = "Obtenga acceso a todos los sitios y servicios en todo el mundo cambiando su ubicación virtual.";
+
+"point2" = "Navegar por la web de forma privada";
+"point2desc" = "Oculte su dirección IP y cifre todo su tráfico web con cifrado de grado militar para proteger su privacidad en línea";
+
+"point3" = "Conexión rápida y estable";
+"point3desc" = "Navegue, juegue o transmita desde Netflix, Youtube, Hulu y más, sin demoras";
+
+
+"Privacy Policy" = "Política de privacidad";
+"Restore" = "Restaurar";
+
+"Continue" = "Continuar";
+
+//SideMenu
+
+"HOME" = "HOGAR";
+"SUBSCRIPTION" = "SUSCRIPCIÓN";
+"RESTORE" = "RESTAURAR";
+"RATE APP" = "CALIFICAR APLICACION";
+"CONTACT US" = "CONTÁCTENOS";
+"SHARE APP" = "COMPARTIR APLICACIÓN";
+"PRIVACY POLICY" = "POLÍTICA DE PRIVACIDAD";
+"TERMS & CONDITIONS" = "TÉRMINOS Y CONDICIONES";
+"AD BLOCKER" = "BLOQUEADOR DE ANUNCIOS";
+"SIGN IN" = "REGISTRARSE";
+
+//SideMenu Banner
+"VPN Premium" = "VPN prémium";
+"Start your free 3 day trial" = "Comience su prueba gratuita de 3 días";
+"Go Pro to unlock all countries" = "Go Pro para desbloquear todos los países";
+
+
+//Home Screen
+"Ok" = "OK";
+
+"Warning" = "Advertencia";
+"VPN Profile is necessary! Click Start and enter Touch/Face ID to start." = "¡El perfil VPN es necesario! Haga clic en Inicio e ingrese Touch/Face ID para conectarse.";
+"You have to add VPN Configuration to start." = "Tienes que agregar Configuración VPN para comenzar.";
+"Start" = "comienzo";
+"Cancel" = "Cancelar";
+"Add" = "Agregar";
+
+"Connecting" = "Conectando...";
+"Disconnected" = "Desconectado";
+"Connected" = "Conectado";
+"Tap to Connect" = "Toca para conectar";
+"Tap to Disconnect" = "Toque para desconectar";
+
+"Quick Access" = "Acceso rapido";
+"All Servers" = "Todos los servidores";
+"Country List" = "Lista de países";
+
+// rate us
+
+"We work 24/7 to give the best, most reliable VPN" = "Trabajamos 24/7 para brindar la mejor y más confiable VPN";
+"Please take a moment to rate our app and tell us how we’re doing" = "Tómese un momento para calificar nuestra aplicación y decirnos cómo lo estamos haciendo.";
+
+"rate_the_app" = "Califica la aplicación";
+"maybelater" = "Quizas mas tarde";
+
+// scan
+
+"System Scanning" = "Escaneo del sistema";
+"Granted permissions" = "Permisos concedidos";
+"Applications folders" = "carpetas de aplicaciones";
+"Junk" = "Basura";
+"Malware Check" = "Comprobación de malware";
+"Anonymous request" = "Solicitud anónima";
+"Safari history" = "historial de safaris";
+"Personal info" = "Información personal";
+
+//Cleaning ProcessVC
+"Protecting iPhone" = "Protegiendo el iPhone";
+"Don't remove the app" = "No elimines la aplicación";
+"The process will continue Automatically. You can close the app to proceed" = "El proceso continuará automáticamente. Puede cerrar la aplicación para continuar";
+"Do not remove the app. Your iPhone is still unprotected" = "No elimine la aplicación. Tu iPhone sigue desprotegido";
+
+//CleanSuccess VC
+"Success!" = "Optimización completa";
+"YOUR PHONE IS PROTECTED" = "Su dispositivo está protegido y está a salvo de amenazas en línea";
+"Do not remove the app. The next analysis will proceed automaticallv in" = "No elimines la aplicación";
+"Days" = "Días";
+"Minutes" = "Minutos";
+"Seconds" = "Segundos";
+
+//SaleScreen
+"You Have Unlocked Our Secret Offer!" = "¡Has desbloqueado nuestra oferta secreta!";
+"Hurry! We can't hold this offer for too long:" = "¡Apuro! No podemos mantener esta oferta por mucho tiempo:";
+"Get This Secret Offer" = "Obtenga esta oferta secreta";
+"Limited Offer" = "Oferta limitada";
+"Unlock all Features For Half Price" = "Desbloquee todas las funciones a mitad de precio";
+
+// detected
+
+"iPhone Security" = "Seguridad del iPhone";
+"Connection is not protected" = "La conexión no está protegida";
+"Please clean iPhone immediately" = "Limpia el iPhone inmediatamente";
+
+"MESSAGE" = "MENSAJE";
+"now" = "ahora";
+"Protection required" = "Protección requerida";
+
+"Personal information, passwords, messages, bank details and photos are at risk." = "La información personal, las contraseñas, los mensajes, los datos bancarios y las fotos están en riesgo.";
+"Turn on VPN" = "activar VPN";
+
+// subcribe
+
+"Get Full Access" = "Obtenga acceso completo";
+"Unlimited & fast servers" = "Servidores ilimitados y rápidos";
+"Worldwide locations" = "Ubicaciones en todo el mundo";
+"Secure & private connection" = "Conexión segura y privada";
+"Anonymous surfing" = "Navegación anónima";
+"Ad blocker" = "Bloqueador de anuncios";
+"Multi device support" = "Soporte para múltiples dispositivos";
+"Kill switch" = "interruptor de muerte";
+"1 Week" = "1 semana";
+"1 Year • SAVE 85%" = "1 año • AHORRE 85%";
+"BEST DEAL" = "MEJOR TRATO";
+"Try Risk Free" = "Prueba sin riesgos";
+"Subcribe now" = "Suscríbase ahora";
+
+//Login registration
+"Login To Your Acccount" = "Inicie sesión en su cuenta";
+"Enter your email" = "Introduce tu correo electrónico";
+"Enter your password" = "Ingresa tu contraseña";
+"Sign In" = "Registrarse";
+"Don't have an account? Sign Up" = "¿No tienes una cuenta? Inscribirse";
+"Create Your Account" = "Crea tu cuenta";
+"Sign Up" = "Inscribirse";
+"Already have an account? Sign In" = "¿Ya tienes una cuenta? Registrarse";
+
+//ADblocker
+"Disabled" = "Desactivado";
+"Enabled" = "Activado";
+"Adblocker is disabled \n and ads are not blocked" = "Adblocker está deshabilitado \n y los anuncios no están bloqueados";
+"Adblocker is enabled \n and ads are blocked" = "Adblocker está habilitado \n y los anuncios están bloqueados";
+
+
+"p_policy" = "Política de privacidad
+MicronVPN se compromete a proteger su privacidad. Queremos que comprenda qué información recopilamos, qué no recopilamos y cómo recopilamos, usamos y almacenamos información.
+
+MicronVPN no recopila su nombre, dirección de correo electrónico ni información personal. No recopilamos registros de su actividad, incluido el registro del historial de navegación, el destino del tráfico, el contenido de los datos o las consultas de DNS. Tampoco almacenamos registros de su dirección IP. Nuestro principio rector hacia la recopilación de datos es recopilar solo los datos mínimos necesarios para operar un servicio VPN de clase mundial a escala. Diseñamos nuestros sistemas para no tener datos sensibles sobre nuestros clientes; incluso cuando estamos obligados, no podemos proporcionar datos que no poseemos. Esta política de privacidad lo ayudará a comprender cómo MicronVPN recopila, usa y almacena información.
+
+Información general
+Recopilamos tres tipos de información:
+
+Estadísticas de resumen de conexión VPN MicronVPN recopila información mínima sobre el uso para mantener una excelente atención al cliente y calidad de servicio. La siguiente sección describe en detalle qué información específica recopilamos. Estas estadísticas nunca incluyen nada sobre lo que el usuario hizo con la VPN: no hay datos sobre el contenido o los destinos del tráfico VPN, no hay consultas de DNS ni direcciones IP.
+Información de compra de Apple App Store Ofrecemos compras en la aplicación para nuestro servicio premium y conservamos la información de compra recibida de Apple para la prestación de nuestro servicio premium de clase mundial.
+Datos analíticos en la aplicación Recopilamos datos como en qué páginas hace clic el usuario en la aplicación y el sistema operativo del usuario.
+Otros Recopilamos la identificación única de nuestro cliente, la identificación de la sesión, el tipo de usuario (premium o gratuito), la IP del servidor que conecta el usuario, el conteo de datos de entrada y salida (solo conteo sin registro, por intervalo de 5 minutos), marca de tiempo del conteo de datos, la causa de terminación de la conexión, la dirección IP interna del servidor al que se conecta el usuario, la dirección IP interna de la conexión del usuario que el servidor asigna automáticamente y la información de compra del usuario proporcionada por Apple Inc.
+Información personal MicronVPN no recopila su nombre, dirección de correo electrónico e información personal. Si desea iniciar un correo electrónico o un chat de Intercom con fines de soporte u otras consultas, depende de usted proporcionar su correo electrónico. Si lo hace, no la mantendremos en nuestra base de datos ni la venderemos a terceros, se utilizará solo con fines de soporte. Estadísticas resumidas de la conexión VPN Nos aseguramos de que nunca registremos el historial de navegación, el destino del tráfico, el contenido de los datos, las direcciones IP o las consultas de DNS. Por lo tanto: No sabemos qué usuario accedió alguna vez a un sitio web o servicio en particular. No conocemos el conjunto de direcciones IP originales de la computadora de un usuario.
+
+Si alguien intenta obligar a MicronVPN a divulgar la información del usuario en función de cualquiera de los anteriores, no podemos proporcionar esta información porque los datos no existen. Para mantener una excelente atención al cliente y calidad de servicio, MicronVPN recopila la siguiente información relacionada con su uso de VPN: Nombre de usuario e ID de sesión Almacenamos una identificación de usuario única generada por computadora y generamos identificaciones de sesión bajo esta identificación de usuario. Esta identificación de usuario permite el anonimato completo al tiempo que garantiza una conexión exitosa. Tipo de usuario y conexión Almacenamos el tipo de usuario para brindar un servicio premium a nuestros usuarios. Recopilamos información sobre si ha establecido con éxito una VPN, en qué ubicación de VPN y la IP del servidor (pero no su dirección IP saliente asignada). Esta información mínima nos ayuda a brindar soporte técnico, como identificar problemas de conexión y permitir que los ingenieros de MicronVPN identifiquen y solucionen problemas de red.
+
+La entrada y salida de datos transferidos (en MB) se registra en intervalos de 5 minutos con marcas de tiempo. Recopilamos información sobre la suma total de la transferencia de datos que consume. Aunque proporcionamos una transferencia de datos ilimitada, si notamos que un solo usuario impulsa más tráfico que miles de usuarios combinados, lo que afecta la calidad del servicio para otros usuarios de MicronVPN, podemos cancelar la membresía. Además, la dirección IP interna del servidor VPN que conecta se registra con fines de soporte técnico.
+
+Resumen:
+
+Recopilamos estadísticas de uso mínimas para mantener nuestra calidad de servicio. Podemos saber, por ejemplo, que nuestro cliente se conectó a nuestra ubicación VPN de Londres el martes y transfirió un total de 823 MB de datos en un período de 24 horas. Nuestro cliente no puede ser identificado de manera única como responsable de ningún comportamiento específico porque su patrón de uso se superpone con miles de otros clientes de MicronVPN que también se conectaron a la misma ubicación el mismo día. Hemos diseñado nuestros sistemas para eliminar categóricamente el almacenamiento de datos confidenciales. Podemos saber QUE un cliente ha utilizado MicronVPN, pero nunca sabemos CÓMO ha utilizado nuestro servicio. Mantenemos nuestro firme compromiso con la privacidad de nuestros clientes al no poseer ningún dato relacionado con las actividades en línea de un usuario. Diagnósticos de conexión VPN anónimos e informes de fallas (puede ser turned por el usuario) Recopilamos datos de análisis anonimizados utilizados para el diagnóstico de la red al instalar la aplicación. Usamos estos datos en nuestras herramientas de operaciones de red para ayudar a optimizar las velocidades de la red y permitirnos identificar problemas relacionados con aplicaciones específicas, servidores VPN o ISP.
+
+La información que recibimos es completamente anónima y no se puede vincular a usuarios individuales de MicronVPN (es decir, no almacenamos qué usuario envió qué datos y no almacenamos direcciones IP). Si opta por compartir esta información con MicronVPN, recopilaremos la siguiente información: Información de diagnóstico sobre cómo falló un intento de conexión VPN. Datos de pruebas de velocidad Informes de accidentes, también sin ninguna información de identificación personal. Dependiendo de su plataforma, estos se envían a estos terceros: iOS: Crashlytics (propiedad de Google). Consulte la Política de privacidad de Crashlytics. iOS: manzana. Consulte la Política de privacidad de Apple. iOS comparte estos datos de forma predeterminada. Puede desactivar eso en la configuración de iOS como se describe aquí. iOS: base de fuego. Consulte los Términos de servicio de Firebase. iOS: Amplitud. Consulte los Términos de servicio de Amplitude. Tras la activación de cualquier aplicación Titan VPN, se le preguntará si desea compartir estos datos. Jurisdicción y ley aplicable La misión principal de Titan VPN es mantener su información privada.
+
+En servicio de esta misión, la sede central y el lugar de negocios registrado de MicronVPN se encuentran en la República de Estonia (Estonia), que tiene leyes más estrictas con respecto a la divulgación de información que la mayoría de los países. Si recibimos una orden legal válida del Tribunal Superior de Estonia, es importante tener en cuenta que MicronVPN no recopila ninguna dirección IP, historial de navegación, datos de tráfico o consultas de DNS que puedan usarse para identificar a un usuario específico. Almacenamiento de información relacionada con correo electrónico, chat en vivo y formularios de comentarios MicronVPN mantiene registros de cualquier correspondencia, preguntas, quejas o cumplidos que nos envíe a través de nuestro Sitio o Servicios, junto con nuestra respuesta.
+
+Dependiendo de cómo se comunique con MicronVPN, podemos recopilar su dirección de correo electrónico y cualquier información adicional que nos proporcione. Tener registros de correspondencia completos permite a nuestro personal brindar la mejor experiencia de atención al cliente posible. Utilizamos una plataforma de terceros para la correspondencia de soporte: intercomunicador para correos electrónicos, tickets de soporte y chat en vivo. Cuando se comunica con nosotros utilizando estas plataformas, sus registros de correspondencia, incluidos su nombre y dirección de correo electrónico, se almacenan en sus sistemas. Ambas plataformas utilizan prácticas de seguridad modernas y encriptación HTTPS. Medidas de seguridad para proteger su información MicronVPN utiliza la mejor seguridad física, de procedimiento y técnica de su clase con respecto a nuestras oficinas e instalaciones de almacenamiento de información para evitar cualquier pérdida, mal uso, acceso no autorizado, divulgación o modificación de la información. El acceso a la información del usuario está restringido al personal que requiere dicho acceso para realizar sus funciones laborales. Si bien creemos que estos sistemas son sólidos, es importante comprender que ninguna medida de seguridad de datos en el mundo puede ofrecer una protección del 100 %. Los servidores están alojados en centros de datos con sólidas prácticas de seguridad. Ninguno de estos centros de datos requiere que recopilemos o almacenemos datos de tráfico o información personal relacionada con su uso de los Servicios VPN. Si algún centro de datos nos solicitara que registráramos dichos datos, cesaríamos de inmediato las operaciones con dicho centro de datos y encontraríamos opciones alternativas. Incluso si un gobierno se apoderara físicamente de uno de nuestros servidores VPN y lograra romper el cifrado de su disco, no habría registros ni información que vinculara a ningún usuario individual con un evento, sitio web o comportamiento en particular.
+
+Galletas
+
+MicronVPN no recopila cookies. Consentimiento y restricciones de edad Al utilizar el Sitio, el Contenido, las Aplicaciones, el Software o los Servicios, usted acepta que su información se maneje como se describe en nuestros Términos de servicio y Política de privacidad. Los Servicios están destinados a adultos mayores de 18 años. Si cree que su hijo nos ha proporcionado información, infórmenos de inmediato. Cambios a la Política de privacidad Podemos cambiar nuestra Política de privacidad de vez en cuando, sin previo aviso, de conformidad con las leyes y los principios de privacidad aplicables. Su uso continuado del Sitio o los Servicios constituye su aceptación de nuestra Política de Privacidad. Cómo ponerse en contacto con MicronVPN Si tiene alguna pregunta sobre nuestra Política de privacidad y cómo manejamos su información, no dude en contactarnos en zionstudiosapps@gmail.com";
+
+"t_terms" = "Este documento de Términos de servicio (los Términos) describe los términos y condiciones de uso de los servicios VPN (los Servicios o el Servicio) proporcionados por (MicronVPN). Estos Términos también rigen el uso y el acceso al contenido de MicronVPN (el Contenido), que incluye el sitio web de MicronVPN (el Sitio), las aplicaciones (las Aplicaciones) y cualquier software proporcionado por MicronVPN (el Software).
+
+Al aceptar estos Términos, también acepta la Política de privacidad (Política de privacidad), que puede leer aquí.
+
+Aceptación Al acceder al Contenido o los Servicios, usted acepta en su nombre o en el de aquellos a quienes representa (usted) cumplir y estar legalmente obligado por estos Términos en su totalidad. Estos Términos constituyen un acuerdo legalmente vinculante (el Acuerdo) entre usted y MicronVPN. Si no está de acuerdo con alguna parte de los Términos, no puede usar nuestros Servicios. Al crear una cuenta para usar nuestros Servicios, usted declara que tiene al menos dieciocho (18) años de edad o que es una entidad legal válida, y que la información de registro que ha proporcionado es precisa y completa.
+Modificación MicronVPN puede actualizar los Términos de vez en cuando sin previo aviso. Si continúa utilizando los Servicios, el Contenido, el Sitio, las Aplicaciones o el Software de MicronVPN después de que estos cambios entren en vigencia, entonces acepta los Términos revisados. La versión actual de los Términos está disponible en el Sitio. Usted comprende y acepta que es su obligación revisar estos Términos de vez en cuando para mantenerse informado sobre las reglas y obligaciones actuales. La notificación sobre cualquier cambio fundamental en los Términos se proporcionará a los suscriptores a través de un mensaje de correo electrónico o una actualización del Sitio. Su uso del Contenido o los Servicios después de los cambios a estos Términos constituye su aceptación de los Términos modificados.
+Política de privacidad MicronVPN está comprometido con su privacidad y no recopila ni registra el historial de navegación, el destino del tráfico, el contenido de datos o las consultas de DNS de los Suscriptores conectados a nuestra VPN. Solo recopilamos información que es necesaria para la entrega adecuada del Sitio y los Servicios. En aras de la claridad y la transparencia, hemos colocado toda la información relacionada con la recopilación de datos en un documento separado conocido como Política de privacidad, que está disponible en el Sitio. Revise la Política de privacidad en su totalidad para obtener una comprensión clara de cómo manejamos sus datos confidenciales.
+Los servicios MicronVPN de suscripciones están disponibles para usted al registrarse en el Sitio. Al suscribirse a los Servicios, acepta convertirse en suscriptor (Suscriptor) durante el período que haya elegido. Una lista completa de planes de suscripción y precios está disponible en la aplicación. MicronVPN se reserva el derecho de modificar las tarifas de suscripción o instituir nuevas tarifas en cualquier momento con un aviso previo razonable publicado en el Sitio o enviado por correo electrónico. Cualquier cambio en el precio no afectará el período de suscripción actual del Suscriptor y entrará en vigencia al renovar la suscripción. Cuando sea compatible con su método de pago, los planes se renuevan automáticamente de forma predeterminada al finalizar el plazo de facturación. De forma predeterminada, el plazo de renovación tiene la misma duración que el plazo de facturación de la suscripción original. La tarifa de suscripción se cargará automáticamente al último método de pago que seleccionó. Si desea interrumpir la renovación automática, puede iniciar sesión en el Sitio y desactivar la renovación automática. De forma predeterminada, la renovación automática se activa cuando utiliza un método de pago que admite la renovación automática (como una tarjeta de crédito o Paypal), y se desactiva cuando utiliza un método de pago que no admite la renovación automática (como bitcoin ). Cada suscripción paga le otorga una
+licencia para usar en tres (3) dispositivos diferentes en un momento dado. Si desea usar los Servicios en más de tres dispositivos a la vez, puede (i) usar MicronVPN en su enrutador
+comprar planes de suscripción adicionales, o
+comprar licencias adicionales a través de la opción de licencia por volumen. Para obtener más información sobre el programa de licencias por volumen, comuníquese con soporte.
+Política de reembolso Los reembolsos son manejados por Apple App Store.
+Política de uso aceptable Se puede acceder a los Servicios de MicronVPN desde cualquier parte del mundo, por lo que es su responsabilidad evaluar si el uso del Sitio, las Aplicaciones, el Software o los Servicios cumple con las leyes y regulaciones locales. Cada vez que utilice el Sitio, las Aplicaciones, el Software o los Servicios, debe cumplir con estos Términos y las leyes, reglamentos y políticas aplicables. Usted comprende que es su responsabilidad mantener la confidencialidad de la información de su cuenta Titan VPN. Usted es responsable de toda la actividad de su cuenta. Si alguna vez descubre o sospecha que alguien ha accedido a su cuenta sin su autorización, le recomendamos que nos informe de inmediato para que podamos revocar las credenciales de su cuenta y emitir otras nuevas. MicronVPN tiene como objetivo brindar el mejor servicio posible a todos nuestros Suscriptores. En ese sentido, le requerimos que no haga un mal uso de nuestro Contenido o Servicios. Un mal uso se refiere a cualquier uso, acceso o interferencia con el Contenido o los Servicios contrario a los Términos o la ley aplicable.ws y reglamentos. Con el fin de proteger los Servicios contra el uso indebido o para dañar a alguien, MicronVPN se reserva el derecho de tomar las medidas apropiadas cuando nuestros Servicios se utilicen de manera contraria a estos Términos y las leyes aplicables. Usted acepta que MicronVPN puede cancelar su cuenta, sin proporcionar un reembolso por los Servicios ya pagados, si hace un mal uso del Servicio. Al usar nuestros Servicios, usted acepta no: Enviar ni transmitir anuncios o contenido no solicitado (es decir, spam) a través del Servicio. Enviar, publicar o transmitir a través del Servicio cualquier contenido que sea ilegal, odioso, amenazante, insultante o difamatorio; infrinja los derechos de propiedad intelectual; invade la privacidad; o incita a la violencia. Cargue, descargue, publique, reproduzca o distribuya cualquier contenido protegido por derechos de autor o cualquier otro derecho de propiedad sin haber obtenido primero el permiso del propietario del contenido de propiedad. Cargue, descargue, publique, reproduzca o distribuya cualquier contenido que incluya representaciones sexuales o explícitas de menores. Participar en cualquier conducta que restrinja o inhiba a cualquier otro Suscriptor de usar o disfrutar el Servicio. Intentar acceder, sondear o conectarse a dispositivos informáticos sin la debida autorización (es decir, cualquier forma de piratería). Intente compilar, utilizar o distribuir una lista de direcciones IP operadas por MicronVPN junto con el Servicio. Utilizar el Servicio para fines distintos a los lícitos.
+Licencia Sujeto a su cumplimiento de estos Términos, MicronVPN le otorga una licencia no exclusiva y limitada para descargar y usar el Software. Queda estrictamente prohibido modificar, distribuir a terceros no autorizados, realizar ingeniería inversa o utilizar el Software de cualquier otra forma que no esté expresamente autorizada por MicronVPN. El uso de cualquier material que esté sujeto a los derechos de propiedad intelectual de MicronVPN está prohibido a menos que MicronVPN le haya proporcionado un consentimiento explícito por escrito.
+Idioma y traducción del contenido Todo nuestro contenido se escribió originalmente en inglés. Cualquier traducción de nuestro Contenido se realiza sobre la base del mejor esfuerzo. No podemos garantizar la exactitud del Contenido traducido. En caso de discrepancia entre el Contenido traducido y el Contenido en inglés, prevalecerá el Contenido en inglés.
+Sitios web de terceros MicronVPN puede proporcionarle contenido perteneciente a Terceros (Terceros) o enlaces que conducen a sitios web de terceros. MicronVPN no es responsable de la disponibilidad del contenido provisto por Terceros, ya que no están bajo el control o supervisión de MicronVPN, y pueden tener diferentes términos de uso y políticas. Su acceso a través de nuestros Servicios a cualquier sitio web, servicio o contenido proporcionado por Terceros no indica ninguna relación entre MicronVPN y dichos Terceros.
+Descargos de responsabilidad Nos esforzaremos por evitar interrupciones en el Sitio y los Servicios. Sin embargo, estos se proporcionan tal cual y según estén disponibles, y no garantizamos, ya sea de forma expresa o implícita, la precisión de los materiales o la información proporcionada a través del Sitio o el Servicio, o su idoneidad para un propósito particular. Renunciamos expresamente a todas las garantías de cualquier tipo, ya sean expresas o implícitas, incluidas, entre otras, las garantías de comerciabilidad o idoneidad para un propósito particular, o la no infracción. No ofrecemos ninguna garantía de que los Servicios cumplirán con sus requisitos, o que serán ininterrumpidos, oportunos, seguros o libres de errores, o que los defectos, si los hubiere, serán corregidos. Usted reconoce que accede al Sitio y a los Servicios bajo su propio riesgo y discreción. La cobertura, las velocidades, las ubicaciones de los servidores y la calidad del servicio VPN pueden variar. MicronVPN intentará que el Servicio esté disponible en todo momento. Sin embargo, el Servicio puede estar sujeto a falta de disponibilidad debido a una variedad de factores fuera de nuestro control, que incluyen, entre otros, emergencias; fallas de servicios de terceros; o problemas o limitaciones de transmisión, equipo o red, interferencia o intensidad de la señal; y puede ser interrumpido, rechazado, limitado o restringido. No somos responsables de datos, mensajes o páginas perdidos, no entregados, retrasados ​​o mal dirigidos debido a interrupciones o problemas de rendimiento con el Servicio, los servicios de comunicación o las redes. Podemos imponer límites de uso o de Servicio, suspender el Servicio, cancelar cuentas de VPN o bloquear ciertos tipos de uso a nuestro exclusivo criterio para proteger a los Suscriptores o al Servicio. No se garantiza la precisión y puntualidad de los datos recibidos; pueden ocurrir retrasos u omisiones. MicronVPN se reserva el derecho de investigar asuntos que consideramos violaciones de estos Términos. Podemos, pero no estamos obligados a hacerlo, a nuestro exclusivo criterio y sin previo aviso, eliminar, bloquear, filtrar o restringir por cualquier medio cualquier material o información que consideremos violaciones reales o potenciales de las restricciones establecidas en estos Términos. y cualquier otra actividad que pueda someter a MicronVPN o a nuestros clientes a responsabilidad. MicronVPN se exime de toda responsabilidad por cualquier falla de nuestra parte para evitar que dichos materiales o información seang transmitido a través del Servicio y/o en su dispositivo informático.
+Limitaciones de responsabilidad MicronVPN no será responsable y no tendrá responsabilidad de ningún tipo ante ningún Suscriptor u otra persona por cualquier pérdida o daño en el que usted incurra en caso de: cualquier falla o interrupción del Sitio o Servicio; cualquier acto u omisión de un Tercero involucrado en hacer que el Sitio o el Servicio o los datos contenidos en ellos estén disponibles para usted; cualquier otra causa relacionada con su acceso o uso, o incapacidad para acceder o usar, cualquier parte del Sitio o su Contenido; sus interacciones en el Sitio o Servicio; su incumplimiento de este Acuerdo; el costo de adquisición de bienes o servicios sustitutos; o acceso no autorizado o alteración de sus transmisiones o datos, ya sea que las circunstancias que dieron lugar a tal causa hayan estado o no bajo el control de MicronVPN o de cualquier proveedor que proporcione software, servicios o soporte para el Sitio o el Servicio. En ningún caso, MicronVPN, sus socios, afiliados, subsidiarios, miembros, funcionarios o empleados serán responsables de ningún daño directo, especial, indirecto, consecuente o incidental, ni de ninguna otra pérdida o daño de ningún tipo, incluso si tienen sido advertido de la posibilidad de ello. Lo anterior no se aplicará en la medida en que lo prohíba la ley aplicable.
+Indemnización Usted acepta indemnizar, defender y mantener indemne a MicronVPN, sus funcionarios, directores, empleados, miembros, socios, agentes y proveedores, y sus respectivos afiliados, funcionarios, directores, empleados, miembros, accionistas, socios y agentes, de todos y cada uno de los reclamos y gastos, incluidos los honorarios de abogados, que surjan de su uso del Contenido y el Servicio, incluidos, entre otros, su violación de este Acuerdo. Podemos, a nuestro exclusivo criterio, asumir la defensa y el control exclusivos de cualquier asunto sujeto a indemnización por su parte. Sin embargo, la asunción de tal defensa o control por nuestra parte no excusará ninguna de sus obligaciones de indemnización.
+Elección de la ley Este Acuerdo se regirá e interpretará de acuerdo con las leyes de Estonia, excluyendo sus reglas que rigen los conflictos de leyes.
+Arbitraje Todas las disputas que surjan de este Acuerdo o estén relacionadas con este Acuerdo o el uso del Sitio o los Servicios se resolverán de acuerdo con las Reglas de Arbitraje (Reglas) del Centro Internacional para la Resolución de Disputas (ICDR) por un árbitro (Árbitro) designado de acuerdo con con dichas Reglas. El arbitraje se llevará a cabo en Tallinn, Estonia, a menos que todas las partes acuerden lo contrario mediante un acuerdo por escrito firmado. El Árbitro debe estar calificado y tener experiencia en el área de redes informáticas, incluido, entre otros, Internet. El Árbitro tendrá la autoridad para permitir un intercambio acelerado de documentos, pero cualquier descubrimiento se limitará a solicitudes de documentos e interrogatorios. El Árbitro no tendrá poder ni autoridad para agregar o restar valor a este Acuerdo, y los costos del arbitraje correrán a cargo por igual, excepto como se describe a continuación. El arbitraje se llevará a cabo en un calendario acelerado. El arbitraje debe concluirse y emitirse un laudo a más tardar ciento veinte (120) días después de la presentación de la demanda de arbitraje, a menos que todas las partes en el procedimiento de arbitraje acuerden por escrito una prórroga o continuación. Sujeto a cualquier ley aplicable que establezca lo contrario, usted acepta que cualquier causa de acción que surja de o esté relacionada con el uso de nuestro Sitio o Servicios debe iniciarse dentro de un (1) año después de que se acumule la causa de acción, o dicha acción será permanentemente prohibido. En el caso de que MicronVPN sea el demandado en dicho arbitraje, los daños otorgados contra MicronVPN no pueden exceder el monto que usted haya pagado a MicronVPN por el uso del Servicio. El Árbitro tendrá la autoridad para otorgar cualquier medida cautelar, preliminar o temporal en una forma sustancialmente similar a la que de otro modo otorgaría un tribunal de justicia. El Árbitro no tendrá autoridad para otorgar daños punitivos. El laudo arbitral resultante se puede ejecutar, o se puede solicitar una medida cautelar, en cualquier tribunal de jurisdicción competente en Estonia. Los costos razonables (incluidos todos los costos del arbitraje) y los honorarios de los abogados se otorgarán a la parte que inició el arbitraje, en caso de que esa parte no prevalezca en el arbitraje. Las partes sujetas a esta disposición de arbitraje incluyen MicronVPN, sus funcionarios, directores y empleados, y cualquier empresa o entidad legal que sea una empresa matriz, subsidiaria o hermana de MicronVPN, o con la que MicronVPN haya contratado para brindar servicios a los Suscriptores a través de MicronVPN.
+Disposiciones finales Si alguna disposición de este Acuerdo se considera inválida o inaplicable, esa disposición se interpretará de manera consistente con la ley aplicable para reflejar la intención original de la disposición, y las disposiciones restantes de este Acuerdo permanecerán en pleno vigor y efecto. Cualquier falta de ejercicio o aplicaciónce cualquier derecho o la disposición de este acuerdo no constituirá una renuncia a tal derecho o disposición.";
