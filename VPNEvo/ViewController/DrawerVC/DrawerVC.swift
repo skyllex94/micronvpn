@@ -289,7 +289,7 @@ class DrawerVC: UIViewController, UITableViewDelegate, UITableViewDataSource, MF
                     let signOutAction = UIAlertAction(title: "Sign Out", style: .default) { (action) in
                         print("Sign Out tapped")
                         do { try Auth.auth().signOut() }
-                        catch { print("already logged out") }
+                        catch { print("Already logged out") }
                     }
                     
                     let cancelAction = UIAlertAction(title: "Cancel", style: .cancel)
@@ -328,12 +328,12 @@ class DrawerVC: UIViewController, UITableViewDelegate, UITableViewDataSource, MF
                     
                 }else{
                     
-                    if Singleton.sharedInstance.isPurchased{
+                    // if Singleton.sharedInstance.isPurchased{
                         let signinVC = self.storyboard?.instantiateViewController(withIdentifier: "SignInVC") as! SignInVC
                         (sideMenuController?.rootViewController as? UINavigationController)?.pushViewController(signinVC, animated: true)
-                    }else{
-                        self.moveToSubscription()
-                    }
+                    // }else{`
+                        // self.moveToSubscription()
+                    // }
                 }
             }
         }
